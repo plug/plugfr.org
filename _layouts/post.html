@@ -1,0 +1,10 @@
+---
+layout: default
+---
+<article>
+  <header>
+    <h2><a href="{{ page.url }}">{{ page.title }}</a></h2>
+    <p>publié le <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%d %B %Y" }}</time> dans <a href="" class="category">réunions</a></p>
+  </header>
+  {{ content }}
+</article>

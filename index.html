@@ -1,0 +1,23 @@
+---
+layout: home
+title: PLUG &ndash; Provence Linux User Group
+---
+{% assign first_post = site.categories.reunions.first %}
+<article>
+  <header>
+    <h2><a href="{{ first_post.url }}">{{ first_post.title }}</a></h2>
+    <p>publié le <time datetime="{{ first_post.date | date_to_xmlschema }}">{{ first_post.date | date: "%d %B %Y" }}</time> dans <a href="" class="category">réunions</a></p>
+  </header>
+  {{ first_post.content }}
+</article>
+
+{% for post in site.posts limit:5 offset:1 %}
+<article>
+  <header>
+    <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+  </header>
+</article>
+{% endfor %}
+<nav class="articles-nav">
+  <p>&larr; voir les <a href="/archives.html" rel="index" title="Archives des articles">articles plus anciens</a></p>
+</nav>

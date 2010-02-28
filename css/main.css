@@ -1,0 +1,251 @@
+body {
+  background-color: #efefef;
+}
+
+#wrapper {
+  margin: 0 auto;
+  text-align: left;
+/*  border: 1px solid #efefef;
+  border-size: 0 1px;*/
+  background-color: #fff;
+}
+
+#main-header {
+  border-bottom: 3px solid #efefef;
+  margin-bottom: 20px;
+  padding-top: 10px;
+}
+#main-footer {
+  border-top: 3px solid #efefef;
+  margin-top: 10px;
+  padding: 10px 0;
+  text-align: center;
+  font-size: 12px;
+}
+
+#about {
+  padding-top: 5px;
+}
+
+article {
+  border-bottom: 1px solid #ccc;
+}
+article .chapo,
+article .content,
+article .ps {
+  clear: both;
+}
+
+#archives section h3 {
+  text-align: right;
+  font-size: 72px;
+  color: #ccc;
+}
+#archives section .date {
+  text-align: right;
+  width: 200px;
+}
+
+nav.articles-nav {
+  margin: 5px 0;
+}
+
+code {
+  font-size: 12px;
+	font-family: "DejaVu sans Mono", monaco, consolas, monospace;
+}
+ 
+pre {
+  font-size: 12px;
+	font-family: "DejaVu sans Mono", monaco, consolas, monospace;
+	background: #efefef;
+  padding: 1em;
+	overflow: auto;
+}
+
+.img-left {
+  float: left;
+  margin: 0 1em 1em 0;
+}
+.img-right {
+  float: right;
+  margin: 0 1em 0 1em;
+}
+
+#logo {
+  text-align: center;
+}
+
+.hide { display: none; }
+
+
+body {
+  text-align: center;
+	font: 15px georgia, "times new roman", times, serif;
+	line-height: 1.4;
+	background-color: #fff;
+}
+h1, h2, h3, h4, h5, h6 {
+	font-family: helvetica, "helvetica neue", arial, verdana, sans-serif;
+	letter-spacing: -.03em;
+	color: #333;
+}
+h1, h2, h3 {
+  font-weight: bold;
+}
+:link, :visited {
+  color: #4085cd;
+  text-decoration: none;
+}
+:link:hover, :visited:hover {
+  text-decoration: underline;
+  color: #008040;
+}
+
+/*body{font:13px/1.5 'Helvetica Neue',Arial,'Liberation Sans',FreeSans,sans-serif}*/
+:link:focus, :visited:focus{outline:1px dotted invert}
+hr{border:0 #ccc solid;border-top-width:1px;clear:both;height:0}
+h1{font-size:25px}
+h2{font-size:23px}
+h3{font-size:21px}
+h4{font-size:19px}
+h5{font-size:17px}
+h6{font-size:15px}
+ol{list-style:decimal}
+ul{list-style:disc}
+li{margin-left:30px}
+p,dl,hr,h1,h2,h3,h4,h5,h6,ol,ul,pre,table,address,fieldset{margin-bottom:1em}
+
+blockquote {
+  margin: 5px 30px;
+  border-left: 3px solid #ccc;
+  padding: 0 10px;
+  
+}
+
+#main-header h1 {
+  font-size: 48px;
+  margin-bottom: 0px;
+/*  color: #efefef;*/
+}
+article {
+  padding: 0 0 10px 0;
+  margin: 0 0 10px 0;
+}
+article header h2 {
+  margin: 0;
+}
+article header p {
+  font-size: 12px;
+/*  margin-bottom: ;*/
+}
+article .chapo {
+  line-height: 1.7em;
+  font-weight: bold;
+}
+
+
+#main-nav .nav-block {
+  padding: 10px;
+	font-family: helvetica, "helvetica neue", arial, verdana, sans-serif;
+	font-size: 13px;
+  border-bottom: 1px solid #efefef;
+/*  padding-bottom: 5px;*/
+}
+#main-nav .nav-subcol {
+  float: left;
+  width: 48%;
+}
+#main-nav .nav-subcol.first {
+  margin-right: 2%;
+}
+#main-nav .nav-subcol.last {
+  margin-left: 2%;
+}
+#main-nav .nav-block h3 {
+/*  margin: 15px -10px 5px -10px;*/
+  margin: 0 0 5px 0;
+/*  text-transform: uppercase;*/
+/*  font-weight: normal;*/
+  font-size: 18px;
+}
+#main-nav .nav-block h4 {
+  margin: 0 0 5px 0;
+  font-size: 12px;
+}
+
+#main-nav .nav-block ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+#main-nav .nav-block p,
+#main-nav .nav-block li {
+  margin: 0;
+  padding: 0;
+}
+
+#nav-archives #archives-search {
+  margin-bottom: 0.75em;
+}
+#nav-archives #archives-search label {
+  font-weight: bold;
+  font-size: 12px;
+}
+#nav-archives #search-field {
+/*  width: 100%;*/
+margin-left: 1em;
+}
+
+#nav-archives li {
+  padding: 0.25em 0;
+}
+#archives-dates li {
+  display: inline;
+}
+
+#contact-form {
+  margin-right: 30%;
+}
+#contact-form fieldset {
+  margin: 8px 0 7px;
+}
+#contact-form fieldset {
+  border-top: 1px solid #efefef;
+}
+
+#contact-form .form-row {
+  padding: 0.5em 0;
+  margin: 0;
+}
+
+#contact-form .form-row label {
+  width: 30%;
+  margin-left: 1%;
+  float: left;
+  display: block;
+}
+#contact-form .form-row input {
+  width: 20em;
+}
+#contact-form #submit-row input {
+  width: auto;
+  margin-left: 31%;
+}
+#contact-form #message-row textarea {
+  clear: both;
+  width: 68%;
+}
+
+
+sup {
+  font-size: 0.85em;
+  vertical-align: top;
+}
+
+
+/*.external {
+  background: transparent url('/img/aliasCursor.png') 0% 50% no-repeat;
+  padding-left: 20px;
+}*/

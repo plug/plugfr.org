@@ -1,0 +1,15 @@
+---
+layout: archives
+title: Tous les articles, classés par date de publication
+---
+<header>
+  <h2 class="grid_9 push_3">Tous les articles, classés par date de publication</h2>
+</header>
+<section id="articles-2009">
+  <h3 class="grid_3 alpha" name="2009">2009</h3>
+  <ul class="grid_9 omega">
+  {% for post in site.posts %}
+    <li>toto<time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date }}</time> &mdash; <a href="{{ post.url }}" class="title">{{ post.title }}</a></li>
+  {% endfor %}
+  </ul>
+</section>

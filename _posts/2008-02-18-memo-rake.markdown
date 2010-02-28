@@ -1,0 +1,48 @@
+--- 
+title: "Mémo Rake"
+layout: post
+---
+Rake est un outil puissant et extensible, distribué avec Rails. Il permet d'automatiser toutes sortes d'actions. EN voici un rappel de quelques unes peu citées dans les tutorial commun mais pour autant très utiles :
+
+<dl>
+<dt>rake db:migrate:redo</dt><dd>Rollbacks the database one migration and re migrate up. If you want to rollback more than one step, define STEP=x</dd>
+<dt>rake db:migrate:reset</dt><dd>Resets your database using your migrations for the current environment</dd>
+<dt>rake db:reset</dt><dd>Drops and recreates the database from db/schema.rb for the current environment. </dd>
+<dt>rake db:rollback</dt><dd>Rolls the schema back to the previous version. Specify the number of steps with STEP=n</dd>
+<dt>rake db:schema:dump</dt><dd>Create a db/schema.rb file that can be portably used against any DB supported by AR</dd>
+<dt>rake db:schema:load</dt><dd>Load a schema.rb file into the database</dd>
+</dl>
+
+<dl>
+<dt>rake log:clear</dt><dd>Truncates all *.log files in log/ to zero bytes</dd>
+</dl>
+
+<dl>
+<dt>rake tmp:cache:clear</dt><dd>Clears all files and directories in tmp/cache</dd>
+<dt>rake tmp:clear</dt><dd>Clear session, cache, and socket files from tmp/</dd>
+<dt>rake tmp:create</dt><dd>Creates tmp directories for sessions, cache, and sockets</dd>
+<dt>rake tmp:pids:clear</dt><dd>Clears all files in tmp/pids</dd>
+<dt>rake tmp:sessions:clear</dt><dd>Clears all files in tmp/sessions</dd>
+<dt>rake tmp:sockets:clear</dt><dd>Clears all files in tmp/sockets</dd>
+</dl>
+
+<dl>
+<dt>rake notes</dt><dd>Enumerate all annotations</dd>
+<dt>rake notes:fixme</dt><dd>Enumerate all FIXME annotations</dd>
+<dt>rake notes:optimize</dt><dd>Enumerate all OPTIMIZE annotations</dd>
+<dt>rake notes:todo</dt><dd>Enumerate all TODO annotations</dd>
+</dl>
+
+<dl>
+<dt>rake rails:freeze:edge</dt><dd>Lock to latest Edge Rails or a specific revision with REVISION=X (ex: REVISION=4021) or a tag with TAG=Y (ex: TAG=rel_1-1-0)</dd>
+<dt>rake rails:freeze:gems</dt><dd>Lock this application to the current gems (by unpacking them into vendor/rails)</dd>
+<dt>rake rails:unfreeze</dt><dd>Unlock this application from freeze of gems or edge and return to a fluid use of system gems</dd>
+<dt>rake rails:update</dt><dd>Update both configs, scripts and public/javascripts from Rails</dd>
+<dt>rake rails:update:configs</dt><dd>Update config/boot.rb from your current rails install</dd>
+<dt>rake rails:update:javascripts</dt><dd>Update your javascripts from your current rails install</dd>
+<dt>rake rails:update:scripts</dt><dd>Add new scripts to the application script/ directory</dd>
+</dl>
+<dl>
+  
+<dt>rake routes</dt><dd>Print out all defined routes in match order, with names.</dd>
+</dl>

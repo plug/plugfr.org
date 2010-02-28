@@ -1,0 +1,5 @@
+auto: true
+pygments: false
+lsi: false
+paginate: 5
+permalink: /:categories/:title/
