@@ -1,0 +1,52 @@
+---
+layout: default
+title: Tous les articles, classés par catégorie
+body_id: archives
+---
+<header>
+  <h2>{{ page.title }}</h2>
+</header>
+
+{% if site.categories.reunions.size > 0 %}
+<section id="articles-{{reunions}}">
+  <h3 class="grid_2 alpha"><a name="{{reunions}}"></a>Réunions</h3>
+  <ul class="grid_7 omega">
+  {% for post in site.categories.reunions %}
+    <li><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: '%d %B' }}</time> &mdash; <a href="{{ post.url }}" class="title">{{ post.title }}</a></li>
+  {% endfor %}
+  </ul>
+</section>
+{% endif %}
+
+{% if site.categories.informations.size > 0 %}
+<section id="articles-{{informations}}">
+  <h3 class="grid_2 alpha"><a name="{{informations}}"></a>Informations</h3>
+  <ul class="grid_7 omega">
+  {% for post in site.categories.informations %}
+    <li><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: '%d %B' }}</time> &mdash; <a href="{{ post.url }}" class="title">{{ post.title }}</a></li>
+  {% endfor %}
+  </ul>
+</section>
+{% endif %}
+
+{% if site.categories.emploi.size > 0 %}
+<section id="articles-{{emploi}}">
+  <h3 class="grid_2 alpha"><a name="{{emploi}}"></a>Emploi</h3>
+  <ul class="grid_7 omega">
+  {% for post in site.categories.emploi %}
+    <li><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: '%d %B' }}</time> &mdash; <a href="{{ post.url }}" class="title">{{ post.title }}</a></li>
+  {% endfor %}
+  </ul>
+</section>
+{% endif %}
+
+{% if site.categories.divers.size > 0 %}
+<section id="articles-{{divers}}">
+  <h3 class="grid_2 alpha"><a name="{{divers}}"></a>Divers</h3>
+  <ul class="grid_7 omega">
+  {% for post in site.categories.divers %}
+    <li><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: '%d %B' }}</time> &mdash; <a href="{{ post.url }}" class="title">{{ post.title }}</a></li>
+  {% endfor %}
+  </ul>
+</section>
+{% endif %}

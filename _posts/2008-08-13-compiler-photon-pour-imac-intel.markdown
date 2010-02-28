@@ -1,6 +1,7 @@
 --- 
 title: Compiler Photon pour iMac Intel
 layout: post
+categories: divers
 ---
 [_English at the end_](#english)
 

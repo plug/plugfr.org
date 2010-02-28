@@ -26,41 +26,45 @@ body {
 #about {
   padding-top: 5px;
 }
-
-article {
-  border-bottom: 1px solid #ccc;
-}
 article .chapo,
 article .content,
 article .ps {
   clear: both;
 }
-
+#archives section {
+  clear: both;
+}
 #archives section h3 {
   text-align: right;
-  font-size: 72px;
+  font-size: 64px;
+  line-height: 64px;
   color: #ccc;
 }
 #archives section .date {
   text-align: right;
-  width: 200px;
+/*  width: 200px;*/
+}
+#archives section ul {
+  margin-left: 0;
+  list-style-type: none;
 }
 
 nav.articles-nav {
   margin: 5px 0;
+  text-align: center;
 }
 
 code {
   font-size: 12px;
-	font-family: "DejaVu sans Mono", monaco, consolas, monospace;
+  font-family: "DejaVu sans Mono", monaco, consolas, monospace;
 }
  
 pre {
   font-size: 12px;
-	font-family: "DejaVu sans Mono", monaco, consolas, monospace;
-	background: #efefef;
+  font-family: "DejaVu sans Mono", monaco, consolas, monospace;
+  background: #efefef;
   padding: 1em;
-	overflow: auto;
+  overflow: auto;
 }
 
 .img-left {
@@ -81,14 +85,14 @@ pre {
 
 body {
   text-align: center;
-	font: 15px georgia, "times new roman", times, serif;
-	line-height: 1.4;
-	background-color: #fff;
+  font: 15px georgia, "times new roman", times, serif;
+  line-height: 1.4;
+  background-color: #fff;
 }
 h1, h2, h3, h4, h5, h6 {
-	font-family: helvetica, "helvetica neue", arial, verdana, sans-serif;
-	letter-spacing: -.03em;
-	color: #333;
+  font-family: helvetica, "helvetica neue", arial, verdana, sans-serif;
+  letter-spacing: -.03em;
+  color: #333;
 }
 h1, h2, h3 {
   font-weight: bold;
@@ -132,23 +136,52 @@ article {
   padding: 0 0 10px 0;
   margin: 0 0 10px 0;
 }
+article header,
+#home article:first-child header {
+  border-bottom: 1px solid #efefef;
+  margin-bottom: 0.75em;
+  padding-bottom: 0.75em;
+}
 article header h2 {
   margin: 0;
 }
 article header p {
   font-size: 12px;
-/*  margin-bottom: ;*/
+  margin-bottom: 0;
 }
 article .chapo {
   line-height: 1.7em;
   font-weight: bold;
 }
 
+#home article {
+  border-bottom: 1px solid #ccc;
+}
+#home article header {
+  margin-bottom: 0;
+  padding-bottom: 0;
+  border: 0;
+}
+
+aside {
+  float: right;
+  width: 30%;
+  padding: 0 0 0 1em;
+  margin: 0 0 1em 1em;
+  border-left: 2px solid #efefef;
+  font-size: 85%;
+  font-style: italic;
+}
+aside .title {
+  font-size: 14px;
+  font-weight: bold;
+  margin-bottom: 0.5em;
+}
 
 #main-nav .nav-block {
   padding: 10px;
-	font-family: helvetica, "helvetica neue", arial, verdana, sans-serif;
-	font-size: 13px;
+  font-family: helvetica, "helvetica neue", arial, verdana, sans-serif;
+  font-size: 13px;
   border-bottom: 1px solid #efefef;
 /*  padding-bottom: 5px;*/
 }
@@ -238,6 +271,18 @@ margin-left: 1em;
   width: 68%;
 }
 
+table td,
+table th {
+  padding: 2px 5px;
+  text-align: left;
+}
+table thead {
+  border-bottom: 1px solid #ccc;
+}
+table tbody th,
+table tbody td {
+  border-bottom: 1px solid #efefef;
+}
 
 sup {
   font-size: 0.85em;
