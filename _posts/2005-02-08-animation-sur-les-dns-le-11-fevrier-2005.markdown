@@ -13,18 +13,12 @@ L'équipe du bureau a le plaisir de vous inviter pour participer à une petite a
 
 
 **Descriptif:**
-<code>
 Il sera question de comprendre le principe général des DNS et de parler de **Bind**, un serveur DNS que vous pouvez installer chez vous !
-</code>
 
 
 **Niveau:**
-<code>
-Orange (pour les utilisateurs)
-</code>
+> Orange (pour les utilisateurs)
 
 
 **Animateurs:**
-<code>
 Grégory Colpart
-</code>
