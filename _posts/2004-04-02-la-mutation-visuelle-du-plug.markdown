@@ -26,7 +26,7 @@ Vous pouvez visionner la planche des déclinaisons afin de donner  votre avis ou
 La version allongée sera utilisée comme logo principal et la version "dans le cercle" sera utilisée comme "favicon" pour le site.
 
 ### HTML de base vers XHTML/CSS valide ###
-Cette étape consistera à recoder complètement les gabarits d'affchage du site afin qu'il respèctent les recommendations du W3C en terme de compatibilité, d'accessibilité, ... en tirant parti des technologies telles que XHTML, CSS, ECMAScript, DOM, ... qui sont très bien supportées par les navigateurs courrants depuis IE5 (win & mac), Netscape 6, Mozilla 1.2 (je crois) et tous ses dérivés, Konqueror, ...
+Cette étape consistera à recoder complètement les gabarits d'affchage du site afin qu'il respèctent les recommendations du W3C en terme de compatibilité, d'accessibilité, ... en tirant parti des technologies telles que XHTML, CSS, ECMAScript, DOM, ... qui sont très bien supportées par les navigateurs courrants depuis IE5 (win &amp; mac), Netscape 6, Mozilla 1.2 (je crois) et tous ses dérivés, Konqueror, ...
 
 J'ai déjà écris une [petite liste de liens intéressants à propos du webdesign standard](art10) pour en savoir plus sur le sujet.
 

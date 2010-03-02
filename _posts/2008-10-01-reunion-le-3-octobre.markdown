@@ -16,7 +16,7 @@ Nous devions tenir la première des 2 réunions spéciales "Services web et infr
 
 Pour ce vendredi, nous prévoyons une réunion normale, mélée de discussions informatiques (ou pas) autour des traditionnelles bières (et autres joyeusetés que vous amènerez avec vous) et des inoubliables pizza (que nous commanderons (peut-être plus tôt que d'habitude d'ailleurs).
 
-Comme d'habitude, elle se tiendra à La Bo[a]()te.
+Comme d'habitude, elle se tiendra à La Bo[a]te.
 
 <quote>**Adresse** :  
 [La Boate](http://laboate.com/)  
@@ -24,7 +24,7 @@ Comme d'habitude, elle se tiendra à La Bo[a]()te.
 13001 Marseille</quote>
 
 Pour vous rendre à la soirée, vous pouvez consulter [ce plan](http://laboate.com/images/plan-laboate.jpg), ou voir les itinéraires et photos sur Mappy, PagesJaunes ou encore [GoogleMap](http://maps.google.com/maps?q=35,%20rue%20de%20la%20Paix,%20Marseille,%2013001,%20France)...
-- Pour les détails des réunions, [c'est ici](art2).
+- Pour les détails des réunions, [c'est ici](/association/les-reunions-du-plug/).
 - Visitez la [carte géographique](http://plugfr.org/map/) des membres!
 
 

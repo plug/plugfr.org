@@ -4,7 +4,7 @@ layout: post
 categories: emploi
 spip_id: 49
 ---
-[Offre sur Monster.fr](http://offres.monster.fr/getjob.asp?JobID=30707077&WT.mc_n=MKT000125)
+[Offre sur Monster.fr](http://offres.monster.fr/getjob.asp?JobID=30707077&amp;WT.mc_n=MKT000125)
 
 Société de Conseil et d'ingénierie informatique, Elan IT ReSource compte plus de 5000 consultants à travers l'Europe. Dans le cadre de son développement, l'agence de Sophia-Antipolis recherche:
 

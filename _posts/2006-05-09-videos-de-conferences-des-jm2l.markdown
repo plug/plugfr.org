@@ -11,7 +11,6 @@ Voici des vidéos issues de présentations dans des conférences techniques, sur
 
 [http://jm2l.polytech.unice.fr/](http://jm2l.polytech.unice.fr/)
 
-<p class="ps">
+----
 http://free-electrons.com/communaute/videos/conferences/
 http://jm2l.polytech.unice.fr/
-</p>

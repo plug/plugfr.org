@@ -20,4 +20,4 @@ Référence: VP-PHP/em
 **Coordonnées du contact**  
 Vincent PETIT  
 Sogeti - Transiciel  
-[Offre sur Monster.fr](http://offres.monster.fr/getjob.asp?JobID=31006155&WT.mc_n=MKT000125)
+[Offre sur Monster.fr](http://offres.monster.fr/getjob.asp?JobID=31006155&amp;WT.mc_n=MKT000125)

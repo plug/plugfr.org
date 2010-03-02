@@ -13,15 +13,15 @@ Elle sera organisée avec l'association [Marseille-Wireless](http://marseille-wi
 
 **ADRESSE**
 
-<ul>
-<h3>La Vie de Quartier<br />
-1, rue Antoine PONS<br />
-13004 Marseille<br /></h3>
-</ul>
+
+<h3>La Vie de Quartier
+1, rue Antoine PONS
+13004 Marseille
+
 
 Pour vous rendre à la soirée, vous pouvez consulter les plans, itinéraires et photos sur [www.mappy.fr](www.mappy.fr) ou [www.pagesjaunes.fr](www.pages-jaunes.fr).
 
 
 **DÉROULEMENT**
-Pour les détails des réunions, [c'est ici](art2).
+Pour les détails des réunions, [c'est ici](/association/les-reunions-du-plug/).
 

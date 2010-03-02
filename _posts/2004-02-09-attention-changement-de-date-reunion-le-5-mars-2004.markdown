@@ -10,6 +10,6 @@ Pour cause de vacances scolaires, la réunion de mars n'aura pas lieu le premier
 
 Il y aura probablement une thématique OpenBSD : présentation, spécificités, avantages, inconvénients, ...
 
-Pour les détails des réunions, [c'est ici](art2).
+Pour les détails des réunions, [c'est ici](/association/les-reunions-du-plug/).
 
 Venez nombreux.

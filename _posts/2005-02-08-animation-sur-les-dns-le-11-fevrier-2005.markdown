@@ -7,23 +7,23 @@ spip_id: 39
 Bonjour,
 
 
-L'équipe du bureau a le plaisir de vous inviter pour participer à une petite animation sur les **DNS** (Domaine Name Server) (lieu et date de la [réunion](art2)).
+L'équipe du bureau a le plaisir de vous inviter pour participer à une petite animation sur les **DNS** (Domaine Name Server) (lieu et date de la [réunion](/association/les-reunions-du-plug/)).
 
 - A partir de ** 20:30 !!! ** ne soyez pas en retard!
 
-<br /><br />
+
 **Descriptif:**
 <code>
 Il sera question de comprendre le principe général des DNS et de parler de **Bind**, un serveur DNS que vous pouvez installer chez vous !
 </code>
 
-<br /><br />
+
 **Niveau:**
 <code>
 Orange (pour les utilisateurs)
 </code>
 
-<br /><br />
+
 **Animateurs:**
 <code>
 Grégory Colpart

@@ -19,8 +19,7 @@ Nous vous donnons rendez-vous le vendredi 8 Octobre 2004 chez José Mans à part
 
 
 
-<p class="ps">
-Pour les détails des réunions, [c'est ici](art2).
+----
+Pour les détails des réunions, [c'est ici](/association/les-reunions-du-plug/).
 
 A vendredi.
-</p>

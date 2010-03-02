@@ -11,4 +11,4 @@ Média Technologies
 1, rue Pythéas  
 13001 Marseille
 
-Pour les détails sur les réunions, [c'est ici](art2)
+Pour les détails sur les réunions, [c'est ici](/association/les-reunions-du-plug/)

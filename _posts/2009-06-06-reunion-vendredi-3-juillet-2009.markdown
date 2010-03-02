@@ -4,9 +4,9 @@ layout: post
 categories: reunions
 spip_id: 155
 ---
-<p class="chapo">
+<div class="chapo">
 Le PLUG organise une réunion le vendredi 3 juillet 2009 à partir de 19h00.
-</p>
+</div>
 
 Vers 20h00, nous commencerons par quelques "**présentation flash**", liées aux logiciels libres sous forme de mini-exposés successifs d'environ 5 minutes (ouvert à toute personne intéressée).  
 N'hésitez pas à préparer quelque chose de très court, même si vous n'avez pas l'impression de maîtriser le sujet, le but et d'échanger sur quelque chose de nouveau (au moins pour vous).
@@ -28,8 +28,8 @@ Selon la tradition de l'auberge espagnole, les participants à la réunion sont 
 
 
 
-<p class="ps">
-La réunion se tiendra à La Bo[a]()te.
+----
+La réunion se tiendra à La Bo[a]te.
 
 <quote>**Adresse** :  
 [La Boate](http://laboate.com/)  
@@ -37,6 +37,5 @@ La réunion se tiendra à La Bo[a]()te.
 13001 Marseille</quote>
 
 Pour vous rendre à la soirée, vous pouvez consulter [ce plan](http://laboate.com/images/plan-laboate.jpg), ou voir les itinéraires et photos sur Mappy, PagesJaunes ou encore [GoogleMap](http://maps.google.com/maps?q=35,%20rue%20de%20la%20Paix,%20Marseille,%2013001,%20France)...
-- Pour les détails des réunions, [c'est ici](art2).
+- Pour les détails des réunions, [c'est ici](/association/les-reunions-du-plug/).
 - Visitez la [carte géographique](http://plugfr.org/map/) des membres!
-</p>

@@ -4,11 +4,11 @@ layout: post
 categories: emploi
 spip_id: 135
 ---
-<p class="chapo">
+<div class="chapo">
 Jeune Entreprise Innovante<br>
-La société e-toxic a reçu le statut de Jeune Entreprise Innovante, décerné par le Ministère de la Recherche et de la Technologie.  Dans cette optique, notre société renforce les équipes de  R&D pour  concentrer ses efforts sur la veille stratégique & technologique et mettre en place des nouveaux services web émergents.
+La société e-toxic a reçu le statut de Jeune Entreprise Innovante, décerné par le Ministère de la Recherche et de la Technologie.  Dans cette optique, notre société renforce les équipes de  R&amp;D pour  concentrer ses efforts sur la veille stratégique &amp; technologique et mettre en place des nouveaux services web émergents.
 
-</p>
+</div>
 
 Fonction <br>
 e-Toxic, société en forte croissance, dans un environnement motivant, recherche un Développeur PHP  passionné d’informatique pour travailler autour de communautés virtuelles à très forte audience.
@@ -22,7 +22,7 @@ Vos missions<br>
 Au sein de notre équipe, vous participez aux développements et améliorez les applications web existantes.
 
 Salaire<br>
-•Salaire fixe + variable + plan épargne (300%) + plan retraite (300%) + tickets restaurant
+* Salaire fixe + variable + plan épargne (300%) + plan retraite (300%) + tickets restaurant
 
 Type de contrat : <br>
 CDI

@@ -4,7 +4,7 @@ layout: post
 categories: animations
 spip_id: 76
 ---
-<br />
+
 
 **Plan de la présentation:**
 
@@ -18,13 +18,13 @@ spip_id: 76
 
 <code>
 </code>
-<br /><br />
+
 **Niveau:**
 <code>
 Orange (initié)
 </code>
 
-<br /><br />
+
 **Animateur:**
 
 

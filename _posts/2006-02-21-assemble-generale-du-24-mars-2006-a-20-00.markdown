@@ -4,22 +4,22 @@ layout: post
 categories: reunions
 spip_id: 72
 ---
-<p class="chapo">
+<div class="chapo">
 A partir de 20:00 
-</p>
+</div>
 
 
 **Lieu :**
 Siège social de l'association, soit au domicile du Président chez :
-<ul>
-<h3>José Mans<br />
-18, Rue clovis Hugues<br />
-13003 MARSEILLE<br />
-</h3>
+
+<h3>José Mans
+18, Rue clovis Hugues
+13003 MARSEILLE
+
 <h5>Tel : 08 73 703 702 (Appel local)</h5>
 
-</ul>
-<p>[**Plan pour s'y rendre**](http://www13.mappy.com/mappymoi/map?data_id=66D03E84-F9CF-42A2-AEA0-B1F745943A8C&hint=2037)  </p>
+
+<p>[**Plan pour s'y rendre**](http://www13.mappy.com/mappymoi/map?data_id=66D03E84-F9CF-42A2-AEA0-B1F745943A8C&amp;hint=2037)  </p>
 
 
 Ordre du jour :

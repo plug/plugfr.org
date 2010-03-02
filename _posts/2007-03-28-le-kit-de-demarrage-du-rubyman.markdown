@@ -4,9 +4,9 @@ layout: post
 categories: animations
 spip_id: 90
 ---
-<p class="chapo">
+<div class="chapo">
 Une petite liste de liens pour démarrer la pratique de Ruby On Rails dans les meilleures conditions. Beaucoup sont des points d'accès sur des sources d'informations plus importantes! :o)
-</p>
+</div>
 
 **D'abord en premier, lire et relire : ça !**
 
@@ -24,11 +24,11 @@ Et évidemment les références en ligne pour [ror](http://api.rubyonrails.org/)
 - Programmation le langage Ruby : [Programming Ruby: The Pragmatic Progammer's Guide](http://www.rubycentral.com/book/ref_c_object.html)
 
 
-**Ajax & JavaScripts.**
+**Ajax &amp; JavaScripts.**
 
 - [script.aculo.us - web 2.0 javascript](http://script.aculo.us/)
 - [Ajaxariffic Autocomplete with Scriptaculous](http://www.slash7.com/articles/2005/08/13/ajaxariffic-autocomplete-with-scriptaculous)
-- [Painless JavaScript Using Prototype JavaScript & DHTML Tutorials](http://www.sitepoint.com/article/painless-javascript-prototype/2)
+- [Painless JavaScript Using Prototype JavaScript &amp; DHTML Tutorials](http://www.sitepoint.com/article/painless-javascript-prototype/2)
 
 
 **Ror Comment Faire.**

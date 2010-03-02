@@ -19,5 +19,5 @@ La Vie de Quartier
 
 Pour vous rendre à la soirée, vous pouvez consulter les plans, itinéraires et photos sur [www.mappy.fr](www.mappy.fr) ou [www.pagesjaunes.fr](www.pages-jaunes.fr).
 
-- Pour les détails des réunions, [c'est ici](art2).
+- Pour les détails des réunions, [c'est ici](/association/les-reunions-du-plug/).
 - Visitez la [carte géographique](http://plugfr.org/map/) des membres!

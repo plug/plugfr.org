@@ -4,9 +4,9 @@ layout: post
 categories: divers
 spip_id: 5
 ---
-<p class="chapo">
+<div class="chapo">
 La liste de discussion detaxe@aful.org tente de défendre les utilisateurs contre la vente forcée et illégale de logiciels et organise la Journée nationale de la Détaxe Windows et de la transparence sur le prix des logiciels, le 6 décembre 2003.
-</p>
+</div>
 
 Des textes de lois (code de la consommation) interdisent de forcer la vente liée de "matériel de bureau" et les "concessions brevets et licences", et obligent les vendeurs de donner un devis de ce qui est vendu. Ainsi, la vente forcée des logiciels avec du matériel informatique est illégale et l'on devrait pouvoir acheter le matériel seul. Par exemple, les périphériques (graveur, scanner,...) doivent pouvoir être achetés sans "logiciel accompagnant", et les ordinateurs sans Microsoft Windows, Microsoft Office,etc.
 

@@ -7,12 +7,12 @@ spip_id: 41
 Bonjour,
 
 
-L'équipe du bureau a le plaisir de vous inviter pour participer à une animation sur Gentoo ([http://www.gentoofr.org/presentation.html](http://www.gentoofr.org/presentation.html)) (lieu et date de la [réunion](art2)).
+L'équipe du bureau a le plaisir de vous inviter pour participer à une animation sur Gentoo ([http://www.gentoofr.org/presentation.html](http://www.gentoofr.org/presentation.html)) (lieu et date de la [réunion](/association/les-reunions-du-plug/)).
 
 - A partir de ** 20:30 !!! ** ne soyez pas en retard!
 
 
-<br /><br />
+
 **Descriptif:**
 <code>
 -- Historique
@@ -22,13 +22,13 @@ L'équipe du bureau a le plaisir de vous inviter pour participer à une animatio
 -- Démonstrations ur 2 ordinateurs portables.
 </code>
 
-<br /><br />
+
 **Niveau:**
 <code>
 Orange (averti)
 </code>
 
-<br /><br />
+
 **Animateurs:**
 <code>
 Arnaud André

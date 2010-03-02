@@ -29,17 +29,17 @@ WASTE apporte d'autres fonctionnalités comme la possibilité de chatter avec le
 
 La navigation étant très simplifiée il est facile de se balader dans les dossiers (répertoires) de vos amis, comme il est aussi simple de régler des détails de droits à la quantité de télécharger ou sa vitesse par utilisateur ou globale!
 
-Waste existe sur plusieurs platformes comme **Linux, FreeBSD, Mac OSX et Microsoft Windows version 32bits**. Source et binaire sont disponibles sur<br />
-[http://sourceforge.net/project/showfiles.php?group_id=82356](http://sourceforge.net/project/showfiles.php?group_id=82356)<br />
-Il existe des extensions à<br />
-[http://waste.sourceforge.net/index.php?id=projects](http://waste.sourceforge.net/index.php?id=projects)<br />
+Waste existe sur plusieurs platformes comme **Linux, FreeBSD, Mac OSX et Microsoft Windows version 32bits**. Source et binaire sont disponibles sur
+[http://sourceforge.net/project/showfiles.php?group_id=82356](http://sourceforge.net/project/showfiles.php?group_id=82356)
+Il existe des extensions à
+[http://waste.sourceforge.net/index.php?id=projects](http://waste.sourceforge.net/index.php?id=projects)
 comme une inteface graphique pour X-window à base de GTK2.
 
-Vous le trouverez à [http://waste.sourceforge.net/](http://waste.sourceforge.net/)<br />
+Vous le trouverez à [http://waste.sourceforge.net/](http://waste.sourceforge.net/)
 
-Pour ceux qui veulent un exemple de configuration facile rendez-vous à <br />
+Pour ceux qui veulent un exemple de configuration facile rendez-vous à 
 [http://www.forum-libre.com/protox.biz/tutorial/tutorial_waste_wasted.htm](http://www.forum-libre.com/protox.biz/tutorial/tutorial_waste_wasted.htm)
-<br />
+
 Pour toute autre question, je vous propose d'utiliser le formulaire réponse de ce site. (en bas de l'article)
 
 

@@ -59,7 +59,7 @@ semble. Pas mis à jour depuis mars 2003
 *Commentaires* : je n'ai pas testé mais l'idée est géniale !
 
 **LinuxDefender Live** : 
-[http://www.bitdefender.com/bd/site/presscenter.php?menu_id=25&n_id=58](http://www.bitdefender.com/bd/site/presscenter.php?menu_id=25&n_id=58)  
+[http://www.bitdefender.com/bd/site/presscenter.php?menu_id=25&amp;n_id=58](http://www.bitdefender.com/bd/site/presscenter.php?menu_id=25&amp;n_id=58)  
 *Desc* : basé sur Knoppix pour sauver des Windows  
 *Version actuelle* : 1.5.6  
 *Commentaires* : Antivirus, antispam (intérêt pour un Live-CD ?), 

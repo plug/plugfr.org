@@ -121,8 +121,7 @@ Le président de l'association doit accomplir toutes les formalités de déclara
 
 **Fait à Marseille, le 25 septembre 1999**
 
-<p class="ps">
+----
 Le texte des statuts est ici retranscrit tel qu'il est disponible en Préfécture (mise en page, orthographe, ...).
 
 La composition du bureau, bien qu'inscrite dans les stauts n'est plus valable. Plusieurs changements ont eu lieu et la composition actuelle du bureau est disponible en Préfécture et à tout moment par contact sur les [listes](rub4) ou le [canal IRC](art16) du PLUG.
-</p>

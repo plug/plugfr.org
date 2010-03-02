@@ -14,5 +14,5 @@ vert/orange (débutant motivé)
 **Animateur:**  
 Jérémy Lecour, avec l'aide de Grégory Colpart
 
-**A consulter** la présentation : [http://plugfr.org/s5/WRT/](http://plugfr.org/s5/WRT/)[[Ne pas oublier de cliquer sur l'ouverture des notes (bouton en forme de = à côté de Ø &lt;&lt; &gt;&gt; en bas à droite)]()]
+**A consulter** la présentation : [http://plugfr.org/s5/WRT/](http://plugfr.org/s5/WRT/)[[Ne pas oublier de cliquer sur l'ouverture des notes (bouton en forme de = à côté de Ø &amp;lt;&amp;lt; &amp;gt;&amp;gt; en bas à droite)]()]
 - l'archive téléchargeable :  [http://plugfr.org/s5/WRT.tgz](http://plugfr.org/s5/WRT.tgz)

@@ -7,12 +7,12 @@ spip_id: 59
 Bonjour,
 
 
-L'équipe du bureau a le plaisir de vous inviter pour participer à une animation sur IPv6 (lieu et date de la [réunion](art2)).
+L'équipe du bureau a le plaisir de vous inviter pour participer à une animation sur IPv6 (lieu et date de la [réunion](/association/les-reunions-du-plug/)).
 
 - A partir de ** 20:30 !!! ** ne soyez pas en retard !
 
 
-<br /><br />
+
 **Plan de la présentation:**
 <code>
 -- Brefs rappels sur les réseaux TCP/IP
@@ -31,13 +31,13 @@ Pour que l'on puisse expérimenter IPv6 tous ensemble, merci d'apporter le maté
 [2]() : c'est le cas de beaucoup de navigateurs récents : Mozilla, Firefox, Safari, Internet Explorer, lynx, links, Galeon, Dillo, etc.
 
 
-<br /><br />
+
 **Niveau:**
 <code>
 Orange (averti)
 </code>
 
-<br /><br />
+
 **Animateurs:**
 
 

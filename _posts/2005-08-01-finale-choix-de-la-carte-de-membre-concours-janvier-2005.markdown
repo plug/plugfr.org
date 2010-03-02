@@ -16,6 +16,5 @@ La carte ayant remportée la première place est :
  *Dessinée par* :
 **Virginie ANDREU** *Analyste ergonome*
 
-<p class="ps">
+----
 Rappel des cartes proposées : <a href="http://plugfr.org/spip/breve.php3?id_breve=29">Brève nÂ° 29</a>
-</p>

@@ -4,13 +4,13 @@ layout: post
 categories: divers
 spip_id: 82
 ---
-<p class="chapo">
+<div class="chapo">
 ----
 C'est nous les meilleurs, les autres sont marginaux voire, inexistants!
 Nos produits sont les plus adaptés, les plus efficaces et tous l'ont compris. D'ailleurs, vous les utilisez quotidiennement.
 Alors si vous voulez Ãªtre comme les autres : rejoignez-nous en achetant nos produits!
 ----
-</p>
+</div>
 
 ### L'explication ###
 ----
@@ -30,7 +30,5 @@ Pour approfondire votre information et nourrir votre réflexion, je vous recomma
 
 
 
-<p class="ps">
+----
 Connaissant la vérité et sachant le bonheur relatif à celle-ci, que vaut-il mieux : le bonheur ou la vérité ? :)
-
-</p>

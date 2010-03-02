@@ -5,14 +5,14 @@ subtitle: 16 Décembre 2005
 categories: animations
 spip_id: 61
 ---
-<p class="chapo">
+<div class="chapo">
 
-L'équipe du bureau a le plaisir de vous inviter pour participer à une animation sur le logiciel OpenSSH (lieu et date de la [réunion](art2)).
+L'équipe du bureau a le plaisir de vous inviter pour participer à une animation sur le logiciel OpenSSH (lieu et date de la [réunion](/association/les-reunions-du-plug/)).
 
 - A partir de ** 20:30 !!! ** ne soyez pas en retard !
-</p>
+</div>
 
-<br />
+
 
 **Plan de la présentation:**
 <code>
@@ -23,13 +23,13 @@ L'équipe du bureau a le plaisir de vous inviter pour participer à une animatio
 -- Conclusion
 
 </code>
-<br /><br />
+
 **Niveau:**
 <code>
 Orange (initié à confirmé)
 </code>
 
-<br /><br />
+
 **Animateur:**
 
 

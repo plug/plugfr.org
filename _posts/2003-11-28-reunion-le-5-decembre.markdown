@@ -6,6 +6,6 @@ spip_id: 8
 ---
 Nous vous donnons rendez-vous le vendredi 5 décembre 2003 à la Maison Orangina à partir de 19h.
 
-Pour les détails des réunions, [c'est ici](art2).
+Pour les détails des réunions, [c'est ici](/association/les-reunions-du-plug/).
 
 A vendredi.

@@ -5,7 +5,7 @@ subtitle: Modélisation et Logiciels Libres
 categories: animations
 spip_id: 65
 ---
-<br />
+
 
 **Plan de la présentation:**
 
@@ -15,13 +15,13 @@ spip_id: 65
 
 <code>
 </code>
-<br /><br />
+
 **Niveau:**
 <code>
 Vert (tout public)
 </code>
 
-<br /><br />
+
 **Animateur:**
 
 

@@ -4,9 +4,9 @@ layout: post
 categories: association
 spip_id: 86
 ---
-<p class="chapo">
+<div class="chapo">
 Depuis le temps, il fallait bien quelques photos pour sentir l'ambiance du PLUG afin de rassurer les plus craintifs.
-</p>
+</div>
 
 <doc7|left>
 <doc8|left>

@@ -13,4 +13,4 @@ Média Technologies
 
 À l'occasion de cette réunion se dérouleront l'assemblée générale du PLUG, la dégustation des légendaires pizzas, discussions autour de l'informatique et les logiciels libres.
 
-Pour les détails sur les réunions, [c'est ici](art2)
+Pour les détails sur les réunions, [c'est ici](/association/les-reunions-du-plug/)

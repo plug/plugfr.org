@@ -4,9 +4,9 @@ layout: post
 categories: emploi
 spip_id: 143
 ---
-<p class="chapo">
+<div class="chapo">
 La société Cybercartes, éditrice du site d'envoi de cartes virtuelles [www.cybercartes.com](www.cybercartes.com) recherche un développeur PHP pour renforcer son équipe.
-</p>
+</div>
 
 Voici le profil de développeur recherché :
 - Langages : PHP 5, Javascript, HTML, CSS

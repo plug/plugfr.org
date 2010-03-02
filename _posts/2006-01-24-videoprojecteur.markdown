@@ -8,7 +8,6 @@ Nous remercions les associés de la société [Evolix](http://www.evolix.fr) pou
 
 Toute l'équipe du bureau, ainsi que ses membres, remercie Evolix pour cette prestation entièrement gratuite.
 
-<p class="ps">
+----
 Vous aussi, participez à la vie du PLUG grÃ¢ce à vos services (prÃªt, dont...)
 [Contactez-nous!](http://plugfr.org/spip/contact.php)
-</p>
