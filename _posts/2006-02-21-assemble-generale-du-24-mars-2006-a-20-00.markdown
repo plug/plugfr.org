@@ -4,9 +4,9 @@ layout: post
 categories: reunions
 spip_id: 72
 ---
-<div class="chapo">
+<p class="chapo">
 A partir de 20:00 
-</div>
+</p>
 
 
 **Lieu :**

@@ -5,9 +5,9 @@ subtitle: Pour l'année 2005
 categories: reunions
 spip_id: 64
 ---
-<div class="chapo">
+<p class="chapo">
 Réunion à partir de 16:00
-</div>
+</p>
 
 <h1 style="color: red">**ATTENTION**
 Assemblé Générale ANNULÉE

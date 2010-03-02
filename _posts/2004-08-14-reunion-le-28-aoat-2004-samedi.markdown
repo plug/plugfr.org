@@ -11,11 +11,10 @@ bienvenus :), pour le :
 
               28 Août 2004 à partir de 15h
 
-**Au Programme :**
--------
+### Au Programme ###
 
-*Atelier*
--------
+
+#### Atelier ####
 
 En plus des grillades, José Mans vous propose ses connaissances en programmation (PHP/Perl/C) (niveau initiation et plus). Deux séances sont programmée à 16h et 18h (durée 1 heure) pour animer un petit groupe exclusivement concentré sur la programmation.
 
@@ -25,8 +24,7 @@ Dans le cas où aucun groupe ne se forme autour de la programmation l'équipe p�
 
 
 
-*CONSEILS*
---------
+#### CONSEILS ####
 
 Seuls l'eau, l'electricité, quelques machines/moniteurs et l'accès internet sont disponibles.
 
@@ -38,18 +36,12 @@ Pour le reste c'est comme à son habitude dans ce genre de soirée, ce qu'on y t
 
 
 
-*Addresse*
---------
+#### Addresse ####
 
-<pre>
-      18, rue Clovis Hugues
-      13003 MARSEILLE
-
-      [Le Plan](http://www.mappy.com/PlanPerso/CurIeuX/0)
-</pre>
+> 18, rue Clovis Hugues
+> 13003 MARSEILLE
+> [Le Plan](http://www.mappy.com/PlanPerso/CurIeuX/0)
 
 a+
-
-
 
 *PS: Même si je suis seul avec mon chat, je ferais se barbecue (promis le chat n'y passera pas) MIAM!*

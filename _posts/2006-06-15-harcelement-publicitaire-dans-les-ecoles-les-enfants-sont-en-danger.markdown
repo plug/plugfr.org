@@ -4,13 +4,13 @@ layout: post
 categories: divers
 spip_id: 82
 ---
-<div class="chapo">
+<p class="chapo">
 ----
 C'est nous les meilleurs, les autres sont marginaux voire, inexistants!
 Nos produits sont les plus adaptés, les plus efficaces et tous l'ont compris. D'ailleurs, vous les utilisez quotidiennement.
 Alors si vous voulez Ãªtre comme les autres : rejoignez-nous en achetant nos produits!
 ----
-</div>
+</p>
 
 ### L'explication ###
 ----
@@ -24,6 +24,7 @@ L'école comme l'entreprise ont leurs propres rôles et leurs propres objectifs 
 Pour approfondire votre information et nourrir votre réflexion, je vous recommande vivement la lecture de cette nouvelle que je nomme "**harcèlement publicitaire**" dans nos écoles :
 
 -* **[L'Éducation nationale vend les produits de Microsoft dès la maternelle](http://www.april.org/articles/communiques/pr-20060609.html)**
+
 
 
 

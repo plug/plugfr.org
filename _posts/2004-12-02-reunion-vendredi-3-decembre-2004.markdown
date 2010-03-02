@@ -7,9 +7,9 @@ spip_id: 30
 Réunion du PLUG ce vendredi 3 décembre 2004 vers 19h/20h.
 La réunion est bien sûr ouverte à tous et se déroule au Vieux Port à l'adresse suivante : 
   
-Média Technologies  
-1, rue Pythéas  
-13001 Marseille
+> Média Technologies  
+> 1, rue Pythéas  
+> 13001 Marseille
 
 À l'occasion de cette réunion se dérouleront l'assemblée générale du PLUG, la dégustation des légendaires pizzas, discussions autour de l'informatique et les logiciels libres.
 

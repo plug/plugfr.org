@@ -12,10 +12,9 @@ Les réunions débutent à 19h et se finissent souvent après minuit. Néanmoins
 
 ### C'est où ? ###
 
-
-<h3>La Bo[a]te
-35 rue de la Paix Marcel Paul
-13001 Marseille
+> La Bo\[a\]te
+> 35 rue de la Paix Marcel Paul
+> 13001 Marseille
 
 
 Pour vous rendre à la soirée, vous pouvez consulter les plans, itinéraires et photos sur [laboate.com](http://laboate.com).
@@ -34,6 +33,7 @@ Certaines fois l'un d'entre nous (pourquoi pas vous) propose un petit exposé po
 Vous pouvez participer aux réunions sans être [adhérant](art31). Les réunions s'adressent à un large public intéressé de près ou de loin par Linux et les logiciels libres.
 
 - Maintenant que vous savez tout, vous n'avez aucune excuse pour ne pas venir !
+
 
 ----
 - Vous trouverez [ici](art4) une description des réunions écrite en 1997.

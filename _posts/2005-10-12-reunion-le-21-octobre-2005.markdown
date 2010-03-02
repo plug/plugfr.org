@@ -11,10 +11,9 @@ La prochaine réunion se tiendra le 21 Octobre à partir de 19:00 jusqu'a 0:00.
 
 **ADRESSE**
 
-
-<h3>La Vie de Quartier
-1, rue Antoine PONS
-13004 Marseille
+> La Vie de Quartier
+> 1, rue Antoine PONS
+> 13004 Marseille
 
 
 *private joke de reg : "la salle sera ouverte parait-il ;)"*

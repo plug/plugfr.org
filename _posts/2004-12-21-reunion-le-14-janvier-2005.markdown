@@ -14,9 +14,9 @@ Elle sera organisée avec l'association [Marseille-Wireless](http://marseille-wi
 **ADRESSE**
 
 
-<h3>La Vie de Quartier
-1, rue Antoine PONS
-13004 Marseille
+> La Vie de Quartier
+> 1, rue Antoine PONS
+> 13004 Marseille
 
 
 Pour vous rendre à la soirée, vous pouvez consulter les plans, itinéraires et photos sur [www.mappy.fr](www.mappy.fr) ou [www.pagesjaunes.fr](www.pages-jaunes.fr).

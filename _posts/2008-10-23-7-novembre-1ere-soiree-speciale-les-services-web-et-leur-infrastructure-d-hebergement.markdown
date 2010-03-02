@@ -1,5 +1,5 @@
 ---
-title: "7 novembre : 1ère soirée spéciale \"Les services web et leur infrastructure d'hébergement\" "
+title: "7 novembre : 1ère soirée spéciale \"Les services web et leur infrastructure d'hébergement\""
 layout: post
 categories: reunions
 spip_id: 145
@@ -22,8 +22,3 @@ Ceux qui souhaitent apprendre à instaler et paramétrer un petit serveur web/ft
 [Une page](http://snipr.com/3qemp) est en cours de construction sur le Wiki du PLUG [http://plugfr.org/wiki/](http://plugfr.org/wiki/).
 
 Pour le reste, la soirée sera proche de l'habitude : chacun apporte un petit quelque chose à grignotter et/ou boire. Nous n'échapperons pas à la traditionnelle commande des pizzas.
-
-<quote>**Adresse** :  
-[La Boate](http://laboate.com/)  
-35, rue de la Paix  
-13001 Marseille</quote>

@@ -4,9 +4,9 @@ layout: post
 categories: animations
 spip_id: 90
 ---
-<div class="chapo">
+<p class="chapo">
 Une petite liste de liens pour démarrer la pratique de Ruby On Rails dans les meilleures conditions. Beaucoup sont des points d'accès sur des sources d'informations plus importantes! :o)
-</div>
+</p>
 
 **D'abord en premier, lire et relire : ça !**
 

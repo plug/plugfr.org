@@ -121,6 +121,7 @@ Le président de l'association doit accomplir toutes les formalités de déclara
 
 **Fait à Marseille, le 25 septembre 1999**
 
+
 ----
 Le texte des statuts est ici retranscrit tel qu'il est disponible en Préfécture (mise en page, orthographe, ...).
 

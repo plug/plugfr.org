@@ -16,10 +16,9 @@ Au programme, outre les pizzas et autres joyeusetés, [une animation sur IPv6](a
 
 **ADRESSE**
 
-
-<h3>La Vie de Quartier
-1, rue Antoine PONS
-13004 Marseille
+> La Vie de Quartier
+> 1, rue Antoine PONS
+> 13004 Marseille
 
 
 

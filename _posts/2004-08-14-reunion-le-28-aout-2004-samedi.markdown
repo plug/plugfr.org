@@ -40,12 +40,9 @@ Pour le reste c'est comme à son habitude dans ce genre de soirée, ce qu'on y t
 *Addresse*
 --------
 
-<pre>
-      18, rue Clovis Hugues
-      13003 MARSEILLE
-
-      [Le Plan](http://www.mappy.com/PlanPerso/CurIeuX/0)
-</pre>
+> 18, rue Clovis Hugues
+> 13003 MARSEILLE
+> [Le Plan](http://www.mappy.com/PlanPerso/CurIeuX/0)
 
 a+
 

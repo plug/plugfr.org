@@ -14,10 +14,9 @@ La prochaine réunion se tiendra le 20 Janvier 2006 à partir de 19:30 jusqu'a 0
 
 **ADRESSE**
 
-
-<h3>La Vie de Quartier
-1, rue Antoine PONS
-13004 Marseille
+> La Vie de Quartier
+> 1, rue Antoine PONS
+> 13004 Marseille
 
 
 

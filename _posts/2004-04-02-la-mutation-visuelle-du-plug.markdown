@@ -14,12 +14,14 @@ La mutation visuelle de l'association se fait en plusieurs étapes :
 A ce jour cette première étape est terminée. Spip nous donne satisfaction pour la publication des articles et des brèves, la syndication, et plein d'autres fonctions pourront être exploitées plus tard.
 
 ### Création du logo ###
-<doc6|left>
+
 Aujourd'hui le Plug n'a pas de logo, et on est tous tombés d'accord sur le fait qu'il en faudrait un. La graphiste avec qui je travaille et moi avons jeté quelques idées sur ce qu'est le PLUG et elle a ensuite créé quelques variantes d'un possible logo.
+
 Les caractéristiques que nous avons dégagées sont les suivantes :
-- un club, une assoc, donc un espace plus ou moins défini ; donc un cercle
-- un propos lié à l'open-source et le logiciel libre ; donc un cercle ouvert, d'autant qu'humainement le cercle n'est pas fermé, au contraire,
-- on peut aussi penser à la rotondité des pizzas, mais là c'est un détournement de l'idée de base :-))
+
+* un club, une assoc, donc un espace plus ou moins défini ; donc un cercle
+* un propos lié à l'open-source et le logiciel libre ; donc un cercle ouvert, d'autant qu'humainement le cercle n'est pas fermé, au contraire,
+* on peut aussi penser à la rotondité des pizzas, mais là c'est un détournement de l'idée de base :-))
 
 Vous pouvez visionner la planche des déclinaisons afin de donner  votre avis ou votre choix si quelquechose vous satisfait.
 

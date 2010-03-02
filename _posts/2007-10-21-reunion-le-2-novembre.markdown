@@ -10,13 +10,4 @@ Le PLUG organise une réunion le vendredi 2 novembre 2007 à partir de 19:00 jus
 
 La soirée sera consacrée à l'approfondissement de l'expérience Ubuntu suite à l'Install Party du 20 octobre.
 
-Elle se tiendra dans le nouveau lieu de réunion du PLUG : La Bo[a]te.
-
-<quote>**Adresse** :  
-[La Boate](http://laboate.com/)  
-35, rue de la Paix  
-13001 Marseille</quote>
-
-Pour vous rendre à la soirée, vous pouvez consulter [ce plan](http://laboate.com/images/plan-laboate.jpg), ou voir les itinéraires et photos sur Mappy, PagesJaunes ou encore [GoogleMap](http://maps.google.com/maps?q=35,%20rue%20de%20la%20Paix,%20Marseille,%2013001,%20France)...
-- Pour les détails des réunions, [c'est ici](/association/les-reunions-du-plug/).
-- Visitez la [carte géographique](http://plugfr.org/map/) des membres!
+Elle se tiendra dans le nouveau lieu de réunion du PLUG : La Bo\[a\]te.

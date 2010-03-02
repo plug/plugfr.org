@@ -5,11 +5,11 @@ subtitle: Création d'activités autour des logiciels libres sur Marseille
 categories: divers
 spip_id: 23
 ---
-<div class="chapo">
-Présentation d'un projet de démocratisation des logiciels libres dans la région marseillaise récompensé par le prix [DÃ‰FI-Jeunes](http://www.defijeunes.fr)
+<p class="chapo">
+Présentation d'un projet de démocratisation des logiciels libres dans la région marseillaise récompensé par le prix [DEFI-Jeunes](http://www.defijeunes.fr)
 
 
-</div>
+</p>
 
 Il y a quelques mois avait été abordé au PLUG le sujet de la création d'activité autour des logiciels libres. Cette rubrique a d'ailleurs été créée après ces discussions.
 

@@ -8,14 +8,6 @@ spip_id: 60
 Pour plus de détails sur le nouvel emplacement de la soire du 16, veuillez suivre ce lien : [contributions](art61)
 
 
-
-
-
-
-
-
-
-
 **ANNONCE**
 Bonjour à tous,
 
@@ -24,10 +16,9 @@ La prochaine réunion se tiendra le 16 Décembre 2005 à partir de 19:00 jusqu'a
 
 **ADRESSE**
 
-
-<h3>La Vie de Quartier
-1, rue Antoine PONS
-13004 Marseille
+> La Vie de Quartier
+> 1, rue Antoine PONS
+> 13004 Marseille
 
 
 
