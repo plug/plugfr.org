@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- 
+	Fichier gull.xml - version du 18/12/2008
+	- Merci de mettre à jour ce fichier en cas de changements dans votre Gull :)
+	- Remplissez bien entre les balises, les explications de chaque balise sont à la fin du fichier.
+	- Enregistrez toujours ce fichier avec l'extension .xml et encodé en UTF-8 :)
+	- Attention à la casse: mettez bien les majuscules où il faut, appuyez-vous sur les exemples.
+	- Attention également aux esperluettes, il faut les transformer pour donner "&amp;" (ceci ne casse pas le bon fonctionnement des urls)
+-->
+
+<!-- 
+# This program is free software; you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation; version 2 of the License.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program; if not, write to the Free Software
+# Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA
+ -->
+
+<informations>
+
+	<presentation>
+		<nom>PLUG</nom>
+		<description>Provence Linux User Group</description>
+		<pays>France</pays>
+		<region>PACA</region>
+		<departement>13</departement>
+		<ville>Marseille</ville>
+		<naissance>1997</naissance>
+		<email>contact@plugfr.org</email>
+		<interlug>http://wiki.interlug-fr.org/doku.php/plug</interlug>
+	</presentation>
+
+	<website>
+		<url>http://plugfr.org/</url>
+		<rss>http://plugfr.org/spip/backend.php3</rss>
+		<forum></forum>
+		<salon>irc://plugfr@irc.freenode.net</salon>
+		<soft>SPIP</soft>
+		<hebergement>Perso (OVH)</hebergement>
+	</website>
+
+	<statistiques>
+		<adherents>20</adherents>
+		<responsable>Jérémy Lecour</responsable>
+		<rdv>1er vendredi du mois</rdv>
+	</statistiques>
+
+	<divers>
+		<modification>20/05/2009</modification>
+	</divers>
+
+</informations>
+
+
+<!--
+	EXPLICATIONS DES BALISES, RIEN À CHANGER ICI :)
+
+	########## PRESENTATION GENERALE
+	nom: votre nom d'association
+	description: courte description de votre association, en quelques phrases
+	pays: votre pays, en prévision d'une éventuelle internationalisation - exemple: "France"
+	region: votre région - exemple: "Île de France"
+	departement: votre département principal, en chiffre tel que 01, 20, etc...
+	ville: ville ou a lieu le plus d'activités, votre "bastion" - exemple: "Paris"
+	naissance: date de naissance du gull - exemple: "2000"
+	email: votre adresse email principale - (pas d'url svp)
+	interlug: url complète de votre page sur le wiki d'interlug-fr.org
+
+	########## VOTRE WEBSITE
+	url: votre adresse complète de votre site internet
+	rss: adresse de votre flux rss principal pour suivre l'actualité de votre gull
+	forum: adresse de votre forum ou de votre liste de discussion
+	salon: adresse complète de votre salon irc ou jabber (mettre en forme les protocoles irc:// et xmpp: svp )
+	soft: programme utilisé par votre site - exemple: "Dotclear"
+	hebergement: type d'hébergement (Dédié, Perso ou Mutualisé) suivi du nom de l'hébergeur - exemple: "Mutualisé (Tuxfamily.org)"
+
+	########## STATISTIQUES
+	adherents: votre nombre d'adhérents - exemple: "33"
+	reponsable: prénom et nom du responsable, si non, dites la forme de la structure en quelques mots
+	rdv: fréquence de vos rendez-vous sur le terrain - exemple: "1 / mois"
+
+	########## DIVERS
+	modification: date de dernière modification de votre fichier - exemple: "01/01/2008"
+
+-->
+
+<!--
+		########## MERCI À VOUS DE CONTRIBUER AUX PROJETS TrouveTonGull.info ET Interlug-fr.org :) ##########
+-->
