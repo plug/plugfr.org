@@ -11,13 +11,13 @@ layout: default
 <nav class="articles-nav">
   <p>
     {% if page.previous %}
-    <span class="nav-previous">&larr; <a href="{{ page.previous.url }}" rel="prev" title="{{ page.previous.title }}">article précédent</a></span>
+    <span class="nav-previous">&larr; <a href="{{ page.previous.url }}" rel="prev" title="{{ page.previous.title }}" accesskey="p">article précédent</a></span>
     {% endif %}
     {% if page.previous and page.next %}
     <span class="pipe">|</span>
     {% endif %}
     {% if page.next %}
-    <span class="nav-next"><a href="{{ page.next.url }}" rel="prev" title="{{ page.next.title }}">article suivant</a> &rarr;</span>
+    <span class="nav-next"><a href="{{ page.next.url }}" rel="prev" title="{{ page.next.title }}" accesskey="n">article suivant</a> &rarr;</span>
     {% endif %}
   </p>
 </nav>
