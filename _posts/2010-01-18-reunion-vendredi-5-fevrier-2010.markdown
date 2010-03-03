@@ -14,6 +14,10 @@ Il y aura également une présentation d'intro de Vim.
 
 Nous tenterons de démarrer une série de présentations courtes sur des commandes ou utilitaires Linux/Unix, par exemple : sed, awk, scp, rsync, dd, ack, … Toutes les idées et initiatives sur le sujet sont bonnes à prendre. Le but est de proposer à tous les niveaux d'utilisation de Linux/Unix des outils pas forcément tous maîtrisés.
 
+### Mise à jour ###
+
+La présentation et le code du bot IRC sont [disponibles](/pub/prog_fonctionnelle_alpmestan.tgz).
+
 ----
 La réunion se tiendra à La Bo\[a\]te.
 
