@@ -40,38 +40,38 @@ Ensuite nous avons encore 2 choix :
 J'ai préféré la seconde option, plus "propre" à mon avis. Voyons donc ce qu'il y a dans notre fichier `/etc/init.d/firewall` :  
 
 {% highlight bash %}
-    #!/bin/sh
-    
-    ruleset_dir=/var/lib/iptables
-    
-    case "$1" in
-    start)
-    echo -n "Loading iptables active ruleset: "
-    /sbin/iptables-restore < $ruleset_dir/active
-    echo "done."
-    ;;
-    stop)
-    echo -n "Loading iptables inactive ruleset: "
-    /sbin/iptables-restore < $ruleset_dir/inactive
-    echo "done."
-    ;;
-    force-reload|restart)
-    $0 stop
-    sleep 1
-    $0 start
-    ;;
-    save)
-    echo -n "Saving iptables ruleset: "
-    cp $ruleset_dir/active $ruleset_dir/active-$(date +%Y%m%d_%H%M)
-    /sbin/iptables-save > $ruleset_dir/active
-    echo "done."
-    ;;
-    *)
-    echo "Usage: /etc/init.d/iptables *start|stop|restart|force-reload*"
-    exit 1
-    esac
-    
-    exit 0
+#!/bin/sh
+
+ruleset_dir=/var/lib/iptables
+
+case "$1" in
+start)
+echo -n "Loading iptables active ruleset: "
+/sbin/iptables-restore < $ruleset_dir/active
+echo "done."
+;;
+stop)
+echo -n "Loading iptables inactive ruleset: "
+/sbin/iptables-restore < $ruleset_dir/inactive
+echo "done."
+;;
+force-reload|restart)
+$0 stop
+sleep 1
+$0 start
+;;
+save)
+echo -n "Saving iptables ruleset: "
+cp $ruleset_dir/active $ruleset_dir/active-$(date +%Y%m%d_%H%M)
+/sbin/iptables-save > $ruleset_dir/active
+echo "done."
+;;
+*)
+echo "Usage: /etc/init.d/iptables *start|stop|restart|force-reload*"
+exit 1
+esac
+
+exit 0
 {% endhighlight %}
 
 On a donc un script qui permet de charger/décharger les règles avec les options **start** et **stop** utilisées automatiquement, mais il peut aussi accepter d'être rechargé avec les options **restart** ou **force-reload**.  
