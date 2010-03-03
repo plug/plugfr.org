@@ -1,0 +1,237 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" 
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<title>PLUG : Quelques mots sur OpenWRT et WRT54GL</title>
+<!-- metadata -->
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="generator" content="S5" />
+<meta name="version" content="S5 1.2a2" />
+<meta name="presdate" content="20070223" />
+<meta name="author" content="Jérémy Lecour" />
+<meta name="company" content="Provence Linux User Group" />
+<meta name="version" content="0.8" />
+<!-- configuration parameters -->
+<meta name="defaultView" content="slideshow" />
+<meta name="controlVis" content="hidden" />
+<!-- style sheet links -->
+<link rel="stylesheet" href="ui/default/slides.css" type="text/css" media="projection" id="slideProj" />
+<link rel="stylesheet" href="ui/default/outline.css" type="text/css" media="screen" id="outlineStyle" />
+<link rel="stylesheet" href="ui/default/print.css" type="text/css" media="print" id="slidePrint" />
+<link rel="stylesheet" href="ui/default/opera.css" type="text/css" media="projection" id="operaFix" />
+<!-- S5 JS -->
+<script src="ui/default/slides.js" type="text/javascript"></script>
+</head>
+<body>
+
+<div class="layout">
+<div id="controls"><!-- DO NOT EDIT --></div>
+<div id="currentSlide"><!-- DO NOT EDIT --></div>
+<div id="header"><img id="logo" src="ui/logo.gif" alt="PLUG" /></div>
+<div id="footer">
+<h1>PLUG – 23 avril 2007</h1>
+<h2>Quelques mots sur OpenWRT et WRT54GL</h2>
+</div>
+
+</div>
+
+
+<div class="presentation">
+
+<div class="slide">
+<h1>Quelques mots sur OpenWRT et WRT54GL</h1>
+<h3>Jérémy Lecour : jeremy.lecour@gmail.com</h3>
+<h4>Avec l'aide de Grégory Colpart : reg@gcolpart.com</h4>
+</div>
+
+
+<div class="slide">
+<h1>OpenWRT, c'est quoi ?</h1>
+
+<ul class="incremental show-first">
+	<li>Firmware pour appareils basés sur les puces Broadcom, dont les routeurs WAN du type Linksys WRT54G</li>
+	<li>Code source GPL, existe grace à la license GPL</li>
+	<li>Distribution Linux optimisée pour système embarqué (peu de place et de ressources)</li>
+	<li>Fonctionnel "sorti de la boîte", mais surtout très extensible et paramétrable</li>
+</ul>
+
+<div class="notes">
+<ol>
+<li>OpenWRT est un micrologiciel (firmware) pour des matériels embarqués basés sur les puces Broadcom, principalement des routeurs Wi-Fi fabriqués par Asus, Belkin, Dell, Linksys, Netgear …
+La plateforme de choix semble être la série WRT54G (Linksys) et le WL500G (Asus), bien qu'il supporte une longue liste d'appareils.</li>
+
+<li>Il existe grace à la license GPL qui a contraint les vendeurs de matériels à publier les codes qu'ils produisaient dès lors qu'ils utilisaient du code GPL.</li>
+
+<li>Linux est un système particulièrement adapté aux systèmes embarqués. Il permet de ne compiler que ce qui est nécessaire afin de limiter au maximum la consommation de place et de ressources. Il permet tout de même de rester sur une même base logicielle très répandue, un environnement Unix/Linux et non sur un système embarqué propriétaire.</li>
+
+<li>Dès l'installation du nouveau firmware on peut utiliser le routeur. Si il a déjà été configuré avec le firmware d'origine, les réglages sont conservés, sinon, il pose les questions de base, comme n'importe quel logiciel fraichement installé.</li>
+</ol>
+</div>
+
+</div>
+
+<div class="slide">
+<h1>Pourquoi utiliser OpenWRT ?</h1>
+
+<ul class="incremental show-first">
+	<li>Personnalisation, sécurité et fiabilité à bas prix.</li>
+	<li>Pas de logiciel propriétaire, souvent mal fini et peu évolutif sur des matériels sous-exploités.</li>
+</ul>
+<div class="notes">
+<ol>
+	<li>Avec un système basé sur Linux, aussi adapté aux tâches réseau qu'aux systèmes embarqués, il est possible de concevoir le logiciel le plus adapté à nos besoins, tout en utilisant au mieux du matériel fiable mais peu cher et très répandu.</li>
+	<li>Les fabriquants de matériel ne se contraignent pas à un resultat qualitatif optimal. Ils sortent des produits qui doivent à peu près bien marcher, en se laissant la possibilité de corriger plus tard les bugs majeurs.
+<br />Ils cherchent à occuper le marché de manière rationnelle en positionnant leurs produits sur un échelle de gamme. Le composant logiciel servant le plus souvent de réglage de niveau, indépendamment des capacités réelles du matériel. Les produits bas de gamme (c'est le cas du WRT54G) ne doivent pas concurrencer les produits moyen et haut de gamme.</li>
+</ol>
+</div>
+</div>
+
+
+<div class="slide">
+<h1>Et Linux dans tous ça ?</h1>
+<ul class="incremental show-first">
+	<li>Les premiers firmware alternatifs : 1% de nouveauté</li>
+	<li>L'approche OpenWRT : tout reprendre à partir des meilleurs outils existants</li>
+	<li>BusyBox; le couteau suisse des systèmes embarqués</li>
+</ul>
+<div class="notes">
+<ol>
+<li>Lors de la publication des sources du Linux utilisé pour la gamme de routeurs Linksys WRT54G/GS, bon nombre de micro-logiciels (firmware) modifiés ont vu le jour, ajoutant chacun sa petite fonctionnalité tout en gardant 99% du code d'origine. 2 inconvénients majeurs :
+<ul><li>difficile de trouver le firmware adapté à ses besoins</li>
+<li>la distribution originelle de Linksys était passablement éloignée des standards de dévelopement GNU/Linux</li></ul></li>
+
+<li>OpenWRT a adopté une démarche très différente ; se servir de la base de Linksys pour développer une distribution totalement nouvelle, en utilisant les logiciels phares du monde Linux, dans leur version la plus récente et fiable. De plus, utiliser un système de fichier accessible en lecture/écriture (JFFS2) et un gestionnaire de paquets (ipkg) permet de proposer une distribution évolutive, et surtout adaptable à chaque besoin.</li>
+
+<li>OpenWRT est notamment basé sur BusyBox. Il combine des versions réduites des utilitaires UNIX courants en un seul petit executable et fourni un remplaçant pour la plupart des outils que l'on trouve dans GNU fileutils, shellutils … Ces utilitaires ont généralement moins d'options mais elles sont choisies pour répondre à des besoins réels tout en visant une taille minimale et des besoins matériels réduits. Les outils et les options activés sont paramétrables à la compilation, pour s'adapter à tous les besoins.</li>
+</ol>
+</div>
+</div>
+
+<div class="slide">
+<h1>Flasher son routeur, ça veut dire quoi ?</h1>
+
+<ul class="incremental">
+	<li>Utiliser le système de mise à jour pour changer</li>
+	<li>Comment changer au lieu de mettre à jour</li>
+	<li>A part l'interface web, les autres moyens</li>
+	<li>Précautions d'emploi</li>
+</ul>
+
+<div class="notes">
+<ol>
+<li>Les constructeurs prévoient souvent un moyen de mettre à jour le firmware via l'interface web. On télécharge un fichier binaire sur le routeur et le système interne se charge de se mettre à jour puis redémarre.</li>
+
+<li>Les premiers firmwares alternatifs ont pu exister grace à un bug de ce système de mise à jour qui n'aurait pas du accepter de remplacer le code Linksys par un autre (on pouvait passer des paramètres à la ROM dans la fenêtre 'ping.asp' !). Cette faille a pu être identifiée grace au caractère "open source" du logiciel de Linksys.
+<br />Par la suite Linksys a conservé volontairement la possibilité de remplacer son logiciel par un autre.</li>
+
+<li>Il existe plusieurs moyens de remplacer le logiciel interne : TFTP, CFE, JTAG, … mais lorsque c'est possible, l'interface web reste le moyen le plus simple et le moins risqué si on n'est pas sûr de soi.</li>
+
+<li>Il prudent de télécharger le firmware d'origine sur place au cas où on souhaite revenir en arrière et que la connexion internet n'est plus active. Il est également fortement conseillé, voire indispensable, de faire l'opération de flashage en connexion ethernet directe (liaison avec un câe croisé depuis un des ports du hub) et pas en Wi-Fi car si la mise à jour échoue au milieu, le routeur se retrouverait alors en mode "brique", c'est-à-dire totalement inutilisable. La récupération est évidemment possible, mais fastidieuse.</li>
+</ol>
+</div>
+
+</div>
+
+<div class="slide">
+<h1>Concrêtement, ça apporte quoi ?</h1>
+
+<ul class="incremental">
+	<li>Des options et fonctions de base plus riches</li>
+	<li>Une très longue liste de spécialisations possibles</li>
+	<li>Un contrôle complet comme une vraie machine (accès SSH)</li>
+</ul>
+
+<div class="notes">
+<ol>
+<li>Moins (voire pas) de bugs mais surtout des fonctionnalités supplémentaires accessibles directement.
+<br />Celle qui vient rapidement à l'esprit des utilisateurs moyens des Linksys : les baux DHCP permanents.</li>
+
+<li>Mais au delà de ça, la liste est longue  :
+<ul>
+<li>QoS</li>
+<li>Asterisk (serveur VoIP)</li>
+<li>nmap</li>
+<li>chillispot (gestionnaire de Hot Spot wifi)</li>
+<li>serveur de fichiers (smb, cifs, fuse, …)</li>
+<li>freeradius</li>
+<li>kismet (outils de sécu wifi)</li>
+<li>lighttpd (serveur web léger et puissant)</li>
+<li>OpenVPN</li>
+<li>OpenSSH + OpenSSL (client/serveur)</li>
+<li>Quagga (routage BGP, OSPF, RIP, …)</li>
+<li>rsync</li>
+<li>TOR</li>
+<li>snmpd</li>
+<li>IPv6</li>
+<li> …</li>
+</ul>
+Il est intéressant de noter que depuis la WhiteRussian RC6, OpenWRT utilise simultanément un système de fichier SquashFS (read-only) et un JFFS2 sur lequel il copie toutes les nouveautés et modifications. Cela rend possible un fonctionnement du routeur en "safe-mode" avec la configuration d'origine (celle établie par OpenWRT lors de la compilation).</li>
+</ol>
+</div>
+</div>
+
+<div class="slide">
+<h1>Les capacités du WRT54G</h1>
+<ul class="incremental">
+	<li>Point d'accès Wi-Fi</li>
+	<li>Pont Wi-Fi</li>
+	<li>Routeur</li>
+	<li>Switch</li>
+	<li>Utilisation type : connecter plusieurs ordinateurs à internet</li>
+</ul>
+
+<div class="notes">
+<ol>
+	<li>Un point d'accès Wi-Fi permet à des périphériques de se connecter à un réseau en utilisant la technologie sans fil Wi-Fi et de s'y colporter comme si ils y étaient connectés physiquement.</li>
+	<li>Un routeur est un équipement d'interconnexion de réseaux informatiques permettant d'assurer le routage des paquets entre deux réseaux ou plus afin de déterminer le chemin qu'un paquet de données va emprunter. Dans le cas du WRT54GL, il connecte par défaut le réseau WAN (celui du FAI) avec les réseaux privés ethernet (LAN) et Wi-Fi (WLAN).</li>
+	<li>Un switch est un système multiports qui connecte entre eux plusieurs périphériques réseau. Les paquets qui entrent par un port sont analysés et renvoyés à un ou plusieurs autres selon des règles. La fonction switch du WRT54GL permet aux périphériques connectés via les 4 ports ethernet et via Wi-Fi d'échanger des paquets.</li>
+	<li>L'usage le plus courant d'un WRT54GL est domestique. En branchant le modem ADSL (ou autre) sur le port WAN et les ordinateurs, imprimantes, … de la maison sur les ports LAN et WLAN, on dispose ainsi d'un réseau privé (partage de fichiers, jeux et impression en réseau, …) et d'un accès à internet partagé.</li>
+</ol>
+</div>
+
+</div>
+
+<div class="slide">
+<h1>Les différents WRT54G</h1>
+	<ul class="incremental">
+		<li>WRT54<em>G</em></li>
+		<li>WRT54<em>GS</em> : Speedbooster</li>
+		<li>WRT54<em>GL</em> : Linux</li>
+	</ul>
+
+<div class="notes">
+<ol>
+	<li>Le <em>G</em> est le produit d'origine. Il a démarré avec une CPU@125Mhz, 16Mo de RAM et 4Mo de Flash, puis rapidement il a eu une CPU@200Mhz. À partir de la version 5, c'est VxWorks qui a été l'OS installé, pour réduire le taille de la RAM à 4Mo, mais du coup les firmware alternatifs n'étaient plus supportés, sauf "DD-WRT micro edition".</li>
+	<li>Le <em>GL</em> correspond à un "fork" de la version 4 du <em>G</em> pour satisfaire une clientèle de hackers importante.</li>
+	<li>Le <em>GS</em> apporte la technologie Speedbooster qui permet d'accéler les débits Wi-Fi d'environ 30% pour peu qu'on dispose d'une carte compatible sur l'ordi. Jusqu'à la version 4 il disposait de 32 Mo de RAM, mais par la suite c'est descendu à 16 Mo avec le passage vers l'OS VxWorks, ce qui a conduit aux mêmes problèmes qu'avec le <em>G</em> en version 5+.</li>
+</ol>
+</div>
+
+</div>
+
+<div class="slide">
+<h1>Jouons ensemble</h1>
+<ul class="incremental">
+	<li> root@OpenWrt:~# ipkg update &amp;&amp; ipkg upgrade</li>
+	<li> root@OpenWrt:~# nvram set param=xxx &amp;&amp; nvram commit</li>
+	<li> root@OpenWrt:~# vi /etc/init.d/S45firewall</li>
+</ul>
+
+<div class="notes">
+<ol>
+	<li>Packages *.ipkg accessibles avec un système APT-like (sources dans le fichier ipkg.conf). Possibilités : ipkg update/list/status/install/remove</li>
+	<li>La ROM est une NVRAM (RAM non-volatile, càd conservant les infos) contenant diverses infos essentielles (réseau, Wi-Fi). On peut effectuer différentes manipulations avec la commande 'nvram', et on "commit" ses modifications pour les rendre définitives.</li>
+	<li>Un système OpenWRT est forcément orienté "réseau", et l'on appréciera de pouvoir utiliser Netfilter IPTables. On pourra donc écrire ses propres règles que l'on placera dans le fichier /etc/init.d/S45firewall</li>
+</ol>
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</body>
+</html>
