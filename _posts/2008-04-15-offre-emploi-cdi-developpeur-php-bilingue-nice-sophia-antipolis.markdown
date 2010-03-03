@@ -4,10 +4,9 @@ layout: post
 categories: emploi
 spip_id: 136
 ---
-<p class="chapo">
-Jeune Entreprise Innovante<br>
+Jeune Entreprise Innovante
+
 La société e-toxic a reçu le statut de Jeune Entreprise Innovante, décerné par le Ministère de la Recherche et de la Technologie.  Dans cette optique, notre société renforce les équipes de  R&amp;D pour  concentrer ses efforts sur la veille stratégique &amp; technologique et mettre en place des nouveaux services web émergents.
-</p>
 
 A propos de E-Toxic<br> 
 E-Toxic (www.e-toxic.com)  est un leader international spécialisé dans la conception de web services et le développement d’applications web 2.0. Nous mettons notre expérience et notre expertise unique des services web à disposition des internautes et des communautés virtuelles.

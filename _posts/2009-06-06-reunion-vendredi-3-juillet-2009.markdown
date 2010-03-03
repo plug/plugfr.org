@@ -4,9 +4,7 @@ layout: post
 categories: reunions
 spip_id: 155
 ---
-<p class="chapo">
-Le PLUG organise une réunion le vendredi 3 juillet 2009 à partir de 19h00.
-</p>
+**Le PLUG organise une réunion le vendredi 3 juillet 2009 à partir de 19h00.**
 
 Vers 20h00, nous commencerons par quelques "**présentation flash**", liées aux logiciels libres sous forme de mini-exposés successifs d'environ 5 minutes (ouvert à toute personne intéressée).  
 N'hésitez pas à préparer quelque chose de très court, même si vous n'avez pas l'impression de maîtriser le sujet, le but et d'échanger sur quelque chose de nouveau (au moins pour vous).

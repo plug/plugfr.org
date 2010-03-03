@@ -4,9 +4,7 @@ layout: post
 categories: reunions
 spip_id: 159
 ---
-<p class="chapo">
-Le PLUG organise une réunion le vendredi 6 novembre 2009 à partir de 19h00.
-</p>
+**Le PLUG organise une réunion le vendredi 6 novembre 2009 à partir de 19h00.**
 
 Il n'y a pas encore de programme défini pour cette soirée. Nous mettrons à jour cet article dès que possible.
 
