@@ -54,15 +54,19 @@ nav.articles-nav {
 
 code {
   font-size: 12px;
-  font-family: "DejaVu sans Mono", monaco, consolas, monospace;
+  font-family: menlo, consolas, "DejaVu sans Mono", monaco, monospace;
+  border: 1px solid #dedede;
+  padding: 0 3px;
 }
  
 pre {
-  font-size: 12px;
-  font-family: "DejaVu sans Mono", monaco, consolas, monospace;
   background: #efefef;
   padding: 1em;
   overflow: auto;
+}
+pre code {
+  padding: 0;
+  border: 0;
 }
 
 .img-left {
