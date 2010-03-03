@@ -20,7 +20,7 @@ Pendant tout l'après-midi, vous pourrez rencontrer des passionnés de logiciels
 
 Le PLUG vous accueille gratuitement dans son lieu de rencontre habituel au centre ville : [La Boate](http://laboate.com), au 35 rue de la Paix à Marseille (13001).  
 Accessible en bus/tramway, en métro (ligne 1, station Vieux Port).  
-Des parking à proximité vous permettront de vous garer à coup sûr (notamment si vous amenez un PC fixe) : Estienne d'Orves, Monthyon, Charles de Gaulle, Bourse ...
+Des parking à proximité vous permettront de vous garer à coup sûr (notamment si vous amenez un PC fixe) : Estienne d'Orves, Monthyon, Charles de Gaulle, Bourse …
 
 ### Notes importantes ###
 

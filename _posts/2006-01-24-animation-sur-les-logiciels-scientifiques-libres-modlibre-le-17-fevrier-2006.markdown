@@ -5,9 +5,9 @@ subtitle: Modélisation et Logiciels Libres
 categories: animations
 spip_id: 65
 ---
+<br />
 
-
-**Plan de la présentation:**
+#### Plan de la présentation ####
 
 -Présentation du projet **ModLibre*** Calcul scientifique (Perl et Scilab).
 -* Brevets logiciels (Strasbourg 2005).
@@ -15,14 +15,14 @@ spip_id: 65
 
 <code>
 </code>
-
-**Niveau:**
+<br /><br />
+#### Niveau ####
 <code>
 Vert (tout public)
 </code>
 
-
-**Animateur:**
+<br /><br />
+#### Animateur ####
 
 
 [Jean Thiéry](http://modlibre.org)

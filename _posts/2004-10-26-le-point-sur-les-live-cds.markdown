@@ -12,13 +12,13 @@ Cet article présente une liste non exhaustive des Live-CDs les plus connus avec
 *Desc* : basée sur une Debian remixée  
 *Version actuelle* : 3.7  
 *Commentaires* : très pratique pour tester une compatibilité Linux en quelques secondes mais aussi pour diverses opérations comme sauver ses données, restaurer un MBR, etc.
-Peut s'installer assez durablement sur un disque dur bien que cela ne soit pas très propre (Note perso : autant partir sur une base saine pour durer...)
+Peut s'installer assez durablement sur un disque dur bien que cela ne soit pas très propre (Note perso : autant partir sur une base saine pour durer …)
 
 **Gnoppix** : [http://www.gnoppix.org/](http://www.gnoppix.org/)  
 *Desc* : comme Knoppix avec Gnome  
 *Version actuelle* : 0.8.1 beta9  
 *Commentaires* : pour avoir Gnome à la place de 
-KDE...
+KDE …
 
 **Freeduc-CD** : [http://www.ofset.org/freeduc-cd](http://www.ofset.org/freeduc-cd)  
 *Desc* : comme Knoppix customisé éducation  
@@ -28,7 +28,7 @@ KDE...
 **ClusterKnoppix** : [http://bofh.be/clusterknoppix/](http://bofh.be/clusterknoppix/)  
 *Desc* : comme Knoppix customisé pour cluster  
 *Version actuelle* : 3.6  
-*Commentaires* : pour tester rapidement OpenMosix...
+*Commentaires* : pour tester rapidement OpenMosix …
 
 **Damn Small Linux** : [http://www.damnsmalllinux.org/](http://www.damnsmalllinux.org/)  
 *Desc* : comme Knoppix réduit à 50 Mo  
@@ -51,7 +51,7 @@ semble. Pas mis à jour depuis mars 2003
 **Morphix** :  [http://www.morphix.org](http://www.morphix.org)  
 *Desc* : comme Knoppix de façon modulaire  
 *Version actuelle* : 0.5-pre3  
-*Commentaires* : un peu plus flexible que Knoppix...
+*Commentaires* : un peu plus flexible que Knoppix …
 
 **Oralux** : [http://oralux.org/](http://oralux.org/)  
 *Desc* : comme Knoppix pour les aveugles  

@@ -8,7 +8,7 @@ Bonjour à tous,
 
 Le PLUG organise une réunion le vendredi 7 septembre 2007 à partir de 19:00 jusqu'a minuit.
 
-Le thème de la présentation sera l'**exposé d'un cas de mise en route d'un serveur mixte (web/mysql/bind/qmail/...) sous Debian Etch et migration des données et services d'un ancien serveur**.
-Cet exposé sera l'occasion de discuter des situations de **migrations**, d'**installation**, d'**automatisation des taches**, de **politique de sécurité** et **sauvegarde**, ...
+Le thème de la présentation sera l'**exposé d'un cas de mise en route d'un serveur mixte (web/mysql/bind/qmail/ …) sous Debian Etch et migration des données et services d'un ancien serveur**.
+Cet exposé sera l'occasion de discuter des situations de **migrations**, d'**installation**, d'**automatisation des taches**, de **politique de sécurité** et **sauvegarde**, …
 
 Elle se tiendra dans le nouveau lieu de réunion du PLUG : La Bo\[a\]te.

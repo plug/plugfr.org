@@ -8,7 +8,7 @@ L'INPP (Institut National de Plongée Professionnelle) recherche un développeur
 
 Ils veulent refondre totallement leur site web. Exploiter une base de donénes MySQL pour les données dynamiques du site. Pour avoir lu le cahier des charges, c'est assez riche en fonctionnalités et en contenus, mais rien n'est très compliqué pour qui a dépassé les cours du premier site venu sur PHP.
 
-Il y a beaucoup de choses qui sont déjà posées et validées en interne ; charte graphique, structure du site, navigation/ergonomie, ... donc la marche de manuvre pour le développeur est assez mince, mais justement ça peut plaire de ne pas se prendre la tête avec ces aspects là.
+Il y a beaucoup de choses qui sont déjà posées et validées en interne ; charte graphique, structure du site, navigation/ergonomie, … donc la marche de manuvre pour le développeur est assez mince, mais justement ça peut plaire de ne pas se prendre la tête avec ces aspects là.
 
 Le boulot se passe à Marseille au fond du port de la Pointe Rouge.
 

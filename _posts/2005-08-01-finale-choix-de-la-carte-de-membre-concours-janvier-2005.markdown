@@ -10,7 +10,7 @@ Voici le résultat final du concours de Janvier 2005 ! Une poignée d'adhérents
 
 La carte ayant remportée la première place est :
 
-<img  src="http://www.plugfr.org/images/concours_plug_25_01_2005/carte_membre/carte-plug005.jpg">
+![carte-plug005.jpg](/pub/concours_plug_25_01_2005/carte_membre/carte-plug005.jpg)
 
 
  *Dessinée par* :
@@ -18,4 +18,4 @@ La carte ayant remportée la première place est :
 
 
 ----
-Rappel des cartes proposées : <a href="http://plugfr.org/spip/breve.php3?id_breve=29">Brève nÂ° 29</a>
+[Rappel des cartes proposées](/pub/concours_plug_25_01_2005/carte_membre/)

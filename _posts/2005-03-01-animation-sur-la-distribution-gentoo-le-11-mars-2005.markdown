@@ -13,21 +13,21 @@ L'équipe du bureau a le plaisir de vous inviter pour participer à une animatio
 
 
 
-**Descriptif:**
+#### Descriptif ####
 
 * Historique
 * Mode d'installation
-* Outils propre à la distrib : gestion de paquets...
+* Outils propre à la distrib : gestion de paquets …
 * Avantage / inconvenients (et oui y en a :p )
 * Démonstrations ur 2 ordinateurs portables.
 
 
 
-**Niveau:**
+#### Niveau ####
 > Orange (averti)
 
 
-**Animateurs:**
+#### Animateurs ####
 
 * Arnaud André
 * Michael Lhomme

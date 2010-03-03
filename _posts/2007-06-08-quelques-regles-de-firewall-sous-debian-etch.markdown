@@ -88,6 +88,6 @@ Comme pour tous les scripts d'init, il est nécessaire que */etc/init.d/firewall
 Il est également conseillé que les fichiers */var/lib/iptables/** soit aussi protégés contre des modifications par des utilisateurs non administrateurs.
 
 ### Conclusions ###
-Il reste donc à apprendre à se servir des règles **iptables** pour gérer le firewall, le NAT, ... pour cela un article très intéressant (en français) est disponible sur le site de **Christian Caleca** : [christian.caleca.free.fr](http://christian.caleca.free.fr/netfilter/iptables.htm)
+Il reste donc à apprendre à se servir des règles **iptables** pour gérer le firewall, le NAT, … pour cela un article très intéressant (en français) est disponible sur le site de **Christian Caleca** : [christian.caleca.free.fr](http://christian.caleca.free.fr/netfilter/iptables.htm)
 
 En vous amusant avec **iptables**, méfiez vous car vous pouvez totalement bloquer l'accès à la machine depuis l'extérieur (y compris *ssh* et autre), donc gardez un accès physique (clavier/souris direct) à votre machine au cas où.

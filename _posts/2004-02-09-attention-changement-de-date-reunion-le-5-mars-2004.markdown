@@ -8,7 +8,7 @@ ATTENTION: CHANGEMENT de DATE!!!
 
 Pour cause de vacances scolaires, la réunion de mars n'aura pas lieu le premier vendredi du mois. Nous vous donnons donc rendez-vous le vendredi 5 mars 2004 à la Maison Orangina à partir de 19h.
 
-Il y aura probablement une thématique OpenBSD : présentation, spécificités, avantages, inconvénients, ...
+Il y aura probablement une thématique OpenBSD : présentation, spécificités, avantages, inconvénients, …
 
 Pour les détails des réunions, [c'est ici](/association/les-reunions-du-plug/).
 

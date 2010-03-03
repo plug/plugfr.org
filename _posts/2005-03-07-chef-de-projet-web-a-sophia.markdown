@@ -7,6 +7,7 @@ spip_id: 43
 Dans le cadre du développement d'un outil web, nous recherchons un Chef de Projet.
 
 Vous prendrez en charge:
+
 - l'étude de l'expression des besoins marketing de l'outil " assistant pages perso "
 - la définition des briques technologiques nécessaires à sa réalisation
 - l'inventaire des briques technologiques actuelles répondant à une partie du besoin

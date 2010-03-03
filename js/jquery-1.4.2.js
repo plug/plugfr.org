@@ -156,7 +156,7 @@ jQuery.fn = jQuery.prototype = {
 				selector = document.getElementsByTagName( selector );
 				return jQuery.merge( this, selector );
 
-			// HANDLE: $(expr, $(...))
+			// HANDLE: $(expr, $( …))
 			} else if ( !context || context.jquery ) {
 				return (context || rootjQuery).find( selector );
 
@@ -1535,7 +1535,7 @@ jQuery.extend({
 			return attr === null ? undefined : attr;
 		}
 
-		// elem is actually elem.style ... set the style
+		// elem is actually elem.style … set the style
 		// Using attr for specific style information is now deprecated. Use style instead.
 		return jQuery.style( elem, name, value );
 	}
@@ -1606,7 +1606,7 @@ jQuery.event = {
 		eventHandle.elem = elem;
 
 		// Handle multiple events separated by a space
-		// jQuery(...).bind("mouseover mouseout", fn);
+		// jQuery( …).bind("mouseover mouseout", fn);
 		types = types.split(" ");
 
 		var type, i = 0, namespaces;
@@ -1706,7 +1706,7 @@ jQuery.event = {
 		}
 
 		// Handle multiple events separated by a space
-		// jQuery(...).unbind("mouseover mouseout", fn);
+		// jQuery( …).unbind("mouseover mouseout", fn);
 		types = types.split(" ");
 
 		while ( (type = types[ i++ ]) ) {

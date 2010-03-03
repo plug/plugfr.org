@@ -10,5 +10,5 @@ Toute l'équipe du bureau, ainsi que ses membres, remercie Evolix pour cette pre
 
 
 ----
-Vous aussi, participez à la vie du PLUG grÃ¢ce à vos services (prÃªt, dont...)
-[Contactez-nous!](http://plugfr.org/spip/contact.php)
+Vous aussi, participez à la vie du PLUG grÃ¢ce à vos services (prÃªt, dont …)
+[Contactez-nous!](/contact.html)

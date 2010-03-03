@@ -26,7 +26,7 @@ On y discute de tout ce qui touche à l'informatique libre autour de pizzas. Les
 
 Tout le monde peut amener sa machine pour une aide à l'installation de distributions Linux/Unix ou autres logiciels libres. Ainsi, on y aide des débutant ou néophytes à résoudre des problèmes concrets.
 
-Certaines fois l'un d'entre nous (pourquoi pas vous) propose un petit exposé pour partager son expérience sur un sujet donné. Il ne s'agit pas d'une conférence, mais simplement d'une présentation d'une technologie, d'un logiciel, d'un langage, d'une approche, ... On a déjà parlé par exemple d'Apache, GnuPG, PHP. Le but est que tout le monde puisse enrichir sa culture de l'informatique et des logiciels libres dans une ambiance conviviale.
+Certaines fois l'un d'entre nous (pourquoi pas vous) propose un petit exposé pour partager son expérience sur un sujet donné. Il ne s'agit pas d'une conférence, mais simplement d'une présentation d'une technologie, d'un logiciel, d'un langage, d'une approche, … On a déjà parlé par exemple d'Apache, GnuPG, PHP. Le but est que tout le monde puisse enrichir sa culture de l'informatique et des logiciels libres dans une ambiance conviviale.
 
 ### Qui peut venir ? ###
 

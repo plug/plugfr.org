@@ -12,7 +12,7 @@ de la gestion des moyens informatiques internes.
 Bonnes connaissances de Windows et très bonne maîtrise de Linux
 souhaitée (certif RHCE de preference), connaissances du shell bash/tcsh,
 nfs, openldap, postfix, automount, apache, mysql, xorg, nagios/oreon,
-etc... Maitrise reseaux TCP/IP, scripting Python, connaissances Cisco si
+etc … Maitrise reseaux TCP/IP, scripting Python, connaissances Cisco si
 possible (certif CCNA serait un plus).
 
 2 ans d'expérience minimum, débutant(e) à fort potentiel accepté(e).

@@ -9,11 +9,11 @@ Bonjour,
 
 L'équipe du bureau a le plaisir de vous inviter pour participer à une animation sur **BSD et ses dérivés** (lieu et date de la [réunion](/association/les-reunions-du-plug/)).
 
-- A partir de ** 20:30 !!! ** ne soyez pas en retard !
+A partir de ** 20:30 !!! ** ne soyez pas en retard !
 
 
 
-**Plan de la présentation:**
+#### Plan de la présentation ####
 
 * Introduction à BSD (Berkeley, 386BSD)
 * Concepts
@@ -24,12 +24,12 @@ L'équipe du bureau a le plaisir de vous inviter pour participer à une animatio
 
 
 
-**Niveau:**
+#### Niveau ####
 > Orange (averti)
 
 
 
-**Animateurs:**
+#### Animateurs ####
 
 [Alexandre Anriot](mailto:aanriot@atlantilde.com) et Aldo LaClasse
 

@@ -10,7 +10,7 @@ Promouvoir le système d'exploitation informatique Linux et les logiciels libres
 
 ### ARTICLE 2 – Membres ###
 
-Sont membres actifs ceux participent par des actions (formations, participation aux diverses manifestations, et les membres du bureau...).
+Sont membres actifs ceux participent par des actions (formations, participation aux diverses manifestations, et les membres du bureau …).
 
 Sont membres adhérents ceux qui s'acquittent de la cotisation annuelle. Sans participer fréquemment aux actions.
 
@@ -78,7 +78,7 @@ Le bureau assure le fonctionnement quotidien de l'association.
 
 - Le Président dirige les travaux des membres actifs et assure le fonctionnement de l'association qu'il représente en justice et dans les actes de la vie civile.
 
-- Le secrétaire tient à jour la liste des membres, s'occupe des diverses correspondances (aux membres, aux partenaires...) et des comptes rendus de réunion. Il participe à la maintenance du site WEB du Plug.
+- Le secrétaire tient à jour la liste des membres, s'occupe des diverses correspondances (aux membres, aux partenaires …) et des comptes rendus de réunion. Il participe à la maintenance du site WEB du Plug.
 
 - Le trésorier tient les comptes de l'association. Il gère les entrées et les sorties d'argent en accord avec le président.
 
@@ -121,8 +121,8 @@ Le président de l'association doit accomplir toutes les formalités de déclara
 
 **Fait à Marseille, le 25 septembre 1999**
 
-
-----
-Le texte des statuts est ici retranscrit tel qu'il est disponible en Préfécture (mise en page, orthographe, ...).
+<p class="ps">
+Le texte des statuts est ici retranscrit tel qu'il est disponible en Préfécture (mise en page, orthographe, …).
 
 La composition du bureau, bien qu'inscrite dans les stauts n'est plus valable. Plusieurs changements ont eu lieu et la composition actuelle du bureau est disponible en Préfécture et à tout moment par contact sur les [listes](rub4) ou le [canal IRC](art16) du PLUG.
+</p>

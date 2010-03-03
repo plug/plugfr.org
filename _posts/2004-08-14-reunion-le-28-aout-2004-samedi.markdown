@@ -20,7 +20,7 @@ En plus des grillades, José Mans vous propose ses connaissances en programmatio
 
 Benoit se propose de vous aider avec Python, initiation et programmation à 17h et 19h.
 
-Dans le cas où aucun groupe ne se forme autour de la programmation l'équipe pédagogique présente sera à votre disposition pour toutes questions techniques sur Linux, Windows et MAC...
+Dans le cas où aucun groupe ne se forme autour de la programmation l'équipe pédagogique présente sera à votre disposition pour toutes questions techniques sur Linux, Windows et MAC …
 
 
 

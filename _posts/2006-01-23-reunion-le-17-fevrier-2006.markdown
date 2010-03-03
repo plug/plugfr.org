@@ -5,13 +5,13 @@ categories: reunions
 spip_id: 62
 ---
 
-**ANNONCE**
+### Annonce ###
 Bonjour à tous,
 
 La prochaine réunion se tiendra le 17 Février 2006 à partir de 19:30 jusqu'a 0:00. 
 
 
-**ADRESSE**
+### Adresse ###
 
 > La Vie de Quartier
 > 1, rue Antoine PONS

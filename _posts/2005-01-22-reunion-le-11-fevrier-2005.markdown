@@ -4,14 +4,14 @@ layout: post
 categories: reunions
 spip_id: 36
 ---
-**ANNONCE**
+### Annonce ###
 Bonjour à tous,
 
 La prochaine réunion se tiendra le 11 Février 2005.
 
 Elle sera organisée avec l'association [Marseille-Wireless](http://marseille-wireless.org/).
 
-**ADRESSE**
+### Adresse ###
 
 > La Vie de Quartier
 > 1, rue Antoine PONS

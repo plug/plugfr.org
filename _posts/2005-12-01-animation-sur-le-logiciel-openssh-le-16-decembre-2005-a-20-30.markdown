@@ -14,7 +14,7 @@ L'équipe du bureau a le plaisir de vous inviter pour participer à une animatio
 
 
 
-**Plan de la présentation:**
+#### Plan de la présentation ####
 
 *  Naissance et objectifs du projet OpenSSH
 *  Le protocole SSH
@@ -22,13 +22,12 @@ L'équipe du bureau a le plaisir de vous inviter pour participer à une animatio
 *  Découverte des fonctionnalités avancées
 *  Conclusion
 
-**Niveau:**
+#### Niveau ####
 > Orange (initié à confirmé)
 
 
-**Animateur:**
+#### Animateur ####
 
 
 [Alexandre Anriot](mailto:aanriot@atlantilde.com)
 
-<code>

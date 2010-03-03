@@ -5,9 +5,9 @@ subtitle: Utiliser des certificats avec ses mails
 categories: animations
 spip_id: 66
 ---
+<br />
 
-
-**Plan de la présentation:**
+#### Plan de la présentation ####
 
 
 - Une petite partie "cours" :
@@ -24,14 +24,14 @@ spip_id: 66
 
 <code>
 </code>
-
-**Niveau:**
+<br /><br />
+#### Niveau ####
 <code>
 Vert (débutant)
 </code>
 
-
-**Animateur:**
+<br /><br />
+#### Animateur ####
 
 
 [François GUERRAZ]()

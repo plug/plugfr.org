@@ -382,7 +382,7 @@ window.Modernizr = (function(window,doc){
           } 
       
           // the data-uri'd font only has the . glyph; which is 3 pixels wide.
-          spn.innerHTML = '........';
+          spn.innerHTML = ' ……..';
           spn.id        = 'fonttest';
       
           body.appendChild(spn);

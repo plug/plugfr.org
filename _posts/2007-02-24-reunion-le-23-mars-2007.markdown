@@ -8,5 +8,5 @@ Bonjour à tous,
 
 Le PLUG organise une réunion le 23 mars 2007 à partir de 19:30 jusqu'a minuit. 
 
-Il y aura certainement un **"atelier" pour flasher des routeurs Linksys avec un firmware OpenWRT**, y ajouter des fonctionnalités, ...  
+Il y aura certainement un **"atelier" pour flasher des routeurs Linksys avec un firmware OpenWRT**, y ajouter des fonctionnalités, …  
 Il est possible de venir avec son routeur pour le faire évoluer.

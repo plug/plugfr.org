@@ -5,28 +5,24 @@ categories: animations
 spip_id: 76
 ---
 
+#### Plan de la présentation ####
 
-**Plan de la présentation:**
+Présentation du projet **Sécurité*** Les technologies WEP et WPA
 
--Présentation du projet **Sécurité*** Les technologies WEP et WPA
--* Les technologies VPN
--* Focus sur IPsec et les WLAN (réseaux sans-fil)
--* Le protocole IAPP
--* Exemple de mise en place
--* Conclusion
+* Les technologies VPN
+* Focus sur IPsec et les WLAN (réseaux sans-fil)
+* Le protocole IAPP
+* Exemple de mise en place
+* Conclusion
 
 
-<code>
-</code>
+#### Niveau ####
 
-**Niveau:**
-<code>
 Orange (initié)
-</code>
 
 
-**Animateur:**
 
+#### Animateur ####
 
 [Alexandre Anriot](Aanriot-at-Atlantilde.com)
 
