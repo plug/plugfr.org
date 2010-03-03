@@ -1,0 +1,12 @@
+---
+title: "TODO pour le nouveau site du PLUG"
+layout: post
+categories: divers
+---
+
+* corriger d'éventuels formattages bizarres dans les posts
+* mettre à jour les mentions légales
+* voir si une solution est possible pour la recherche (via Google ou autre), sinon, désactiver le champ de recherche dans le bandeau de navigation
+* mettre à jour les contenus de présentation de l'asso : description des réunions, moyens de communication, …
+* supprimer éventuellement des articles totallement obsolètes
+* trouver une solution pour le formulaire de contact (par ex: un petit script PHP pour envoyer un mail)
