@@ -11,3 +11,4 @@ categories: divers
 * supprimer éventuellement des articles totallement obsolètes
 * trouver une solution pour le formulaire de contact (par ex: un petit script PHP pour envoyer un mail)
 * trouver comment franciser les dates
+* trouver un moyen simple de concaténer les CSS et les JS
