@@ -14,13 +14,15 @@ N'hésitez pas à préparer quelque chose de très court, même si vous n'avez p
 La suite du programme n'est pas encore définie.
 
 Les grandes thématiques ouvertes sont :
+
 - Gestionnaires de paquets (intro générale et APT)
 - logiciels de Contrôle de Version (intro générale)
 
 Les thématiques pas encore introduites :
+
 - Les logiciels de gestion de contenus : CMS
 
-Selon les envies de ceux qui pensent venir, nous pouvons adapter le programme. Signalez vos envies sur le [canal IRC](art16) et/ou sur la [mailing-list](art57).
+Selon les envies de ceux qui pensent venir, nous pouvons adapter le programme. Signalez vos envies sur le [canal IRC](irc://irc.freenode.net/%23plugfr) et/ou sur la [mailing-list](/mailing-lists.html).
 
 Nous espérons retrouver comme la dernière fois les participants du forum Ubuntu qui sont venus "en masse" et nous ont fait le plaisir d'apporter des visages nouveaux (dont 3 filles !) et pleins de choses à boire/manger.
 

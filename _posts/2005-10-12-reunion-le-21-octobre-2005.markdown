@@ -4,7 +4,6 @@ layout: post
 categories: reunions
 spip_id: 56
 ---
-### Annonce ###
 Bonjour à tous,
 
 La prochaine réunion se tiendra le 21 Octobre à partir de 19:00 jusqu'a 0:00.

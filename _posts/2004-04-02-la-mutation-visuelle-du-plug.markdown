@@ -6,6 +6,7 @@ categories: association
 spip_id: 17
 ---
 La mutation visuelle de l'association se fait en plusieurs étapes :
+
 - nouveau site à base de [spip](http://www.spip.org/)
 - création d'un logo
 - finalisation et amélioration du code HTML du site

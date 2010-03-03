@@ -13,11 +13,11 @@ fortement motivé par les challenges technologiques, alors adressez-nous
 votre candidature (cv + lm) en précisant vos prétentions salariales et délai 
 de disponibilité.
 
-**Informations complémentaires**  
+### Informations complémentaires ###
 Type de poste: Plein temps, CDI   
 Référence: VP-PHP/em
 
-**Coordonnées du contact**  
+### Coordonnées du contact ###  
 Vincent PETIT  
 Sogeti - Transiciel  
 [Offre sur Monster.fr](http://offres.monster.fr/getjob.asp?JobID=31006155&amp;WT.mc_n=MKT000125)

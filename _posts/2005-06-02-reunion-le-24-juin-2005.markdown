@@ -4,7 +4,6 @@ layout: post
 categories: reunions
 spip_id: 48
 ---
-### Annonce ###
 Bonjour à tous,
 
 La prochaine réunion se tiendra le 24 Juin 2005 à partir de 19:30 jusqu'a 0:00.

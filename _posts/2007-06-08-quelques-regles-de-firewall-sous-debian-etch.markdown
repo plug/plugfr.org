@@ -11,8 +11,9 @@ Sous Debian, c'est [NetFilter](http://www.netfilter.org/) qui est installé par 
 Il y a la commande "**iptables**" qui permet de gérer les règles directement en ligne de commande, mais elles ne sont pas mémorisées et rechargées au prochain redémarrage. Il faut alors les écrire dans un fichier qui sera utilisé à chaque boot.
 
 Pour cela il y a 2 optiques :
--# utiliser un script de démarrage, par exemple /etc/init.d/firewall
--# utiliser un script lié aux interfaces réseaux
+
+- utiliser un script de démarrage, par exemple */etc/init.d/firewall*
+- utiliser un script lié aux interfaces réseaux
 
 ### Un script lié aux interfaces réseaux ###
 
@@ -23,18 +24,21 @@ La seconde méthode correspond aux nouvelles recommandations de Debian depuis Sa
 La première méthode est la plus classique. Elle consiste à créer un script shell dans le dossier */etc/init.d/*, à le rendre exécutable et à régler la séquence d'initialisation pour qu'elle en prenne compte.
 
 J'ai donc créé un fichier */etc/init.d/firewall* que j'ai rendu exécutable par  
-<code>#chmod +x /etc/init.d/firewall</code>
+`$ chmod +x /etc/init.d/firewall`
 
 J'ai ensuite informé le système qu'il devait l'exécuter aux changements de runlevel (typiquement démarrage et extinction de la machine, mais pas uniquement) avec   
-<code>#cd /etc/init.d
-#update-rc.d firewall defaults</code>
+`$ cd /etc/init.d`
+`$ update-rc.d firewall defaults`
 
 Ensuite nous avons encore 2 choix :
--# placer directement les règles iptables dans le fichier */etc/init.d/firewall*
--# placer les règles dans un fichier de config qui sera utilisée par le script */etc/init.d/firewall*
+
+- placer directement les règles iptables dans le fichier */etc/init.d/firewall*
+- placer les règles dans un fichier de config qui sera utilisée par le script */etc/init.d/firewall*
 
 J'ai préféré la seconde option, plus "propre" à mon avis. Voyons donc ce qu'il y a dans notre fichier */etc/init.d/firewall* :  
-<code>#!/bin/sh
+
+<pre><code>
+#!/bin/sh
 #
 
 ruleset_dir=/var/lib/iptables
@@ -66,7 +70,8 @@ echo "Usage: /etc/init.d/iptables *start|stop|restart|force-reload*"
 exit 1
 esac
 
-exit 0</code>
+exit 0
+</code></pre>
 
 On a donc un script qui permet de charger/décharger les règles avec les options **start** et **stop** utilisées automatiquement, mais il peut aussi accepter d'être rechargé avec les options **restart** ou **force-reload**.  
 Enfin, il permet de sauvegarder la configuration des règles courantes, avec l'option **save**, très utile quand on a testé des règles via la ligne de commande et qu'on souhaite les rendre persistantes.
@@ -74,17 +79,20 @@ Enfin, il permet de sauvegarder la configuration des règles courantes, avec l'o
 Il reste donc à mettre en place les fichiers de stockage des règles.
 
 Par défaut le dossier */var/lib/iptables* n'existe pas, nous allons le créer, ainsi que les fichiers vierges :  
-<code>#mkdir -p /var/lib/iptables
-#cd /var/lib/iptables
-#touch active
-#touch inactive</code>
+`$ mkdir -p /var/lib/iptables`
+`$ cd /var/lib/iptables`
+`$ touch active`
+`$ touch inactive`
 
 Nous pouvons donc lancer une première fois la sauvegarde des règles courantes (s'il y en a) :  
-<code>#/etc/init.d/firewall save</code>  
+`$ /etc/init.d/firewall save`
+
 Le fichier vide */var/lib/iptables/active* est renommé avec la date du jour et un nouveau fichier est créé avec les règles courantes.
 
 ### Précautions ###
+
 Comme pour tous les scripts d'init, il est nécessaire que */etc/init.d/firewall* soit la propriété de *root* et qu'il soit le seul à pouvoir le modifier.  
+
 Il est également conseillé que les fichiers */var/lib/iptables/** soit aussi protégés contre des modifications par des utilisateurs non administrateurs.
 
 ### Conclusions ###

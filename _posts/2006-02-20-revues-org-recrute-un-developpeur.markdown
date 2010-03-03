@@ -31,23 +31,16 @@ Revues.org fait partie du Laboratoire d'édition électronique ouverte, qui est 
 **Compétences requises**
 
 - Maîtrise du langage SQL.
-
 - Maîtrise de XML, XSLT, Schémas.
-
 - Maîtrise d'au moins un des langages suivants: PHP, Perl, C, Python.
-
 - Connaissances des webservices et des protocoles structurés d'échanges de données.
-
 - Capacité de débuggage (détection de bugs, corrections).
-
 - Anglais lu et écrit.
 
 **Compétences appréciées**
 
 - Pratique régulière de l'environnement Linux.
-
 - Familiarité avec l'environnement LAMP (Linux / Apache / MySQL / Php).
-
 - Connaissance des CVS/Subversion.
 
 **Le plus**

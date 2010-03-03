@@ -13,7 +13,7 @@ A partir de ** 20:30 !!! ** ne soyez pas en retard !
 
 
 
-#### Plan de la présentation ####
+### Plan de la présentation ###
 
 * Introduction à BSD (Berkeley, 386BSD)
 * Concepts
@@ -24,12 +24,13 @@ A partir de ** 20:30 !!! ** ne soyez pas en retard !
 
 
 
-#### Niveau ####
-> Orange (averti)
+### Niveau ###
+
+Orange (averti)
 
 
 
-#### Animateurs ####
+### Animateurs ###
 
 [Alexandre Anriot](mailto:aanriot@atlantilde.com) et Aldo LaClasse
 

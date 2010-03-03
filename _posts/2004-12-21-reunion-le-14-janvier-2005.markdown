@@ -4,7 +4,6 @@ layout: post
 categories: reunions
 spip_id: 102
 ---
-### Annonce ###
 
 Bonjour à tous,
 

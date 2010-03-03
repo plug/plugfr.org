@@ -8,8 +8,10 @@ spip_id: 154
 Le PLUG organise une réunion le vendredi 5 juin 2009 à partir de 19h00.
 </p>
 
-Vers 20h00, nous commencerons par quelques "**présentation flash**", liées aux logiciels libres sous forme de mini-exposés successifs d'environ 5 minutes (ouvert à toutes personnes intéressées).  
+Vers 20h00, nous commencerons par quelques "**présentation flash**", liées aux logiciels libres sous forme de mini-exposés successifs d'environ 5 minutes (ouvert à toutes personnes intéressées). 
+ 
 Quelques sujets possibles :
+
 - Google Wave
 - ETL (Extract-Transform-Load), manipulations de données
 - Démo d'un environnement de tests unitaires sous Ruby on Rails

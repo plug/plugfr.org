@@ -5,16 +5,11 @@ subtitle: 16 Décembre 2005
 categories: animations
 spip_id: 61
 ---
-<p class="chapo">
+L'équipe du bureau a le plaisir de vous inviter pour participer à une animation sur le logiciel OpenSSH.
 
-L'équipe du bureau a le plaisir de vous inviter pour participer à une animation sur le logiciel OpenSSH (lieu et date de la [réunion](/association/les-reunions-du-plug/)).
+A partir de ** 20:30 !!! ** ne soyez pas en retard !
 
-- A partir de ** 20:30 !!! ** ne soyez pas en retard !
-</p>
-
-
-
-#### Plan de la présentation ####
+### Plan de la présentation ###
 
 *  Naissance et objectifs du projet OpenSSH
 *  Le protocole SSH
@@ -22,12 +17,11 @@ L'équipe du bureau a le plaisir de vous inviter pour participer à une animatio
 *  Découverte des fonctionnalités avancées
 *  Conclusion
 
-#### Niveau ####
-> Orange (initié à confirmé)
+### Niveau ###
+Orange (initié à confirmé)
 
 
-#### Animateur ####
-
+### Animateur ###
 
 [Alexandre Anriot](mailto:aanriot@atlantilde.com)
 

@@ -4,8 +4,6 @@ layout: post
 categories: reunions
 spip_id: 89
 ---
-### Annonce ###
-
 Bonjour à tous,
 
 Le PLUG organise une réunion le 23 février 2007 à partir de 19:30 jusqu'a minuit. 

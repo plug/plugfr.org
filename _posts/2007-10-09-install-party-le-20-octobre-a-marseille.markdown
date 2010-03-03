@@ -24,22 +24,22 @@ Des parking à proximité vous permettront de vous garer à coup sûr (notamment
 
 ### Notes importantes ###
 
-**Inscrivez vous, c'est plus sympa**
+#### Inscrivez vous, c'est plus sympa ####
 
 L'entrée est libre et gratuite, mais pour nous faciliter l'organisation, vous pouvez vous inscrire par mail à [contact@plugfr.org](contact@plugfr.org).  
 Si vous comptez venir avec un ordinateur, vous pouvez aussi nous indiquer de quel genre il s'agit (portable ou fixe), on pourra ainsi vous préparer une place plus confortable.
 
-**Sauvegardez vos données importantes**
+#### Sauvegardez vos données importantes ####
 
 Il est primordial que vous prépariez une sauvegarde de vos données importantes.
 Nous disposerons sur place d'espace disque et de DVD vierges si vous n'avez aucun moyen de sauvegarde personnel, mais préférez toutefois votre propre sauvegarde faite à l'avance.
 
 Si vous avez une quelconque version de Windows (ou autre système) sur votre ordinateur et que vous souhaitez la conserver en plus de Ubuntu, n'oubliez pas votre CD ou DVD original, ça peut servir pour préparer le terrain.
 
-**Auberge espagnole**
+#### Auberge espagnole ####
 
 Nous aurons des câbles réseau et des rallonges/multi-prises électriques, certainement en nombre suffisant. Si vous en avez sous la main, n'hésitez pas à venir avec, ça augmentera le confort général.
 
 Si vous souhaitez repartir avec un CD-ROM ou DVD-ROM Ubuntu, pensez à apporter un support vierge à graver sur place, ou alors nous pourrons vous dépanner d'un support si vous n'en n'avez pas (1 EUR pour un CD-ROM, 2 EUR pour un DVD-ROM).
 
-<img13>
+![Install Party Ubuntu 7.10](/pub/InstallParty_500.jpg)

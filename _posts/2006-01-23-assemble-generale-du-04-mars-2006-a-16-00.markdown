@@ -9,10 +9,9 @@ spip_id: 64
 Réunion à partir de 16:00
 </p>
 
-## ATTENTION ##
+### ATTENTION ###
 **Assemblé Générale ANNULÉE**
 **reportez vous au nouveau rendez-vous**
-
 
 **[CLIQUEZ ICI](art72)**
 
@@ -20,7 +19,7 @@ Réunion à partir de 16:00
 
 
 
-#### Lieu ####
+### Lieu ###
 Siège social de l'association, soit au domicile du Président chez :
 
 > José Mans
@@ -30,7 +29,7 @@ Siège social de l'association, soit au domicile du Président chez :
 
 
 
-#### Ordre du jour ####
+### Ordre du jour ###
 
 * Bilan comptabe 2005 *(durée 30 minutes)*
 * Bilan de fonctionnement de 2005 *(durée 30 minutes)*

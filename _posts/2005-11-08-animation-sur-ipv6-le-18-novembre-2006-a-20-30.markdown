@@ -9,11 +9,11 @@ Bonjour,
 
 L'équipe du bureau a le plaisir de vous inviter pour participer à une animation sur IPv6 (lieu et date de la [réunion](/association/les-reunions-du-plug/)).
 
-- A partir de ** 20:30 !!! ** ne soyez pas en retard !
+A partir de ** 20:30 !!! ** ne soyez pas en retard !
 
 
 
-#### Plan de la présentation ####
+### Plan de la présentation ###
 
 * Brefs rappels sur les réseaux TCP/IP
 * Un peu de théorie sur IPv6
@@ -31,12 +31,11 @@ Pour que l'on puisse expérimenter IPv6 tous ensemble, merci d'apporter le maté
 
 
 
-#### Niveau ####
-
+### Niveau ###
 Orange (averti)
 
 
-#### Animateurs ####
+### Animateurs ###
 
 Grégory Colpart
 

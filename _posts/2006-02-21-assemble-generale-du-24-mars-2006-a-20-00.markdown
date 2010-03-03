@@ -4,12 +4,9 @@ layout: post
 categories: reunions
 spip_id: 72
 ---
-<p class="chapo">
 A partir de 20:00 
-</p>
 
-
-#### Lieu ####
+### Lieu ###
 
 Siège social de l'association, soit au domicile du Président chez :
 
@@ -20,7 +17,7 @@ Siège social de l'association, soit au domicile du Président chez :
 
 
 
-#### Ordre du jour ####
+### Ordre du jour ###
 
 * Bilan comptabe 2005 *(durée 30 minutes)*
 * Bilan de fonctionnement de 2005 *(durée 30 minutes)*
