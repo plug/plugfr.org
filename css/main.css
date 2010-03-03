@@ -26,9 +26,7 @@ body {
 #about {
   padding-top: 5px;
 }
-article .chapo,
-article .content,
-article .ps {
+article .content {
   clear: both;
 }
 #archives section {
@@ -148,10 +146,6 @@ article header h2 {
 article header p {
   font-size: 12px;
   margin-bottom: 0;
-}
-article .chapo {
-  line-height: 1.7em;
-  font-weight: bold;
 }
 
 #home article {
