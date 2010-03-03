@@ -4,10 +4,8 @@ layout: post
 categories: reunions
 spip_id: 161
 ---
-<p class="chapo">
-Le PLUG organise une réunion le vendredi 11 décembre 2009 à partir de 19h00.
-À noter, ça n'est pas le 1er vendredi du mois, ne vous trompez pas.
-</p>
+**Le PLUG organise une réunion le vendredi 11 décembre 2009 à partir de 19h00.
+À noter, ça n'est pas le 1er vendredi du mois, ne vous trompez pas.**
 
 Nous prévoyons 2 présentations :
 

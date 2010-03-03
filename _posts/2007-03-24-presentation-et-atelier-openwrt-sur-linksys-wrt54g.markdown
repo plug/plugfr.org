@@ -5,20 +5,18 @@ categories: animations
 spip_id: 94
 ---
 
-### Présentation du firmware OpenWRT ###
-
-#### Plan de la présentation #### 
+### Plan de la présentation ### 
 - Présentation du Linksys WRT54G
 - Atelier flashage et installation de nouveau paquets sur le routeur
 
-#### Niveau ####
+### Niveau ###
 vert/orange (débutant motivé)
 
-#### Animateur ####
+### Animateur ###
 
 Jérémy Lecour, avec l'aide de Grégory Colpart
 
-#### A consulter ####
+### A consulter ###
 
 - [la présentation](/pub/s5/WRT/) Ne pas oublier de cliquer sur l'ouverture des notes (bouton en forme de = à côté de Ø &lt;&lt; &gt;&gt; en bas à droite)
 - [l'archive téléchargeable](/pub/s5/WRT.tgz)

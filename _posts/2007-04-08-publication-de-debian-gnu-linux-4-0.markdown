@@ -78,7 +78,7 @@ les notes de publication seront améliorées et traduites dans d'autres
 langues dans les semaines à venir.
 
 
-*À propos de Debian
+### À propos de Debian ###
 
 Debian GNU/Linux est un système d'exploitation libre, développé par plus
 de mille bénévoles à travers le monde entier qui collaborent via
@@ -90,7 +90,6 @@ Les points forts du projet Debian sont ses bénévoles, son engagement à
 son contrat social, et son dévouement à fournir le meilleur système
 d'exploitation possible. Debian 4.0 est une étape importante dans cette
 direction.
-*
 
 -------
 

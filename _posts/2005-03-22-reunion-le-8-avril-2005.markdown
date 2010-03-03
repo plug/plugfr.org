@@ -4,7 +4,6 @@ layout: post
 categories: reunions
 spip_id: 44
 ---
-### Annonce ###
 Bonjour à tous,
 
 La prochaine réunion se tiendra le 8 Avril 2005 à partir de 19:30 jusqu'a 0:00.

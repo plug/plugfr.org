@@ -5,7 +5,7 @@ categories: animations
 spip_id: 76
 ---
 
-#### Plan de la présentation ####
+### Plan de la présentation ###
 
 Présentation du projet **Sécurité*** Les technologies WEP et WPA
 
@@ -16,14 +16,12 @@ Présentation du projet **Sécurité*** Les technologies WEP et WPA
 * Conclusion
 
 
-#### Niveau ####
+### Niveau ###
 
 Orange (initié)
 
 
 
-#### Animateur ####
+### Animateur ###
 
 [Alexandre Anriot](Aanriot-at-Atlantilde.com)
-
-<code>

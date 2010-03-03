@@ -4,7 +4,6 @@ layout: post
 categories: reunions
 spip_id: 55
 ---
-### Annonce ###
 Bonjour à tous,
 
 La prochaine réunion se tiendra le 30 Septembre à partir de 19:30 jusqu'a 0:00.

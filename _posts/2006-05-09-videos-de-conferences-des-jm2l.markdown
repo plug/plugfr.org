@@ -9,9 +9,5 @@ spip_id: 78
 Voici des vidéos issues de présentations dans des conférences techniques, sur le thème des systèmes embarqués ou des systèmes d'exploitation libres. Elles peuvent être utiles aux personnes qui manquent de temps ou d'argent pour assister à ces conférences.
 
 
-[http://jm2l.polytech.unice.fr/](http://jm2l.polytech.unice.fr/)
-
-
-----
-http://free-electrons.com/communaute/videos/conferences/
-http://jm2l.polytech.unice.fr/
+- [jm2l.polytech.unice.fr](http://jm2l.polytech.unice.fr/)
+- [free-electrons.com](http://free-electrons.com/communaute/videos/conferences/)

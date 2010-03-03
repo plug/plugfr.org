@@ -11,6 +11,7 @@ On retrouve le design et l'interface d'un os, afin de rester au plus proche des 
 Fort d'un dernier accord important, Lynxoft souhaite renforcer son équipe.
 
 Profil :
+
 - Ecole ingénieur ou niveau Bac +5
 - Maîtrise des langages usuels du Web 2.0 (PhP, Javascript, XML, CSS),
 - Bonne maîtrise de l'Anglais,

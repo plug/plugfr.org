@@ -21,10 +21,10 @@ disponible en librairie depuis le 14 octobre 2004, ce livre s'adresse à
 tous ceux qui s'intéressent à Debian, que cela soit pour l'essayer ou pour
 parfaire leur maîtrise des outils Debian.
 
-**Découvrez le livre** :
+### Découvrez le livre ###
 [http://www.ouaza.com/livre/admin-debian/](http://www.ouaza.com/livre/admin-debian/)
 
-**Retrouvez sur ce site** :
+### Retrouvez sur ce site ###
 
 - un chapitre en téléchargement, traitant des outils APT
 - le sommaire complet
@@ -32,7 +32,7 @@ parfaire leur maîtrise des outils Debian.
 - de magnifiques fonds d'écran Debian (tirés du livre)
 - un jeu pour GAGNER un exemplaire du livre !
 
-**Références du livre** :
+### Références du livre ###
 **Titre**: Debian GNU/Linux  
 **Auteur**: Raphaël Hertzog  
 **ISBN**: 2-212-11398-6  

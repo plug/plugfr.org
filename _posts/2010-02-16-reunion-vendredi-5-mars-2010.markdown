@@ -4,9 +4,7 @@ layout: post
 categories: reunions
 spip_id: 165
 ---
-<p class="chapo">
-Le PLUG organise une réunion le vendredi 5 mars 2010 à partir de 19h00.
-</p>
+**Le PLUG organise une réunion le vendredi 5 mars 2010 à partir de 19h00.**
 
 En dehors du déroulement classique de la soirée : apéro, discussions, rencontres, pizzas, … nous n'avons pas encore de sujet pré-défini.
 

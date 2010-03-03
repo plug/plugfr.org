@@ -9,7 +9,7 @@ Bonjour,
 
 L'équipe du bureau a le plaisir de vous inviter pour participer à une animation sur Gentoo ([http://www.gentoofr.org/presentation.html](http://www.gentoofr.org/presentation.html)) (lieu et date de la [réunion](/association/les-reunions-du-plug/)).
 
-- A partir de ** 20:30 !!! ** ne soyez pas en retard!
+A partir de ** 20:30 !!! ** ne soyez pas en retard!
 
 
 

@@ -4,7 +4,7 @@ layout: post
 categories: reunions
 spip_id: 58
 ---
-### Annonce ###
+
 Bonjour à tous,
 
 La prochaine réunion se tiendra le 18 Novembre à partir de 19:00 jusqu'a 0:00. 

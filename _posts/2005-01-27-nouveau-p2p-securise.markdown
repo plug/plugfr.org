@@ -22,7 +22,7 @@ En ce qui me concerne je voudrais vous parler du programme WASTE qui reste simpl
 
 Avec ce système (PGP) il est très difficile d'être regardé par les adèptes du P2P. Donc ont peut dire qu'aujourd'hui c'est le meilleur moyen pour garantir une confidencialité maximale dans vos transferts. Et donc aucun risque que vos données soient vues par des personnes indélicates!
 
-Le principe de sécurité est relativement simple! Il suffit de créer [[Il faut uniquement cliquer sur des boutons, aucune documentation n'est necessaire!]()] un code secret, appellé aussi clef privée, dans Waste puis d'en sortir un code public, par simple clic, que vous allez communiquer à vos relations! ; qui devront, elles aussi, faire les mêmes manipulations que vous pour pouvoir vous donner leur code public.
+Le principe de sécurité est relativement simple! Il suffit de créer (Il faut uniquement cliquer sur des boutons, aucune documentation n'est necessaire!) un code secret, appellé aussi clef privée, dans Waste puis d'en sortir un code public, par simple clic, que vous allez communiquer à vos relations! ; qui devront, elles aussi, faire les mêmes manipulations que vous pour pouvoir vous donner leur code public.
 Dès lors, seul ceux qui possèdent votre clef publique, et vous la leur, pourront se connecter à votre réseau!
 
 WASTE apporte d'autres fonctionnalités comme la possibilité de chatter avec les connectés de votre réseau, rendant ainsi plus conviviale les transferts et pouvant déboucher sur une interactivité des données à placer sur votre serveur et en foncton des demandes …
@@ -39,7 +39,5 @@ Vous le trouverez à [http://waste.sourceforge.net/](http://waste.sourceforge.ne
 
 Pour ceux qui veulent un exemple de configuration facile rendez-vous à 
 [http://www.forum-libre.com/protox.biz/tutorial/tutorial_waste_wasted.htm](http://www.forum-libre.com/protox.biz/tutorial/tutorial_waste_wasted.htm)
-
-Pour toute autre question, je vous propose d'utiliser le formulaire réponse de ce site. (en bas de l'article)
 
 

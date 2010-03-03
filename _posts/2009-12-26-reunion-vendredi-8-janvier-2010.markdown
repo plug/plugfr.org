@@ -4,10 +4,8 @@ layout: post
 categories: reunions
 spip_id: 162
 ---
-<p class="chapo">
-Le PLUG organise une réunion le vendredi 8 janvier 2010 à partir de 19h00.
-À noter, ça n'est pas le 1er vendredi du mois, ne vous trompez pas.
-</p>
+**Le PLUG organise une réunion le vendredi 8 janvier 2010 à partir de 19h00.
+À noter, ça n'est pas le 1er vendredi du mois, ne vous trompez pas.**
 
 Nous prévoyons la suite de la présentation sur la **programmation fonctionnelle** : concept et différences par rapports aux langages "non fonctionnels", exemples, …
 

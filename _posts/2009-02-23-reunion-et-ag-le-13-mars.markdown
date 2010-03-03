@@ -9,6 +9,7 @@ Bonjour à tous,
 Le PLUG organise une réunion le vendredi 13 mars 2009 à partir de 19:00.
 
 Elle commencera par une Assemblée Générale ordinaire, l'ordre du jour sera :
+
 - bilan comptable et d'activité depuis la précédente AG
 - débat sur le renouvellement des membres du bureau et le plan
 d'activité pour le futur

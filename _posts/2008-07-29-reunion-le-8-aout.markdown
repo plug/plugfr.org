@@ -10,7 +10,7 @@ Le PLUG organise une réunion le vendredi 8 août 2008 à partir de 19:00.
 
 Depuis quelques temps, des présentations impromptues ou improvisées sont proposées, en fonction des présents, des idées, … Toutes les questions sur tous les sujets, des plus simples aux plus spécifiques sont les bienvenues, nous tenterons d'y répondre le mieux possible.
 
-Si vous souhaitez voir certains thèmes spécifiques abordés lors des prochaines réunions, [vous pouvez nous en parler](./contact.php).
+Si vous souhaitez voir certains thèmes spécifiques abordés lors des prochaines réunions, [vous pouvez nous en parler](/contact.html).
 
 
 ----

@@ -11,7 +11,7 @@ Il se murmure que certains piliers du PLUG se retrouveront non loin de là, dans
 
 À suivre …
 
-**Mise à jour**
+### Mise à jour ###
 
 Aucune tendance particulière ne s'est dégagée à la place de la réunion.
 Les plus aventureux peuvent se retrouver devant La Bo\[a\]te au cas où.

@@ -1,5 +1,5 @@
 ---
-title: "ATTENTION: CHANGEMENT de DATE!!! - Réunion le 5 mars 2004"
+title: "Réunion le 5 mars 2004"
 layout: post
 categories: reunions
 spip_id: 14

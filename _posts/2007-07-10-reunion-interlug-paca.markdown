@@ -5,7 +5,7 @@ categories: divers
 spip_id: 110
 ---
 
-Ordre du jour de la réunion :
+### Ordre du jour de la réunion ###
 
 - associations : présentation générale
 - actions PACA
@@ -32,11 +32,15 @@ C'est la première réunion interlug officielle de la région.
 - Jérémy : Président, Grégory : Secrétaire, Vincent :Trésorier du [PLUG](http://www.plugfr.org/)
 - Véronique : Présidente de [Linux Azur](http://linux-azur.org)
 
-**Projets :** distribution d'un CD distribution libre + logiciels libres sur plateformes Mac/Windows. Conférences Open Source, ateliers débutants ou experts, install-parties publiques et privées, organisation des RMLL ou manifestation assimilée, etc.
+### Projets ###
+
+Distribution d'un CD distribution libre + logiciels libres sur plateformes Mac/Windows. Conférences Open Source, ateliers débutants ou experts, install-parties publiques et privées, organisation des RMLL ou manifestation assimilée, etc.
 
 Mise en place d'un macro-lug (conservation de chaque entité/liberté) avec une identité transversale. Pour le moment, cette fédération est informelle et deviendra officielle en fonction de l'implication des membres et de l'avancement tangible des projets.
 
-**Communication :** création d'un canal irc #pacalinux (NDFlow sur irc.freenode.net) et d'une liste de diffusion pacalinux chez arno.marsnet point org
+### Communication ###
+
+Création d'un canal irc #pacalinux (NDFlow sur irc.freenode.net) et d'une liste de diffusion pacalinux chez arno.marsnet point org
 
 Le but de ces outils est de créer/dynamiser une communication *entre* les LUG de PACA. Outre des discussions, nous nous permettrons donc de mettre en copie cette liste de diffusion pour annoncer les évènements/réunions de nos associations.
 
