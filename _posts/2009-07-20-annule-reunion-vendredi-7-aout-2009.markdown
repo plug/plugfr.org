@@ -1,5 +1,5 @@
 ---
-title: "[Annulé]() Réunion vendredi 7 août 2009"
+title: "[Annulé] Réunion vendredi 7 août 2009"
 layout: post
 categories: reunions
 spip_id: 156
@@ -13,6 +13,7 @@ Il se murmure que certains piliers du PLUG se retrouveront non loin de là, dans
 
 **Mise à jour**
 
-Aucune tendance particulière ne s'est dégagée à la place de la réunion.  
-Les plus aventureux peuvent se retrouver devant La Bo\[a\]te au cas où.  
+Aucune tendance particulière ne s'est dégagée à la place de la réunion.
+Les plus aventureux peuvent se retrouver devant La Bo\[a\]te au cas où.
 Je rappelle tout de même que La Bo\[a\]te est occupée ce soir par une soirée "non ouverte au public", donc merci de ne pas y entrer.
+
