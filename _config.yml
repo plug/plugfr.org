@@ -1,5 +1,5 @@
 auto: true
-pygments: false
+pygments: true
 lsi: false
 paginate: 5
 permalink: /:categories/:title/

@@ -7,3 +7,6 @@ Le script Ruby ayant servi à parser l'export XML (issu de phpMyAdmin) se trouve
 Les fichiers générés par ce script ont été passablement modifiés à la main après coup, mais il peut avoir une valeur pédagogique.
 
 Certains contenus (images, pdf, …) ont été copiés dans le dossier `./pub` pour pouvoir être reliés aux articles. Ça n'est pas exhaustif.
+
+[Pygments](http://pygments.org/) est utilisé pour colorer le code source.
+Il y a de nombreux styles CSS dans `./css/pygments`, j'ai laissé celui par défaut pour le moment.

@@ -39,8 +39,8 @@ Ensuite nous avons encore 2 choix :
 
 J'ai préféré la seconde option, plus "propre" à mon avis. Voyons donc ce qu'il y a dans notre fichier `/etc/init.d/firewall` :  
 
+{% highlight bash %}
     #!/bin/sh
-    #
     
     ruleset_dir=/var/lib/iptables
     
@@ -72,6 +72,7 @@ J'ai préféré la seconde option, plus "propre" à mon avis. Voyons donc ce qu'
     esac
     
     exit 0
+{% endhighlight %}
 
 On a donc un script qui permet de charger/décharger les règles avec les options **start** et **stop** utilisées automatiquement, mais il peut aussi accepter d'être rechargé avec les options **restart** ou **force-reload**.  
 Enfin, il permet de sauvegarder la configuration des règles courantes, avec l'option **save**, très utile quand on a testé des règles via la ligne de commande et qu'on souhaite les rendre persistantes.
