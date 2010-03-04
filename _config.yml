@@ -3,4 +3,5 @@ pygments: true
 lsi: false
 paginate:
 permalink: /:categories/:title/
-exclude: script
+exclude:
+  - script
