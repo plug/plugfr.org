@@ -1,5 +1,5 @@
 ---
-title: "[Màj]() Réunion le 7 décembre"
+title: "[Màj] Réunion le 7 décembre"
 layout: post
 categories: reunions
 spip_id: 125
