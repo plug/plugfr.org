@@ -23,6 +23,10 @@ body {
   font-size: 12px;
 }
 
+#main-content section {
+/*  margin-top: 0.5em;*/
+}
+
 #about {
   padding-top: 5px;
 }
@@ -120,7 +124,9 @@ h6{font-size:15px}
 ol{list-style:decimal}
 ul{list-style:disc}
 li{margin-left:30px}
-p,dl,hr,h1,h2,h3,h4,h5,h6,ol,ul,pre,table,address,fieldset{margin-bottom:1em}
+p,dl,hr,ol,ul,pre,table,address,fieldset{margin-bottom:1em}
+
+h1,h2,h3,h4,h5,h6 {margin-bottom: 0.5em;}
 
 blockquote {
   margin: 5px 30px;
