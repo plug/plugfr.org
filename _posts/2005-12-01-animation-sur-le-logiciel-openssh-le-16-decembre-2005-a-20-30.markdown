@@ -23,5 +23,5 @@ Orange (initié à confirmé)
 
 ### Animateur ###
 
-[Alexandre Anriot](mailto:aanriot@atlantilde.com)
+Alexandre Anriot (<aanriot@atlantilde.com>)
 

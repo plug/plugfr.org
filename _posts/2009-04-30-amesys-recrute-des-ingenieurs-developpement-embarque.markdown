@@ -13,7 +13,7 @@ La connaissance du domaine domaine Consumer Electronics et des normes audio et v
 Anglais obligatoire.
 
 Si ces projets vous intéressent, merci de me contacter:
-Nicolas Viala
-n.viala@amesys.fr
-06 77 64 15 35
+> Nicolas Viala  
+> <n.viala@amesys.fr>  
+> 06 77 64 15 35
 

@@ -36,8 +36,9 @@ Développer des solutions innovantes, Data+Voix (ToIP en embarqué) dans le doma
 De formation ingénieur, vous maîtrisez le langage C ainsi que le système d'exploitation Linux. Votre cursus vous a permis de vous familiariser avec l'électronique, les systèmes embarqués et leurs spécificités. Langues français, anglais technique. 
 
 
-Contactez **Jean-François Hugon**
-International sales&amp;marketing director @ efixo  
-[jean-francois.hugon@efixo.com](jean-francois.hugon@efixo.com)  
-+33 4 88 15 50 45  
-LinkedIN : [http://www.linkedin.com/in/jfhugon](http://www.linkedin.com/in/jfhugon)
+Contactez
+> **Jean-François Hugon**  
+> International sales & marketing director Efixo  
+> Email : jean-francois.hugon@efixo.com  
+> Tel : +33 4 88 15 50 45  
+> LinkedIN : <http://www.linkedin.com/in/jfhugon/>

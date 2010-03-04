@@ -22,7 +22,7 @@ Il existe deux types d'exposés :
 - exposé technique
 
 
-Toute personne, adhérante ou non, peut proposer une présentation lors d'une réunion. Il suffit de contacter les membres du bureau directement par mail [info@plugfr.org](info@plugfr.org) ou grâce aux [listes de diffusion](/mailing-lists.html)
+Toute personne, adhérante ou non, peut proposer une présentation lors d'une réunion. Il suffit de contacter les membres du bureau directement par mail <contact@plugfr.org> ou grâce aux [listes de diffusion](/mailing-lists.html)
 
 ### Participer aux discussions électroniques ###
 

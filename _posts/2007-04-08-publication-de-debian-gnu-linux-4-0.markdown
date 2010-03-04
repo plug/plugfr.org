@@ -95,4 +95,4 @@ direction.
 
 Contacts
 
-Pour plus d'informations, veuillez visiter [les pages web Debian](http://www.debian.org/) ou envoyez un [courriel](press@debian.org).
+Pour plus d'informations, veuillez visiter [les pages web Debian](http://www.debian.org/) ou envoyez un courriel à <press@debian.org>.

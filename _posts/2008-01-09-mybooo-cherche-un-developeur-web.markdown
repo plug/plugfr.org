@@ -22,4 +22,4 @@ serveurs serait un plus,
 - La maîtrise des environnements Linux serait appréciée,
 - La connaissance du langage Java serait encore plus appréciée,
 
-Envoyez CV + LM à [jd@lynxoft.com](jd@lynxoft.com)
+Envoyez CV + LM à <jd@lynxoft.com>

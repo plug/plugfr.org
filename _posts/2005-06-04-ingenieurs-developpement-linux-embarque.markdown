@@ -25,7 +25,7 @@ Référence: LIN05
 
 **Coordonnées du contact**  
 Benoit Monsavoir  
-benoit.monsavoir@elanit.fr  
+<benoit.monsavoir@elanit.fr>
 Elan IT Resource  
 1240, route des Dolines  
 Valbonne FR 06560  

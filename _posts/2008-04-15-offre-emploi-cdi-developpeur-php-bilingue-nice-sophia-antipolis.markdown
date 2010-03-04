@@ -37,5 +37,5 @@ Lieu de travail : Alpes Maritimes - Nice - Sophia Antipolis
 
 Date de disponibilité souhaitée : Immédiate
 
-Merci d'envoyer votre CV + lettre motivation à : rh@e-toxic.fr
+Merci d'envoyer votre CV + lettre motivation à : <rh@e-toxic.fr> 
 

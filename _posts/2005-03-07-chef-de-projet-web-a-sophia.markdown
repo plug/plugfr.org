@@ -30,4 +30,4 @@ BP 309
 06906 Sophia Antipolis   
 Tel: 04 93 00 11 20  
 Fax: 04 93 00 11 01  
-[adutto@alten.fr](mailto:adutto@alten.fr)
+Mail: <adutto@alten.fr>

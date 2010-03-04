@@ -11,4 +11,4 @@ Le développeur pourrait être soit disponible à plein temps le temps de réali
 Commençant à peine à m'installer définitivement à Marseille, je n'ai pas de réels contacts dans la région.
 C'est le pourquoi cette annonce.
 
-gallicoraffalli (A) free POINT fr
+<gallicoraffalli@free.fr>

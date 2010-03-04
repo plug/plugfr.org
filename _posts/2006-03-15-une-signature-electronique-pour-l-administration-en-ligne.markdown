@@ -15,4 +15,4 @@ Ce site est fait sous SPIP, et annonce régulièrement des embauches, publie des
 
 L'information est assez intéressante et permet d'éventuellemet s'investir un peu dans cette vaste question.
 
-[http://www.adae.gouv.fr/](http://www.adae.gouv.fr/)
+<http://www.adae.gouv.fr/>

@@ -16,7 +16,7 @@ Revues.org fait partie du Laboratoire d'édition électronique ouverte, qui est 
 
 **Contrat :** CDD, dans un premier temps.
 
-**Rémunération :** Environ 19.500 bruts annuels (Ingénieur d'études 2e classe, 1er échelon).
+**Rémunération :** Environ 19.500 € bruts annuels (Ingénieur d'études 2e classe, 1er échelon).
 
 **Région :** Provence Alpes Cote d'azur
 
@@ -49,4 +49,4 @@ Revues.org fait partie du Laboratoire d'édition électronique ouverte, qui est 
 
 **ENVOYER SA CANDIDATURE**
 
-Ecrire à editionelectronique@ehess.fr
+Ecrire à <editionelectronique@ehess.fr>

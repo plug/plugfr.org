@@ -18,5 +18,5 @@ Je vais mettre en place un lien vers votre site également.
 
 merci à vous
 
-- marcbey@bashprofile.net
-- http://www.bashprofile.net
+- <marcbey@bashprofile.net> 
+- <http://www.bashprofile.net>
