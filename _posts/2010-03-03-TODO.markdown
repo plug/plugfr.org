@@ -14,3 +14,6 @@ categories: divers
 * trouver un moyen simple de concaténer les CSS et les JS
 * trouver un moyen (propre) pour afficher des noms de catégories avec accents sur la page d'un post (ex: on ne peut pas afficher "réunions")
 
+> NB : Le code source du site est hébergé sur [Github](http://github.com/jlecour/jekyll_plugfr) et librement modifiable par ceux qui connaissent [Git](http://git-scm.com/).
+
+> Une fois le site en ligne (sur http://plugfr.org/), … le repository GitHub sera passé sous le nom du PLUG.
