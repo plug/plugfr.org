@@ -3,5 +3,6 @@ pygments: true
 lsi: false
 paginate:
 permalink: /:categories/:title/
+root_uri: http://plug.lecour.fr
 exclude:
   - script

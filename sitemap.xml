@@ -1,65 +1,65 @@
 ---
-rooturi: http://plug.lecour.fr
+layout: nil
 ---
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
    <url>
-      <loc>{{site.rooturi}}/</loc>
+      <loc>{{site.root_uri}}/</loc>
       <lastmod>{{ site.time | date: '%Y-%m-%d' }}</lastmod>
       <changefreq>weekly</changefreq>
       <priority>1</priority>
    </url>
    <url>
-      <loc>{{site.rooturi}}/contact.html</loc>
+      <loc>{{site.root_uri}}/contact.html</loc>
       <lastmod>{{ site.time | date: '%Y-%m-%d' }}</lastmod>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
    </url>
    <url>
-      <loc>{{site.rooturi}}/a-propos.html</loc>
+      <loc>{{site.root_uri}}/a-propos.html</loc>
       <lastmod>{{ site.time | date: '%Y-%m-%d' }}</lastmod>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
    </url>
    <url>
-      <loc>{{site.rooturi}}/historique.html</loc>
+      <loc>{{site.root_uri}}/historique.html</loc>
       <lastmod>{{ site.time | date: '%Y-%m-%d' }}</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
    </url>
    <url>
-      <loc>{{site.rooturi}}/mailing-lists.html</loc>
+      <loc>{{site.root_uri}}/mailing-lists.html</loc>
       <lastmod>{{ site.time | date: '%Y-%m-%d' }}</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.8</priority>
    </url>
    <url>
-      <loc>{{site.rooturi}}/mentions-legales.html</loc>
+      <loc>{{site.root_uri}}/mentions-legales.html</loc>
       <lastmod>{{ site.time | date: '%Y-%m-%d' }}</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
    </url>
    <url>
-      <loc>{{site.rooturi}}/statuts.html</loc>
+      <loc>{{site.root_uri}}/statuts.html</loc>
       <lastmod>{{ site.time | date: '%Y-%m-%d' }}</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
    </url>
    <url>
-      <loc>{{site.rooturi}}/archives-dates.html</loc>
+      <loc>{{site.root_uri}}/archives-dates.html</loc>
       <lastmod>{{ site.time | date: '%Y-%m-%d' }}</lastmod>
       <changefreq>daily</changefreq>
       <priority>1</priority>
    </url>
    <url>
-      <loc>{{site.rooturi}}/archives-categories.html</loc>
+      <loc>{{site.root_uri}}/archives-categories.html</loc>
       <lastmod>{{ site.time | date: '%Y-%m-%d' }}</lastmod>
       <changefreq>daily</changefreq>
       <priority>1</priority>
    </url>
 {% for post in site.posts %}
    <url>
-      <loc>{{site.rooturi}}{{ post.url }}</loc>
+      <loc>{{site.root_uri}}{{ post.url }}</loc>
       <lastmod>{{ site.time | date: '%Y-%m-%d' }}</lastmod>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>

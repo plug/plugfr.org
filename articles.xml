@@ -5,10 +5,10 @@ layout: nil
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>PLUG &#8211; Provence Linux User Group</title>
- <link href="http://plugfr.org/articles.xml" rel="self"/>
- <link href="http://plugfr.org/"/>
+ <link href="{{site.root_uri}}/articles.xml" rel="self"/>
+ <link href="{{site.root_uri}}/"/>
  <updated>{{ site.time | date_to_xmlschema }}</updated>
- <id>http://plugfr.org/</id>
+ <id>{{site.root_uri}}/</id>
  <author>
    <name>PLUG &#8211; Provence Linux User Group</name>
    <email>contact@plugfr.org</email>
@@ -17,9 +17,9 @@ layout: nil
  {% for post in site.posts limit:20 offset:0 %}
  <entry>
    <title>{{ post.title }}</title>
-   <link href="http://plugfr.org{{ post.url }}"/>
+   <link href="{{site.root_uri}}{{ post.url }}"/>
    <updated>{{ post.date | date_to_xmlschema }}</updated>
-   <id>http://plugfr.org{{ post.id }}</id>
+   <id>{{site.root_uri}}{{ post.id }}</id>
    <content type="html">{{ post.content | xml_escape }}</content>
  </entry>
  {% endfor %}
