@@ -4,6 +4,7 @@ layout: post
 categories: divers
 ---
 
+* faire un fichier de redirections en utilisant les ID des articles SPIP
 * corriger d'éventuels formattages bizarres dans les posts
 * mettre à jour les mentions légales
 * voir si une solution est possible pour la recherche (via Google ou autre), sinon, désactiver le champ de recherche dans le bandeau de navigation
