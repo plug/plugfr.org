@@ -10,8 +10,6 @@ En dehors du déroulement classique de la soirée : apéro, discussions, rencont
 
 Si vous avez envie de prendre la parole ou animer un atelier, pendant 5 minutes ou 1h, prenez contact.
 
-Selon la tradition de l'auberge espagnole, les participants à la réunion sont invités à apporter un petit quelque chose à boire et/ou à grignoter.
-
 ----
 La réunion se tiendra à La Bo\[a\]te.
 
