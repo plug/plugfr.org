@@ -1,11 +1,21 @@
 #!/usr/bin/env bash
-SITEMAP=_site/sitemap.xml
 
-if [ -f $SITEMAP ]; then
-  if [ -f $SITEMAP.gz ]; then
-    rm $SITEMAP.gz
+rm -rf _site/*
+
+jekyll --no-auto
+
+if [ $? -eq 0 ]; then
+  SITEMAP=_site/sitemap.xml
+  
+  if [ -f $SITEMAP ]; then
+    if [ -f $SITEMAP.gz ]; then
+      rm $SITEMAP.gz
+    fi
+    gzip -c $SITEMAP > $SITEMAP.gz
   fi
-  gzip -c $SITEMAP > $SITEMAP.gz
+  
+  rsync -aH --exclude=.git --delete-excluded _site/ lecour@lecour.fr:jeremy/plug/
+else
+  echo "----"
+  echo "Impossible de re-générer le site Jekyll a retourné l'erreur $?"
 fi
-
-rsync -avH --exclude=.git --delete-excluded _site/ lecour@lecour.fr:jeremy/plug/
