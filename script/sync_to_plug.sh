@@ -15,6 +15,9 @@ if [ $? -eq 0 ]; then
   fi
   
   rsync -aH --exclude=.git --delete-excluded _site/ lecour@lecour.fr:jeremy/plug/
+  if [ $? -eq 0 ]; then
+    echo "Site uploaded to 'lecour.fr:jeremy/plug/'"
+  fi
 else
   echo "----"
   echo "Impossible de re-générer le site Jekyll a retourné l'erreur $?"
