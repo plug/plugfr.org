@@ -2,6 +2,7 @@
 title: "TODO pour le nouveau site du PLUG"
 layout: post
 categories: divers
+author: "Jérémy Lecour"
 ---
 
 * faire un fichier de redirections en utilisant les ID des articles SPIP
