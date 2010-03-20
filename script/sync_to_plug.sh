@@ -14,9 +14,10 @@ if [ $? -eq 0 ]; then
     gzip -c $SITEMAP > $SITEMAP.gz
   fi
   
-  rsync -aH --exclude=.git --delete-excluded _site/ lecour@lecour.fr:jeremy/plug/
+  # rsync -aH --exclude=.git --delete-excluded _site/ lecour@lecour.fr:jeremy/plug/
+  rsync -aH --exclude=.git --delete-excluded _site/ plug@ssh.tuxfamily.org:plugfr/plugfr.org-web/htdocs/
   if [ $? -eq 0 ]; then
-    echo "Site uploaded to 'lecour.fr:jeremy/plug/'"
+    echo "Site uploaded to 'TuxFamily' : http://plugfr.org/"
   fi
 else
   echo "----"
