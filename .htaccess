@@ -1,1 +1,12 @@
+---
+layout: nil
+---
 ErrorDocument 404 /404.html
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+    RewriteCond %{QUERY_STRING} ^id_article\=(.+)$
+    RewriteRule ^spip/article.php3$ /r/%1?
+{% for post in site.posts %}
+    {% if post.spip_id != null %}RewriteRule ^r/{{ post.spip_id }}$ {{ post.url }} [R=301,L]{% endif %}
+{% endfor %}
+</IfModule>
