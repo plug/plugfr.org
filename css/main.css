@@ -230,9 +230,9 @@ aside .title {
   font-weight: bold;
   font-size: 12px;
 }
-#nav-archives #search-field {
-/*  width: 100%;*/
-margin-left: 1em;
+#nav-search #search-field {
+  width: 100%;
+/*margin-left: 1em;*/
 }
 
 #nav-archives li {
