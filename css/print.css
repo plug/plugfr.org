@@ -1,0 +1,23 @@
+#main-header #logo,
+#main-header #baseline,
+nav,
+#main-footer {
+  display: none;
+}
+
+#wrapper {
+  width: auto;
+  border: 0;
+  margin: 0 5%;
+  padding: 0;
+  float: none !important;
+}
+a:link, a:visited {
+/*  color: #333;*/
+  background: transparent;
+  text-decoration: underline;
+  }
+#archives section h3 {
+  text-align: left;
+  margin-bottom: 0;
+}
