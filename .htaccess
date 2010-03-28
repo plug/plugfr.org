@@ -14,5 +14,5 @@ ErrorDocument 500 /500.html
 {% endfor %}
     RewriteRule ^spip/?$ / [R=301,L]
     RewriteRule ^spip/contact.php /contact/ [R=301,L]
-    RewriteRule ^spip/backend.php3 /articles.xml [R=301,L]
+    RewriteRule ^spip/backend.php3 /feeds/articles.xml [R=301,L]
 </IfModule>
