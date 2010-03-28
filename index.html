@@ -6,7 +6,7 @@ title: PLUG &ndash; Provence Linux User Group
 <article>
   <header>
     <h2><a href="{{ first_post.url }}">{{ first_post.title }}</a></h2>
-    <p>publié le <time datetime="{{ first_post.date | date_to_xmlschema }}">{{ first_post.date | date: "%d %B %Y" }}</time> dans <a href="/archives-categories.html" class="category">{{ first_post.categories }}</a></p>
+    <p>publié le <time datetime="{{ first_post.date | date_to_xmlschema }}">{{ first_post.date | date: "%d %B %Y" }}</time> dans <a href="/archives/categories.html" class="category">{{ first_post.categories }}</a></p>
   </header>
   {{ first_post.content }}
 </article>
@@ -21,5 +21,5 @@ title: PLUG &ndash; Provence Linux User Group
 {% endunless %}
 {% endfor %}
 <nav class="articles-nav">
-  <p>&larr; voir les <a href="/archives-dates.html" rel="index" title="Archives des articles">articles plus anciens</a></p>
+  <p>&larr; voir les <a href="/archives/dates.html" rel="index" title="Archives des articles">articles plus anciens</a></p>
 </nav>

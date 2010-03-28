@@ -9,7 +9,7 @@ L'adhésion au PLUG passe par une cotisation :
 - 10 EUROS pour les personnes salariées
 - 5 EUROS pour les personnes non salariées (étudiant, sans emploi, retraité, etc.)
 
-Les adhésions au PLUG sont renouvelées chaque année en janvier pour 12 mois. Pour adhérer, vous pouvez contacter les membres du bureau par courrier électronique [/contact.html](/contact.html) ; mais le plus simple est de venir aux [réunions du PLUG](/association/les-reunions-du-plug/).
+Les adhésions au PLUG sont renouvelées chaque année en janvier pour 12 mois. Pour adhérer, vous pouvez contacter les membres du bureau par courrier électronique [/contact/](/contact/) ; mais le plus simple est de venir aux [réunions du PLUG](/association/les-reunions-du-plug/).
 
 L'adhésion donne notamment le droit de voter lors de l'assemblée générale du PLUG se déroulant en décembre de chaque année, et ainsi élire les membres du bureau et valider certaines décisions.
 

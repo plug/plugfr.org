@@ -42,6 +42,6 @@ Vous pouvez adhérer au PLUG. Voir tous les détails sur l'article [Comment adh�
 
 ### Toutes les initiatives sont bienvenues ###
 
-Si vous avez de nouvelles idées pour le PLUG, des projets liés à la promotion de Linux et des logiciels libres, ou encore des propositions de collaboration avec d'autres associations, n'hésitez à nous informer par [ici](/contact.html) ou grâce aux [listes de diffusion](/mailing-lists.html)
+Si vous avez de nouvelles idées pour le PLUG, des projets liés à la promotion de Linux et des logiciels libres, ou encore des propositions de collaboration avec d'autres associations, n'hésitez à nous informer par [ici](/contact/) ou grâce aux [listes de diffusion](/mailing-lists.html)
 
 

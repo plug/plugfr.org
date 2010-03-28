@@ -12,7 +12,7 @@ Nous proposons un présentation verte (débutants) des outils internet courants 
 
 Comme d'habitude toutes les questions sur tous les sujets, des plus simples aux plus spécifiques sont les bienvenues, nous tenterons d'y répondre le mieux possible.
 
-Si vous souhaitez voir certains thèmes spécifiques abordés lors des prochaines réunions, [vous pouvez nous en parler](/contact.html).
+Si vous souhaitez voir certains thèmes spécifiques abordés lors des prochaines réunions, [vous pouvez nous en parler](/contact/).
 
 ----
 La réunion se tiendra à La Bo\[a\]te.

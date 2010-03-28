@@ -73,8 +73,8 @@ $mailer->subject      = "Contact par le site";
 $mailer->message      = $body;
       
 if ($mailer->send()) {
-  header('Location: /contact_ok.html');
+  header('Location: /contact/ok.html');
 } else {
-  header('Location: /contact_error.html');
+  header('Location: /contact/error.html');
 }
 ?>

@@ -10,4 +10,5 @@ ErrorDocument 404 /404.html
     {% if post.spip_id != null %}RewriteRule ^r/{{ post.spip_id }}$ {{ post.url }} [R=301,L]{% endif %}
 {% endfor %}
     RewriteRule ^spip/?$ / [R=301,L]
+    RewriteRule ^spip/contact.php /contact/ [R=301,L]
 </IfModule>

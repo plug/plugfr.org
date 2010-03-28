@@ -4,7 +4,7 @@ layout: default
 <article>
   <header>
     <h2><a href="{{ page.url }}">{{ page.title }}</a></h2>
-    <p>publié le <time datetime="{{ page.date | date_to_xmlschema }}" pubdate>{{ page.date | date: "%d %B %Y" }}</time> dans <a href="/archives-categories.html" class="category">{{ page.categories }}</a>{% if page.author != null %} écrit par {{page.author}}{% endif %}</p>
+    <p>publié le <time datetime="{{ page.date | date_to_xmlschema }}" pubdate>{{ page.date | date: "%d %B %Y" }}</time> dans <a href="/archives/categories.html" class="category">{{ page.categories }}</a>{% if page.author != null %} écrit par {{page.author}}{% endif %}</p>
   </header>
   {{ content }}
 </article>
