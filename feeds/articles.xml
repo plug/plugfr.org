@@ -5,7 +5,7 @@ layout: nil
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>PLUG &#8211; Provence Linux User Group</title>
- <link href="{{site.root_uri}}/articles.xml" rel="self"/>
+ <link href="{{site.root_uri}}/feeds/articles.xml" rel="self"/>
  <link href="{{site.root_uri}}/"/>
  <updated>{{ site.time | date_to_xmlschema }}</updated>
  <id>{{site.root_uri}}/</id>
