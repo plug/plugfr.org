@@ -7,9 +7,12 @@ ErrorDocument 500 /500.html
     RewriteEngine On
     RewriteCond %{QUERY_STRING} ^id_article\=(.+)$
     RewriteRule ^spip/article.php3$ /r/%1?
+    RewriteCond %{QUERY_STRING} ^id_rubrique\=(.+)$
+    RewriteRule ^spip/rubrique.php3$ /archives/categories.html? [R=301,L]
 {% for post in site.posts %}
     {% if post.spip_id != null %}RewriteRule ^r/{{ post.spip_id }}$ {{ post.url }} [R=301,L]{% endif %}
 {% endfor %}
     RewriteRule ^spip/?$ / [R=301,L]
     RewriteRule ^spip/contact.php /contact/ [R=301,L]
+    RewriteRule ^spip/backend.php3 /articles.xml [R=301,L]
 </IfModule>
