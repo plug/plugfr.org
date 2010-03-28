@@ -1,3 +1,3 @@
 User-agent: *
-Disallow: /contact_ok.html
-Disallow: /contact_error.html
+Disallow: /contact/ok.html
+Disallow: /contact/error.html
