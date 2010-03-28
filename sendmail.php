@@ -65,7 +65,7 @@ $mailer->characterSet = "utf-8";
 // $mailer->to           = "contact@plugfr.org";
 $mailer->to           = "jeremy.lecour@gmail.com";
 $mailer->fromName     = isset($_POST['nom']) ? $_POST['nom'] : "Site web";
-$mailer->fromEmail    = isset($_POST['email'] && $_POST['email'] != "") ? $_POST['email'] : "contact@plugfr.org";
+$mailer->fromEmail    = (isset($_POST['email']) && $_POST['email'] != "") ? $_POST['email'] : "contact@plugfr.org";
 if ( isset($_POST['email']) && $_POST['email'] != "" ) {
   $mailer->replyEmail = $_POST['email'];
 }
