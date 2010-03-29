@@ -13,6 +13,7 @@ ErrorDocument 500 /500.html
     {% if post.spip_id != null %}RewriteRule ^r/{{ post.spip_id }}$ {{ post.url }} [R=301,L]{% endif %}
 {% endfor %}
     RewriteRule ^s5(.+) /pub/s5$1 [R=301,L]
+    RewriteRule ^r/(57|103)$ /association/mailing-lists.html [R=301,L]
     RewriteRule ^spip/?$ / [R=301,L]
     RewriteRule ^spip/contact.php /contact/ [R=301,L]
     RewriteRule ^spip/backend.php3 /feeds/articles.xml [R=301,L]
