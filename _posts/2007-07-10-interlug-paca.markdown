@@ -29,7 +29,7 @@ C'est la première réunion interlug officielle de la région.
 
 - Arnaud : Président de l'[aXul](http://www.axul.org/) + assodev
 - Dean : Président de [Ciel](http://www.ciel.eu.org/)
-- Jérémy : Président, Grégory : Secrétaire, Vincent :Trésorier du [PLUG](http://www.plugfr.org/)
+- Jérémy : Président, Grégory : Secrétaire, Vincent :Trésorier du [PLUG](http://plugfr.org/)
 - Véronique : Présidente de [Linux Azur](http://linux-azur.org)
 
 ### Projets ###
