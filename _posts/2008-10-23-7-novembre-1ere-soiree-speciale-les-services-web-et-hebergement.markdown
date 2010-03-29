@@ -19,6 +19,6 @@ Le niveau général devrait être plus élevé qu'à l'habitude, sans se limiter
 Ceux qui souhaitent apprendre à instaler et paramétrer un petit serveur web/ftp pour la maison ou un site perso risquent de ne pas trouver ceux qu'ils attendent ces soirs là. Mais qu'ils se rassurent nous organiserons une soirée pour eux s'ils le demandent 
 
 ### Infos complémentaires ###
-[Une page](http://snipr.com/3qemp) est en cours de construction sur le Wiki du PLUG [http://plugfr.org/wiki/](http://plugfr.org/wiki/).
+[Une page](http://snipr.com/3qemp) est en cours de construction sur le Wiki du PLUG [http://wiki.plugfr.org/](http://wiki.plugfr.org/).
 
 Pour le reste, la soirée sera proche de l'habitude : chacun apporte un petit quelque chose à grignotter et/ou boire. Nous n'échapperons pas à la traditionnelle commande des pizzas.
