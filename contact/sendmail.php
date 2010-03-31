@@ -56,10 +56,10 @@ class MicroMailer{
 
 $mailer = new MicroMailer();
 
-$body  = "Nom    : ".$_POST['nom'];
-$body .= "\nE-mail : ".$_POST['email'];
-$body .= "\nURL    : ".$_POST['url'];
-$body .= "\n\n".$_POST['message'];
+$body  = "Nom    : ".(isset($_POST['nom']) ? $_POST['nom'] : $_POST['nom']);
+$body .= "\nE-mail : ".(isset($_POST['email']) ? $_POST['email'] : $_POST['email']);
+$body .= "\nURL    : ".(isset($_POST['url']) ? $_POST['url'] : $_POST['url']);
+$body .= "\n\n".(isset($_POST['message']) ? $_POST['message'] : $_POST['message']);
 
 $mailer->characterSet = "utf-8";
 // $mailer->to           = "contact@plugfr.org";
@@ -69,7 +69,7 @@ $mailer->fromEmail    = (isset($_POST['email']) && $_POST['email'] != "") ? $_PO
 if ( isset($_POST['email']) && $_POST['email'] != "" ) {
   $mailer->replyEmail = $_POST['email'];
 }
-$mailer->subject      = "Contact par le site";
+$mailer->subject      = "[PLUG] Contact par le site";
 $mailer->message      = $body;
       
 if ($mailer->send()) {
