@@ -13,7 +13,7 @@ Réunion à partir de 16:00
 **Assemblé Générale ANNULÉE**
 **reportez vous au nouveau rendez-vous**
 
-**[CLIQUEZ ICI](art72)**
+**[CLIQUEZ ICI](/r/72)**
 
 
 

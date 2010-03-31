@@ -9,7 +9,7 @@ Bonjour à tous,
 
 La prochaine réunion se tiendra le 18 Novembre à partir de 19:00 jusqu'a 0:00. 
 
-Au programme, outre les pizzas et autres joyeusetés, [une animation sur IPv6](art59) avec présentation et mise en oeuvre (apportez vos machines).
+Au programme, outre les pizzas et autres joyeusetés, [une animation sur IPv6](/r/59) avec présentation et mise en oeuvre (apportez vos machines).
 
 
 ### Adresse ###

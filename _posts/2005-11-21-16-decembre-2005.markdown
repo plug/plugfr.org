@@ -5,7 +5,7 @@ subtitle: 16 Décembre 2005
 categories: reunions
 spip_id: 60
 ---
-Pour plus de détails sur le nouvel emplacement de la soire du 16, veuillez suivre ce lien : [contributions](art61)
+Pour plus de détails sur le nouvel emplacement de la soire du 16, veuillez suivre ce lien : [contributions](/r/61)
 
 
 ### Annonce ###

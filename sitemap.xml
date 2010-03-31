@@ -34,7 +34,7 @@ layout: nil
       <priority>0.8</priority>
    </url>
    <url>
-      <loc>{{site.root_uri}}/mentions-legales.html</loc>
+      <loc>{{site.root_uri}}/mentions-legales/</loc>
       <lastmod>{{ site.time | date: '%Y-%m-%d' }}</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>

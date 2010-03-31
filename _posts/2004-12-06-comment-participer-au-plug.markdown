@@ -38,7 +38,7 @@ des dizaines de milliers de lignes par mois, le canal IRC du PLUG permet à plus
 
 ### Adhérer au PLUG ###
 
-Vous pouvez adhérer au PLUG. Voir tous les détails sur l'article [Comment adhérer au PLUG ?](art31)
+Vous pouvez adhérer au PLUG. Voir tous les détails sur l'article [Comment adhérer au PLUG ?](/r/31)
 
 ### Toutes les initiatives sont bienvenues ###
 

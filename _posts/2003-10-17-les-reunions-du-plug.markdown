@@ -30,9 +30,9 @@ Certaines fois l'un d'entre nous (pourquoi pas vous) propose un petit exposé po
 
 ### Qui peut venir ? ###
 
-Vous pouvez participer aux réunions sans être [adhérant](art31). Les réunions s'adressent à un large public intéressé de près ou de loin par Linux et les logiciels libres.
+Vous pouvez participer aux réunions sans être [adhérant](/r/31). Les réunions s'adressent à un large public intéressé de près ou de loin par Linux et les logiciels libres.
 
 ----
 Maintenant que vous savez tout, vous n'avez aucune excuse pour ne pas venir !
 
-Vous trouverez [ici](art4) une description des réunions écrite en 1997.
+Vous trouverez [ici](/r/4) une description des réunions écrite en 1997.

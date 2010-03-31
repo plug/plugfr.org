@@ -7,7 +7,7 @@ spip_id: 61
 ---
 L'équipe du bureau a le plaisir de vous inviter pour participer à une animation sur le logiciel OpenSSH.
 
-A partir de ** 20:30 !!! ** ne soyez pas en retard !
+A partir de **20:30 !!!** ne soyez pas en retard !
 
 ### Plan de la présentation ###
 
