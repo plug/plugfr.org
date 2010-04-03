@@ -17,5 +17,5 @@ ErrorDocument 500 /500.html
     RewriteRule ^spip/?$ / [R=301,L]
     RewriteRule ^spip/contact.php /contact/ [R=301,L]
     RewriteRule ^spip/backend.php3 /feeds/articles.xml [R=301,L]
-    RewriteRule ^wiki(.+) http://wiki.plugfr.org/wiki$1 [R=301,L]
+    RewriteRule ^wiki(.+)? http://wiki.plugfr.org/wiki$1 [R=301,L]
 </IfModule>
