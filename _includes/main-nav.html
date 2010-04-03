@@ -62,7 +62,7 @@
         {% if year != year_prev %}
           <li><a href="/archives/dates.html#{{ year }}" title="les articles publiés en {{ year }}">{{ year }}</a></li>
         {% endif %}
-        {% capture year_prev %}{{ year }}{% endcapture %}
+        {% assign year_prev = year %}
       {% endfor %}
       </ul>
     </div>
