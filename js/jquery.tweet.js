@@ -83,13 +83,13 @@
         return '' + n + ' ' + singular + (n == 1 ? '' : 's');
       };
       if(delta < 60) {
-      return 'il y a moins d\'une minute';
+      return 'il y a '+ pluralize("seconde", parseInt(delta));
       } else if(delta < (60*60)) {
-      return 'il y a environ ' + pluralize("minute", parseInt(delta / 60));
+      return 'il y a ' + pluralize("minute", parseInt(delta / 60));
       } else if(delta < (24*60*60)) {
-      return 'il y a environ ' + pluralize("heure", parseInt(delta / 3600));
+      return 'il y a ' + pluralize("heure", parseInt(delta / 3600));
       } else {
-      return 'il y a environ ' + pluralize("jour", parseInt(delta / 86400));
+      return 'il y a ' + pluralize("jour", parseInt(delta / 86400));
       }
     }
 
@@ -144,11 +144,11 @@
           var join = ((s.join_text) ? join_template : ' ');
           var avatar_template = '<a class="tweet_avatar" href="http://twitter.com/'+from_user+'"><img src="'+profile_image_url+'" height="'+s.avatar_size+'" width="'+s.avatar_size+'" alt="'+from_user+'\'s avatar" title="'+from_user+'\'s avatar" border="0"/></a>';
           var avatar = (s.avatar_size ? avatar_template : '');
-          var date = '<span class="tweet_time"><a href="http://twitter.com/'+from_user+'/statuses/'+item.id+'" title="view tweet on twitter">'+relative_time(item.created_at)+'</a></span>';
+          var date = '<span class="tweet_time"><a href="http://twitter.com/'+from_user+'/statuses/'+item.id+'" title="voir sur Twitter">'+relative_time(item.created_at)+'</a></span>';
           var text = '<span class="tweet_text">' +$([item.text]).linkUrl().linkUser().linkHash().makeHeart().capAwesome().capEpic()[0]+ '</span>';
 
           // until we create a template option, arrange the items below to alter a tweet's display.
-          list.append('<li>' + avatar + date + join + text + '</li>');
+          list.append('<li>' + avatar + ' ' + date + ' : ' + text + '</li>');
 
           list.children('li:first').addClass('tweet_first');
           list.children('li:odd').addClass('tweet_even');

@@ -5,8 +5,9 @@ $('a[href][rel="external"]').live('click', function() {
 
 jQuery(document).ready(function($) {
   $("#tweets").tweet({
-    username: "plugfr",
-    count: 3,
-    loading_text: "chargement ..."
+    username: "@plugfr",
+    avatar_size: 16,
+    count: 5,
+    loading_text: "Chargement ..."
   });
 });

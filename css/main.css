@@ -41,7 +41,7 @@ article header h2{margin:0;}
 article header p{font-size:12px;margin-bottom:0;}
 #home article{border-bottom:1px solid #ccc;}
 #home article header{margin-bottom:0;padding-bottom:0;border:0;}
-aside{float:right;width:30%;padding:0 0 0 1em;margin:0 0 1em 1em;border-left:2px solid #efefef;font-size:85%;font-style:italic;}
+aside{float:right;width:35%;padding:0 0 0 1em;margin:0 0 1em 1em;border-left:2px solid #efefef;font-size:85%;font-style:italic;}
 aside .title{font-size:14px;font-weight:bold;margin-bottom:0.5em;}
 #main-nav .nav-block{padding:10px;font-family:helvetica,"helvetica neue",arial,verdana,sans-serif;font-size:13px;border-bottom:1px solid #efefef;}
 #main-nav .nav-subcol{float:left;width:48%;}
@@ -68,3 +68,7 @@ table td,table th{padding:2px 5px;text-align:left;}
 table thead{border-bottom:1px solid #ccc;}
 table tbody th,table tbody td{border-bottom:1px solid #efefef;}
 sup{font-size:0.85em;vertical-align:top;}
+#tweets ul {margin:0;padding:0;list-style-type:none;}
+#tweets li {margin:0;padding:0.5em 0;}
+.tweet_time a {color:#ccc;}
+.tweet_avatar {vertical-align:middle;}
