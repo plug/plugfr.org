@@ -6,10 +6,11 @@ spip_id: 166
 ---
 **Le PLUG organise une réunion le vendredi 9 avril 2010 à partir de 19h00. À noter, ça n’est pas le 1er vendredi du mois, ne vous trompez pas.**
 
-Il n’y a pas encore de sujet de prévu.
+Au programme :
+* inauguration du **nouveau site** et présentation des outils et du process de mise à jour
+* présentation de **Ruby**, un langage de programmation de plus en plus à la mode
 
-Il est fort probable que le nouveau site du PLUG soit lancé à cette occasion. 
-Vous pouvez consulter son état d’avancement sur <http://plug.lecour.fr> et voir ou modifier son code source sur [Github](http://github.com/jlecour/jekyll_plugfr/)
+Comptez aussi rencontrer plein de geeks sympas et compétents, participer au traditionnel apéro et à la tournée des pizzas.
 
 ----
 La réunion se tiendra à La Bo\[a\]te.
