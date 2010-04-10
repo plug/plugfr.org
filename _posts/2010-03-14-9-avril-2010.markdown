@@ -12,6 +12,10 @@ Au programme :
 
 Comptez aussi rencontrer plein de geeks sympas et compétents, participer au traditionnel apéro et à la tournée des pizzas.
 
+### Mise à jour ###
+
+La présentation est [disponible](/pub/intro_ruby_jlecour.tgz) aux formats PDF et Keynote (source).
+
 ----
 La réunion se tiendra à La Bo\[a\]te.
 
