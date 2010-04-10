@@ -2,7 +2,7 @@
 title: "Le PLUG recherche un écran de projection"
 layout: post
 categories: divers
-spip_id: 105
+post_id: 105
 ---
 Afin d'améliorer la qualité de ses présentations, le PLUG recherche un écran de projection. Si vous en avez un à céder (on peut rêver ;-), n'hésitez plus : il en sera fait bon usage !
 

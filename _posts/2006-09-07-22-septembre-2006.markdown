@@ -2,7 +2,7 @@
 title: "Réunion le 22 Septembre 2006"
 layout: post
 categories: reunions
-spip_id: 83
+post_id: 83
 ---
 Bonjour à tous,
 

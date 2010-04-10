@@ -2,7 +2,7 @@
 title: "Réunion le 6 février"
 layout: post
 categories: reunions
-spip_id: 13
+post_id: 13
 ---
 Malgré une annonce tardive, la réunion de février est donc confirmée.
   

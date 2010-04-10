@@ -3,7 +3,7 @@ title: "Animation sur le logiciel OpenSSH le 16 Décembre 2005 à 20:30"
 layout: post
 subtitle: 16 Décembre 2005
 categories: animations
-spip_id: 61
+post_id: 61
 ---
 L'équipe du bureau a le plaisir de vous inviter pour participer à une animation sur le logiciel OpenSSH.
 

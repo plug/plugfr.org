@@ -2,7 +2,7 @@
 title: "Offre d'emploi \"Admin système\" à Gémenos"
 layout: post
 categories: emploi
-spip_id: 116
+post_id: 116
 ---
 Vous serez chargé(e) de la configuration et de la maintenance des
 workstations Linux, et des quelques postes bureautiques Windows, de

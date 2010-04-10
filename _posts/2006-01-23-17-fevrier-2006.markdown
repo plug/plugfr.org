@@ -2,7 +2,7 @@
 title: "Réunion le 17 Février 2006"
 layout: post
 categories: reunions
-spip_id: 62
+post_id: 62
 ---
 
 ### Annonce ###

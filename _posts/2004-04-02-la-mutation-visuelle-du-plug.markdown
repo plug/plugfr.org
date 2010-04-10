@@ -3,7 +3,7 @@ title: "La mutation visuelle du PLUG"
 layout: post
 subtitle: Un nouveau site, un logo et des standards respectés.
 categories: association
-spip_id: 17
+post_id: 17
 ---
 La mutation visuelle de l'association se fait en plusieurs étapes :
 

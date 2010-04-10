@@ -10,7 +10,7 @@ ErrorDocument 500 /500.html
     RewriteCond %{QUERY_STRING} ^id_rubrique\=(.+)$
     RewriteRule ^spip/rubrique.php3$ /archives/categories.html? [R=301,L]
 {% for post in site.posts %}
-    {% if post.spip_id != null %}RewriteRule ^r/{{ post.spip_id }}$ {{ post.url }} [R=301,L]{% endif %}
+    {% if post.post_id != null %}RewriteRule ^r/{{ post.post_id }}$ {{ post.url }} [R=301,L]{% endif %}
 {% endfor %}
     RewriteRule ^s5(.+) /pub/s5$1 [R=301,L]
     RewriteRule ^r/(57|103)$ /association/mailing-lists.html [R=301,L]

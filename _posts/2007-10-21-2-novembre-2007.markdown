@@ -2,7 +2,7 @@
 title: "Réunion le 2 novembre"
 layout: post
 categories: reunions
-spip_id: 123
+post_id: 123
 ---
 Bonjour à tous,
 

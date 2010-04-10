@@ -2,7 +2,7 @@
 title: "Animation sur les Reseaux sans-fil securises avec OpenBSD. Le 19/05/2006."
 layout: post
 categories: animations
-spip_id: 76
+post_id: 76
 ---
 
 ### Plan de la présentation ###

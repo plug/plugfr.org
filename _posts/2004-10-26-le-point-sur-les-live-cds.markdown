@@ -2,7 +2,7 @@
 title: "Le point sur les Live-CDs"
 layout: post
 categories: animations
-spip_id: 29
+post_id: 29
 ---
 Cet article présente une liste non exhaustive des Live-CDs les plus connus avec des commentaires subjectifs. Si vous désirez ajouter un Live-CDs à la liste, ou bien si vous jugez un commentaire déplacé, contactez Grégory Colpart : *reg at gcolpart dot com*
 

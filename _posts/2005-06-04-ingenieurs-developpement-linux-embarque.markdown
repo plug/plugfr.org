@@ -2,7 +2,7 @@
 title: "Ingénieurs développement Linux embarqué"
 layout: post
 categories: emploi
-spip_id: 49
+post_id: 49
 ---
 [Offre sur Monster.fr](http://offres.monster.fr/getjob.asp?JobID=30707077&amp;WT.mc_n=MKT000125)
 

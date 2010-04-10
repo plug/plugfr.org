@@ -2,7 +2,7 @@
 title: "Quelques liens à propos de webdesign"
 layout: post
 categories: animations
-spip_id: 10
+post_id: 10
 ---
 Lors de la réunion de décembre, nous avons notamment discuté de webdesign vu 
 sous les angles des standards du web ; philosphie proche du logiciel libre 

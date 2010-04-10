@@ -2,7 +2,7 @@
 title: "Feuille de présence"
 layout: post
 categories: reunions
-spip_id: 37
+post_id: 37
 ---
 Une petite feuille de présence sera soumise à l'entrée du PLUG afin de mieux établir une carte de la fréquentation des réunions!
 

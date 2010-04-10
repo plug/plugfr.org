@@ -2,7 +2,7 @@
 title: "Animation sur *BSD le 8 Avril 2005 à 20:30"
 layout: post
 categories: animations
-spip_id: 45
+post_id: 45
 ---
 Bonjour,
 

@@ -2,7 +2,7 @@
 title: "Réunion vendredi 2 octobre 2009"
 layout: post
 categories: reunions
-spip_id: 158
+post_id: 158
 ---
 **Le PLUG organise une réunion le vendredi 2 octobre 2009 à partir de 19h00.**
 

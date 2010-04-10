@@ -2,7 +2,7 @@
 title: "Comment adhérer au PLUG ?"
 layout: post
 categories: association
-spip_id: 31
+post_id: 31
 ---
 L'adhésion au PLUG passe par une cotisation :
 

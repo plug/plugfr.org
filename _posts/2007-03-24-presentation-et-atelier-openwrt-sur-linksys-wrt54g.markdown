@@ -2,7 +2,7 @@
 title: "Présentation et atelier OpenWRT sur Linksys WRT54G"
 layout: post
 categories: animations
-spip_id: 94
+post_id: 94
 ---
 
 ### Plan de la présentation ### 

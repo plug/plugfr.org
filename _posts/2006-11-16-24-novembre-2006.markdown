@@ -2,7 +2,7 @@
 title: "Réunion le 24 Novembre 2006"
 layout: post
 categories: reunions
-spip_id: 85
+post_id: 85
 ---
 Bonjour à tous,
 

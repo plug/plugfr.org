@@ -2,7 +2,7 @@
 title: "7 novembre : 1ère soirée spéciale \"Les services web et leur infrastructure d'hébergement\""
 layout: post
 categories: reunions
-spip_id: 145
+post_id: 145
 ---
 Le PLUG organise 2 soirées autour du thème "Les services web et leur infrastructure d'hébergement".
 

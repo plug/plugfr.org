@@ -2,7 +2,7 @@
 title: "Quelques règles de firewall sous Debian (etch)"
 layout: post
 categories: divers
-spip_id: 108
+post_id: 108
 ---
 Après avoir installé une toute nouvelle Debian Etch et installé quelques services, j'ai eu besoin de quelques règles de firewall pour filtrer un peu ce qui circule.
 

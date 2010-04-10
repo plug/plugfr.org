@@ -2,7 +2,7 @@
 title: "Offre emploi CDI - Développeur PHP - Nice - Sophia Antipolis"
 layout: post
 categories: emploi
-spip_id: 135
+post_id: 135
 ---
 Jeune Entreprise Innovante
 

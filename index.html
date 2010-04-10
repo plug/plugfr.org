@@ -5,8 +5,8 @@ title: PLUG &ndash; Provence Linux User Group
 {% assign first_post = site.posts.first %}
 <article>
   <header>
-    <h2><a href="{{ first_post.url }}">{{ first_post.title }}</a></h2>
-    <p>publié le <time datetime="{{ first_post.date | date_to_xmlschema }}">{{ first_post.date | date: "%d %B %Y" }}</time> dans <a href="/archives/categories.html" class="category">{{ first_post.categories }}</a></p>
+    <h2><a href="{{ first_post.url }}" rel="bookmark">{{ first_post.title }}</a></h2>
+    <p>publié le <time datetime="{{ first_post.date | date_to_xmlschema }}">{{ first_post.date | date: "%d %B %Y" }}</time> dans <a href="/archives/categories.html" class="category">{{ first_post.categories }}</a>{% if first_post.author != null %} écrit par {{first_post.author}}{% endif %}{% if first_post.post_id != null %} - <a href="{{ site.root_uri }}/r/{{ first_post.post_id }}" rel="shorturl" title="Pratique pour copier/coller dans un tweet, un statut facebook, …">lien court</a>{% endif %}</p>
   </header>
   {{ first_post.content }}
 </article>

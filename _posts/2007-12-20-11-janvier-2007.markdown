@@ -2,7 +2,7 @@
 title: "Réunion le 11 janvier"
 layout: post
 categories: reunions
-spip_id: 127
+post_id: 127
 ---
 Bonjour à tous,
 

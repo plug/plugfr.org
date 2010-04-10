@@ -2,7 +2,7 @@
 title: "AMESYS recrute des ingénieurs développement embarqué"
 layout: post
 categories: emploi
-spip_id: 153
+post_id: 153
 ---
 Amesys (ex I2E Technologie), architecte de systèmes critiques, conçoit des systèmes complexes HW/SW pour de nombreux clients de l'Industrie, du transport, du Consumer Electronics, etc.
 

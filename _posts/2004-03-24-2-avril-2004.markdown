@@ -2,7 +2,7 @@
 title: "Réunion le 2 avril"
 layout: post
 categories: reunions
-spip_id: 15
+post_id: 15
 ---
 Nous vous donnons rendez-vous le vendredi 2 avril 2004 à la Maison Orangina à partir de 19h.
 

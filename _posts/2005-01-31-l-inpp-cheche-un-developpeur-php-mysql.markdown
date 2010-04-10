@@ -2,7 +2,7 @@
 title: "l'INPP cheche un développeur PHP/MySQL"
 layout: post
 categories: emploi
-spip_id: 38
+post_id: 38
 ---
 L'INPP (Institut National de Plongée Professionnelle) recherche un développeur PHP/MySQL pour un CDD de 3 à 4 mois, à commencer dès maintenant.
 

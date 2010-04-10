@@ -2,7 +2,7 @@
 title: "Comment participer au PLUG ?"
 layout: post
 categories: association
-spip_id: 33
+post_id: 33
 ---
 Voici les différents moyens de participer à la vie du PLUG :
 

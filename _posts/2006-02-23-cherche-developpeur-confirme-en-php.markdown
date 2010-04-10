@@ -2,7 +2,7 @@
 title: "Cherche développeur confirmé en PHP"
 layout: post
 categories: emploi
-spip_id: 73
+post_id: 73
 ---
 Actuellement sur Paris, je suis en train de créer une société sur Marseille et recherche **1 BON développeur** PHP (débrouillard, passionné par le monde OSS, au courant des frameworks comme Typo 3 et autres …) pour le développement de mon site internet.
 

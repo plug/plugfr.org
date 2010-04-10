@@ -3,7 +3,7 @@ title: "Offre de stage chez Efixo "
 layout: post
 subtitle: H/F DEV C LINUX
 categories: emploi
-spip_id: 126
+post_id: 126
 ---
 
 - Référence Apec : 19016

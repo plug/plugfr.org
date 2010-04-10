@@ -2,7 +2,7 @@
 title: "Animation sur IPv6 le 18 Novembre 2006 à 20:30"
 layout: post
 categories: animations
-spip_id: 59
+post_id: 59
 ---
 Bonjour,
 

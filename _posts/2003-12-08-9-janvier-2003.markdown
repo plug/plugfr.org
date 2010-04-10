@@ -2,7 +2,7 @@
 title: "Réunion le 9 janvier"
 layout: post
 categories: reunions
-spip_id: 9
+post_id: 9
 ---
 Ça sera donc la réunion annoncée la plus en avance depuis que c'est moi qui m'en occupe :-))
 

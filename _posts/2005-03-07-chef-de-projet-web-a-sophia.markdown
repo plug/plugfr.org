@@ -2,7 +2,7 @@
 title: "Chef de projet web à Sophia"
 layout: post
 categories: emploi
-spip_id: 43
+post_id: 43
 ---
 Dans le cadre du développement d'un outil web, nous recherchons un Chef de Projet.
 

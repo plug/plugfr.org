@@ -2,7 +2,7 @@
 title: "Animation sur les DNS le 11 Février 2005."
 layout: post
 categories: animations
-spip_id: 39
+post_id: 39
 ---
 Bonjour,
 

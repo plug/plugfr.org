@@ -3,7 +3,7 @@ title: "Nouveau P2P sécurisé"
 layout: post
 subtitle: Waste, un P2P sécurisé et vraiment privé!
 categories: animations
-spip_id: 35
+post_id: 35
 ---
 Bonjour à tous!
 

@@ -2,7 +2,7 @@
 title: "Install Party le 20 octobre à Marseille"
 layout: post
 categories: reunions
-spip_id: 114
+post_id: 114
 ---
 À l'occasion de la sortie de la distribution GNU/Linux Ubuntu 7.10 (Gutsy Gibbon), le PLUG (Provence Linux User Group) organise une Install Party le 20 octobre 2007 à Marseille.
 

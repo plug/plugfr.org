@@ -2,7 +2,7 @@
 title: "Réunion le 5 novembre 2004"
 layout: post
 categories: reunions
-spip_id: 101
+post_id: 101
 ---
 Sauf contre-ordre d'ici vendredi, nous nous réunirons le 5 novembre.
 

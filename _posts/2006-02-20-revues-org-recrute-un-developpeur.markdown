@@ -2,7 +2,7 @@
 title: "Revues.org recrute un développeur"
 layout: post
 categories: emploi
-spip_id: 71
+post_id: 71
 ---
 Il/elle participera au développement d'outils d'édition électronique orientés web (CMS Lodel, licence GPL) utilisés par Revues.org pour publier en ligne des revues et des carnets de recherche. Il/elle sera également chargé(e) du déploiement et de la maintenance d'outils développés à l'extérieur, tels que Mnogosearch et Dspace. Enfin, il/elle sera responsable d'une veille technologique en anglais et en français qui occupera un tiers de son temps.
 

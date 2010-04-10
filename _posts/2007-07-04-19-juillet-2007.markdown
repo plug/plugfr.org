@@ -2,7 +2,7 @@
 title: "Réunion le JEUDI 19 juillet 2007"
 layout: post
 categories: reunions
-spip_id: 109
+post_id: 109
 ---
 Bonjour à tous,
 

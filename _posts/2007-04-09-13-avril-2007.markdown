@@ -2,7 +2,7 @@
 title: "Réunion le 13 avril 2007"
 layout: post
 categories: reunions
-spip_id: 95
+post_id: 95
 ---
 Bonjour à tous,
 

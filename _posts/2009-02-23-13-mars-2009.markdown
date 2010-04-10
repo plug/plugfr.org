@@ -2,7 +2,7 @@
 title: "Réunion et AG le 13 mars"
 layout: post
 categories: reunions
-spip_id: 150
+post_id: 150
 ---
 Bonjour à tous,
 

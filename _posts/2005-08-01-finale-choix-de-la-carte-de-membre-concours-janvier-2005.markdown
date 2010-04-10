@@ -2,7 +2,7 @@
 title: "Finale - Choix de la carte de membre! - Concours Janvier 2005"
 layout: post
 categories: association
-spip_id: 53
+post_id: 53
 ---
 Bonjour !
 

@@ -2,7 +2,7 @@
 title: "Offre emploi + stages chez Evolix"
 layout: post
 categories: emploi
-spip_id: 122
+post_id: 122
 ---
 Implantée sur la technopôle de Château-Gombert à Marseille, [Evolix](http://www.evolix.fr/) est une société de services en informatique et logiciels libres. Son activité se répartit entre une offre de produits et services, du développement et de la recherche. L'ambition est de devenir l'un des interlocuteurs privilégiés pour les structures des Bouches-du-Rhône dans ce domaine.
 

@@ -2,7 +2,7 @@
 title: "Bashprofile"
 layout: post
 categories: divers
-spip_id: 25
+post_id: 25
 ---
 Comme je vous l'avais annoncé au mois de février , nous allons démarrer notre activité au début de ce mois d'aout.BASHPROFILE proposera au secteur des PME-PMI des solutions sysèmes réseaux et Sécurité basées exclusivement sur de l'open source.
 

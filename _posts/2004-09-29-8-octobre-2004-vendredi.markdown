@@ -2,7 +2,7 @@
 title: "Réunion le 8 Octobre 2004 (Vendredi)"
 layout: post
 categories: reunions
-spip_id: 27
+post_id: 27
 ---
 Nous vous donnons rendez-vous le vendredi 8 Octobre 2004 chez José Mans à partir de 19h.
 

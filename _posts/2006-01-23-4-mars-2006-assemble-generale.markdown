@@ -3,7 +3,7 @@ title: "Assemblé Générale du 04 Mars 2006 à 16:00"
 layout: post
 subtitle: Pour l'année 2005
 categories: reunions
-spip_id: 64
+post_id: 64
 ---
 
 Réunion à partir de 16:00

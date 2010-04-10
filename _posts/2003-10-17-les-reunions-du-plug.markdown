@@ -2,7 +2,7 @@
 title: "Les réunions du PLUG"
 layout: post
 categories: association
-spip_id: 2
+post_id: 2
 ---
 ### C'est quand ? ###
 

@@ -2,7 +2,7 @@
 title: "Transparence sur le prix des logiciels"
 layout: post
 categories: divers
-spip_id: 5
+post_id: 5
 ---
 La liste de discussion <detaxe@aful.org> tente de défendre les utilisateurs contre la vente forcée et illégale de logiciels et organise la Journée nationale de la Détaxe Windows et de la transparence sur le prix des logiciels, le 6 décembre 2003.
 

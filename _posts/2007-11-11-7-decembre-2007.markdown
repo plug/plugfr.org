@@ -2,7 +2,7 @@
 title: "[Màj] Réunion le 7 décembre"
 layout: post
 categories: reunions
-spip_id: 125
+post_id: 125
 ---
 Bonjour à tous,
 

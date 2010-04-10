@@ -2,7 +2,7 @@
 title: "[Annulé] Réunion vendredi 7 août 2009"
 layout: post
 categories: reunions
-spip_id: 156
+post_id: 156
 ---
 La soirée initialement prévue pour le vendredi 7 août est malheureusement annulée.
 Nous devons céder l'occupation de La Bo\[a\]te ce soir là.

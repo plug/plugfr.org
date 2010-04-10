@@ -95,7 +95,7 @@ Article.parse(xml).each do |article|
     lines << "layout: post"
     lines << "subtitle: " + transform_spip(article.soustitre) if article.soustitre.present?
     lines << "categories: " + categories[article.id_rubrique]
-    lines << "spip_id: " + article.id_article.to_s
+    lines << "post_id: " + article.id_article.to_s
     lines << "---"
     if article.chapo.present?
       lines << %Q{<p class="chapo">\n#{transform_spip(article.chapo)}\n</p>\n}

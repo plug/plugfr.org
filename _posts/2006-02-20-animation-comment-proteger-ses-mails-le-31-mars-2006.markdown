@@ -3,7 +3,7 @@ title: "Animation \"Comment protéger ses mails\" le 31 Mars 2006."
 layout: post
 subtitle: Utiliser des certificats avec ses mails
 categories: animations
-spip_id: 66
+post_id: 66
 ---
 
 ### Plan de la présentation ###
