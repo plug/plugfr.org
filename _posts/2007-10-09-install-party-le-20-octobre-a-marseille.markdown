@@ -25,7 +25,7 @@ Des parking à proximité vous permettront de vous garer à coup sûr (notamment
 
 #### Inscrivez vous, c'est plus sympa ####
 
-L'entrée est libre et gratuite, mais pour nous faciliter l'organisation, vous pouvez vous inscrire par mail à [contact@plugfr.org](contact@plugfr.org).  
+L'entrée est libre et gratuite, mais pour nous faciliter l'organisation, vous pouvez vous inscrire par le [formulaire de contact](/contact/).  
 Si vous comptez venir avec un ordinateur, vous pouvez aussi nous indiquer de quel genre il s'agit (portable ou fixe), on pourra ainsi vous préparer une place plus confortable.
 
 #### Sauvegardez vos données importantes ####

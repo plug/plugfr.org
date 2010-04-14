@@ -35,4 +35,4 @@ Vous pouvez participer aux réunions sans être [adhérant](/r/31). Les réunion
 ----
 Maintenant que vous savez tout, vous n'avez aucune excuse pour ne pas venir !
 
-Vous trouverez [ici](/r/4) une description des réunions écrite en 1997.
+Vous trouverez [ici](/association/historique.html) une description des réunions écrite en 1997.
