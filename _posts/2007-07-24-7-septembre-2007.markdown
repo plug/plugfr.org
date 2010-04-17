@@ -12,3 +12,11 @@ Le thème de la présentation sera l'**exposé d'un cas de mise en route d'un se
 Cet exposé sera l'occasion de discuter des situations de **migrations**, d'**installation**, d'**automatisation des taches**, de **politique de sécurité** et **sauvegarde**, …
 
 Elle se tiendra dans le nouveau lieu de réunion du PLUG : La Bo\[a\]te.
+
+### Mise à jour du 17 avril 2010
+
+En complément, voici un guide permettant d'installer un serveur Debian Lenny à vocation web.
+
+<script src="http://gist.github.com/368149.js"></script>
+
+En cas de problème d'encapsulation, le guide est disponible ici : [http://gist.github.com/368149](http://gist.github.com/368149)
