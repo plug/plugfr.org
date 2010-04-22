@@ -2,7 +2,7 @@
 title: "Réunion vendredi 5 juin 2009"
 layout: post
 categories: reunions
-spip_id: 154
+post_id: 154
 ---
 **Le PLUG organise une réunion le vendredi 5 juin 2009 à partir de 19h00.**
 

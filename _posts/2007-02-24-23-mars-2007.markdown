@@ -2,7 +2,7 @@
 title: "Réunion le 23 mars 2007"
 layout: post
 categories: reunions
-spip_id: 91
+post_id: 91
 ---
 Bonjour à tous,
 

@@ -3,7 +3,7 @@ title: "Animation sur les Logiciels Scientifiques Libres (ModLibre) le 17 Févri
 layout: post
 subtitle: Modélisation et Logiciels Libres
 categories: animations
-spip_id: 65
+post_id: 65
 ---
 
 ### Plan de la présentation ###

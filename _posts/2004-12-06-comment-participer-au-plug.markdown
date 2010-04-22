@@ -2,7 +2,7 @@
 title: "Comment participer au PLUG ?"
 layout: post
 categories: association
-spip_id: 33
+post_id: 33
 ---
 Voici les différents moyens de participer à la vie du PLUG :
 
@@ -22,19 +22,21 @@ Il existe deux types d'exposés :
 - exposé technique
 
 
-Toute personne, adhérante ou non, peut proposer une présentation lors d'une réunion. Il suffit de contacter les membres du bureau directement par mail <contact@plugfr.org> ou grâce aux [listes de diffusion](//association/mailing-lists.html)
+Toute personne, adhérante ou non, peut proposer une présentation lors d'une réunion. Il suffit de contacter les membres du bureau directement par mail <contact@plugfr.org> ou grâce aux [listes de diffusion](/association/mailing-lists.html)
 
 ### Participer aux discussions électroniques ###
 
 Voici les deux types de communication qui fonctionnent au PLUG :
 
-#### [listes de diffusion](//association/mailing-lists.html) ####
+#### [listes de diffusion](/association/mailing-lists.html) ####
 
 Il est encouragé, dans la mesure du possible, à participer aux listes de diffusion en lisant les messages mais aussi en répondant ou postant de nouveaux messages. Il est apprécié que les nouveaux abonnés se présentent brièvement.
 
-#### [IRC](rub6) ####
+#### IRC ####
 
-des dizaines de milliers de lignes par mois, le canal IRC du PLUG permet à plus de 70 personnes de s'entraider, discuter et s'amuser (Voir les [statistiques](http://plugfr.org/stats/pisg/))
+Des dizaines <del>de milliers</del> de lignes par mois, le canal <abbr title="Internet Relay Chat">IRC</abbr> du PLUG permet de s'entraider, discuter, …
+
+Retrouvez nous à <a href="irc://irc.freenode.net/%23plugfr" rel="external" class="irc">#plugfr</a> sur Freenode.
 
 ### Adhérer au PLUG ###
 
@@ -42,6 +44,6 @@ Vous pouvez adhérer au PLUG. Voir tous les détails sur l'article [Comment adh�
 
 ### Toutes les initiatives sont bienvenues ###
 
-Si vous avez de nouvelles idées pour le PLUG, des projets liés à la promotion de Linux et des logiciels libres, ou encore des propositions de collaboration avec d'autres associations, n'hésitez à nous informer par [ici](/contact/) ou grâce aux [listes de diffusion](//association/mailing-lists.html)
+Si vous avez de nouvelles idées pour le PLUG, des projets liés à la promotion de Linux et des logiciels libres, ou encore des propositions de collaboration avec d'autres associations, n'hésitez à nous informer par le [formulaire de contact](/contact/) ou grâce aux [listes de diffusion](/association/mailing-lists.html)
 
 

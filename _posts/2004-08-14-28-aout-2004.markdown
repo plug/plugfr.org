@@ -2,7 +2,7 @@
 title: "Réunion le 28 Août 2004 (Samedi)"
 layout: post
 categories: reunions
-spip_id: 100
+post_id: 100
 ---
 Bonjour,
 

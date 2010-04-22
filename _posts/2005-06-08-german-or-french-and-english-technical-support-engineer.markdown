@@ -2,7 +2,7 @@
 title: "German or French and English Technical support Engineer"
 layout: post
 categories: emploi
-spip_id: 50
+post_id: 50
 ---
 
 One of the leader in Linux and Open Source Technologies is now looking to recruit a bright individual to join their rapidly expanding and dynamic Enterprise Support team based in the UK.

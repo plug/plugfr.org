@@ -2,7 +2,7 @@
 title: "Offre emploi CDI -  Développeur PHP bilingue - Nice - Sophia Antipolis"
 layout: post
 categories: emploi
-spip_id: 136
+post_id: 136
 ---
 Jeune Entreprise Innovante
 

@@ -2,7 +2,7 @@
 title: "Réunion le 24 Juin 2005"
 layout: post
 categories: reunions
-spip_id: 48
+post_id: 48
 ---
 Bonjour à tous,
 

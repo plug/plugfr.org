@@ -3,7 +3,7 @@ title: "Evolix - Informatique et Logiciels Libres"
 layout: post
 subtitle: Création d'activités autour des logiciels libres sur Marseille
 categories: divers
-spip_id: 23
+post_id: 23
 ---
 
 Présentation d'un projet de démocratisation des logiciels libres dans la région marseillaise récompensé par le prix [DEFI-Jeunes](http://www.defijeunes.fr)

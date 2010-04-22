@@ -2,7 +2,7 @@
 title: "Publication du premier livre français sur Debian GNU/Linux"
 layout: post
 categories: divers
-spip_id: 28
+post_id: 28
 ---
 *Raphaël Hertzog*, développeur Debian depuis 1997, est l'auteur du premier
 livre français exclusivement consacré à Debian GNU/Linux, la distribution

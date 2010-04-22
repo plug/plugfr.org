@@ -2,7 +2,7 @@
 title: "Réunion le 11 Mars 2005"
 layout: post
 categories: reunions
-spip_id: 40
+post_id: 40
 ---
 Bonjour à tous,
 

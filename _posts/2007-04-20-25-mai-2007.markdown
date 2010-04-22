@@ -2,7 +2,7 @@
 title: "Réunion le 25 Mai 2007"
 layout: post
 categories: reunions
-spip_id: 104
+post_id: 104
 ---
 Bonjour à tous,
 

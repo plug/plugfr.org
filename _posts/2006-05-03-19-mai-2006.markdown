@@ -2,7 +2,7 @@
 title: "Réunion le 19 Mai 2006"
 layout: post
 categories: reunions
-spip_id: 77
+post_id: 77
 ---
 
 Bonjour à tous,

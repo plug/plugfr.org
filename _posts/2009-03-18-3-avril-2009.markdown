@@ -2,7 +2,7 @@
 title: "Réunion vendredi 3 avril 2009"
 layout: post
 categories: reunions
-spip_id: 151
+post_id: 151
 ---
 Bonjour à tous,
 

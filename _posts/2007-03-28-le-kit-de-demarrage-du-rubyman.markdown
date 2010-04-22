@@ -2,7 +2,7 @@
 title: "Le kit de démarrage du RubyMan"
 layout: post
 categories: animations
-spip_id: 90
+post_id: 90
 ---
 
 Une petite liste de liens pour démarrer la pratique de Ruby On Rails dans les meilleures conditions. Beaucoup sont des points d'accès sur des sources d'informations plus importantes! :o)

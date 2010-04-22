@@ -2,7 +2,7 @@
 title: "Réunion le 12 Janvier 2007"
 layout: post
 categories: reunions
-spip_id: 88
+post_id: 88
 ---
 Bonjour à tous,
 

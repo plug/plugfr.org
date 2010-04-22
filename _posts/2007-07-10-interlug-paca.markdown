@@ -2,7 +2,7 @@
 title: "Reunion \"InterLUG\" PACA"
 layout: post
 categories: divers
-spip_id: 110
+post_id: 110
 ---
 
 ### Ordre du jour de la réunion ###

@@ -2,7 +2,7 @@
 title: "4 postes chez EFIXO"
 layout: post
 categories: emploi
-spip_id: 75
+post_id: 75
 ---
 4 profils sont recherchés :
 

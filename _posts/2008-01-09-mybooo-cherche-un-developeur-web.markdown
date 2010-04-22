@@ -2,7 +2,7 @@
 title: "MyBooo cherche un dévelopeur Web"
 layout: post
 categories: emploi
-spip_id: 128
+post_id: 128
 ---
 Avec une approche résolument simple et pragmatique, Lynxoft a développé la solution MyBooo. Indépendance / Sécurité /Ubiquité/Intéropérabilité font la force de Mybooo
 

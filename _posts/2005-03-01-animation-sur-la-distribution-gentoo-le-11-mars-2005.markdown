@@ -2,7 +2,7 @@
 title: "Animation sur la distribution Gentoo, le 11 Mars 2005."
 layout: post
 categories: animations
-spip_id: 41
+post_id: 41
 ---
 Bonjour,
 

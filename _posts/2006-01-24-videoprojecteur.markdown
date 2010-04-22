@@ -2,7 +2,7 @@
 title: "Vidéoprojecteur"
 layout: post
 categories: divers
-spip_id: 68
+post_id: 68
 ---
 Nous remercions les associés de la société [Evolix](http://www.evolix.fr) pour le prêt occasionnel de leurs projecteurs.
 

@@ -2,7 +2,7 @@
 title: "Une signature éléctronique pour l'administration en ligne"
 layout: post
 categories: divers
-spip_id: 74
+post_id: 74
 ---
 L'ADAE, Agence pour le Développement de l'Administration Éléctronique (je crois), lance un appel à commentaire sur la proposition de standard de signature éléctronique.
 

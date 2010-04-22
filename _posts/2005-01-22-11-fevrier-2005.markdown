@@ -2,7 +2,7 @@
 title: "Réunion le 11 Février 2005"
 layout: post
 categories: reunions
-spip_id: 36
+post_id: 36
 ---
 Bonjour à tous,
 

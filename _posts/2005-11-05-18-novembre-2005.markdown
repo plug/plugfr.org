@@ -2,7 +2,7 @@
 title: " Réunion le 18 Novembre 2005"
 layout: post
 categories: reunions
-spip_id: 58
+post_id: 58
 ---
 
 Bonjour à tous,

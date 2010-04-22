@@ -2,7 +2,7 @@
 title: "Assemblé Générale du 24 Mars 2006 à 20:00"
 layout: post
 categories: reunions
-spip_id: 72
+post_id: 72
 ---
 A partir de 20:00 
 

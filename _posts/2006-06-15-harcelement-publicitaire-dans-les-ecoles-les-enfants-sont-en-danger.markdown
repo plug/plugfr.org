@@ -2,7 +2,7 @@
 title: "Harcèlement publicitaire dans les écoles, les enfants sont en danger."
 layout: post
 categories: divers
-spip_id: 82
+post_id: 82
 ---
 
 > C'est nous les meilleurs, les autres sont marginaux voire, inexistants!

@@ -2,7 +2,7 @@
 title: "Cherche développeur Typo3"
 layout: post
 categories: emploi
-spip_id: 70
+post_id: 70
 ---
 Bonjour à tous,
 

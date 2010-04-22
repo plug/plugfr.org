@@ -2,7 +2,7 @@
 title: "Poste de développeur Web"
 layout: post
 categories: emploi
-spip_id: 132
+post_id: 132
 ---
 Pour renforcer l'équipe de développement d’un important site web communautaire, nous cherchons un développeur web polyvalent avec une spécialité **Javascript/DOM/Ajax**.
 

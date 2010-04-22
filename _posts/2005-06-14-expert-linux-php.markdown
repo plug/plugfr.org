@@ -2,7 +2,7 @@
 title: "Expert Linux PHP"
 layout: post
 categories: emploi
-spip_id: 51
+post_id: 51
 ---
 SOGETI-TRANSICIEL Technology forme la division de Capgemini spécialisée dans le Conseil en Haute Technologie. Cette division propose à une clientèle de grands comptes de l'aéronautique, de l'espace, de l'automobile, de l'énergie et de l'industrie une offre de services technologiques.
 

@@ -2,7 +2,7 @@
 title: " Réunion le 30 Septembre 2005"
 layout: post
 categories: reunions
-spip_id: 55
+post_id: 55
 ---
 Bonjour à tous,
 

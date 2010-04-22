@@ -2,7 +2,7 @@
 title: "Réunion le 20 Janvier 2006"
 layout: post
 categories: reunions
-spip_id: 63
+post_id: 63
 ---
 
 Bonjour à tous,

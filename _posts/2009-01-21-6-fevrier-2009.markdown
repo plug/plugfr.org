@@ -2,7 +2,7 @@
 title: "Réunion le 6 février"
 layout: post
 categories: reunions
-spip_id: 149
+post_id: 149
 ---
 Bonjour à tous,
 

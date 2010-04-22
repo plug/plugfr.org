@@ -2,7 +2,7 @@
 title: "Admin serveur Linux à Sophia"
 layout: post
 categories: emploi
-spip_id: 42
+post_id: 42
 ---
 Une très grosse entreprise recherche pour une mission de 6 mois à 1 an, un **administrateur de serveur linux**. Le poste sera basé sur Sophia Antipolis.
 

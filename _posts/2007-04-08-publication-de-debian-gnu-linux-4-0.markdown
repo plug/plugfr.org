@@ -2,7 +2,7 @@
 title: "Publication de Debian GNU/Linux 4.0"
 layout: post
 categories: divers
-spip_id: 96
+post_id: 96
 ---
 Le projet Debian est heureux de vous annoncer la publication officielle
 de la version 4.0 de Debian GNU/Linux, dont le nom de code est Etch, au

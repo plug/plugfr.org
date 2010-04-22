@@ -2,7 +2,7 @@
 title: "Réunion le 6 juin"
 layout: post
 categories: reunions
-spip_id: 138
+post_id: 138
 ---
 Bonjour à tous,
 

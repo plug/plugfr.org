@@ -2,7 +2,7 @@
 title: "Réunion vendredi 3 juillet 2009"
 layout: post
 categories: reunions
-spip_id: 155
+post_id: 155
 ---
 **Le PLUG organise une réunion le vendredi 3 juillet 2009 à partir de 19h00.**
 
@@ -20,7 +20,7 @@ Les thématiques pas encore introduites :
 
 - Les logiciels de gestion de contenus : CMS
 
-Selon les envies de ceux qui pensent venir, nous pouvons adapter le programme. Signalez vos envies sur le [canal IRC](irc://irc.freenode.net/%23plugfr) et/ou sur la [mailing-list](//association/mailing-lists.html).
+Selon les envies de ceux qui pensent venir, nous pouvons adapter le programme. Signalez vos envies sur le [canal IRC](irc://irc.freenode.net/%23plugfr) et/ou sur la [mailing-list](/association/mailing-lists.html).
 
 Nous espérons retrouver comme la dernière fois les participants du forum Ubuntu qui sont venus "en masse" et nous ont fait le plaisir d'apporter des visages nouveaux (dont 3 filles !) et pleins de choses à boire/manger.
 

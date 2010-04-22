@@ -2,7 +2,7 @@
 title: "Réunion le 27 Octobre 2006"
 layout: post
 categories: reunions
-spip_id: 84
+post_id: 84
 ---
 Bonjour à tous,
 

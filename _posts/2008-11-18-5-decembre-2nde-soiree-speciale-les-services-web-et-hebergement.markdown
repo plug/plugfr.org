@@ -2,7 +2,7 @@
 title: "5 décembre : 2nde soirée spéciale \"Les services web et leur infrastructure d'hébergement\""
 layout: post
 categories: reunions
-spip_id: 146
+post_id: 146
 ---
 Après la première partie qui a eu lieu le 7 novembre, le PLUG organise une soirée pour traiter la seconde partie du thème "Les services web et leur infrastructure d'hébergement".
 

@@ -2,7 +2,7 @@
 title: "Des petites photos, enfin !"
 layout: post
 categories: association
-spip_id: 86
+post_id: 86
 ---
 Depuis le temps, il fallait bien quelques photos pour sentir l'ambiance du PLUG afin de rassurer les plus craintifs.
 

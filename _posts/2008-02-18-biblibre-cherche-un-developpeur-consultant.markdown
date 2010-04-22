@@ -2,7 +2,7 @@
 title: "BibLibre cherche un développeur/consultant"
 layout: post
 categories: emploi
-spip_id: 131
+post_id: 131
 ---
 BibLibre SARL, petite société en expansion, très bien positionnée sur son marché recherche un Développeur / Consultant.
 
