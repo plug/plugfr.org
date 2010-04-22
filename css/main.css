@@ -40,9 +40,9 @@ article header h2{margin:0;}
 article header p{font-size:12px;margin-bottom:0;}
 #home article{border-bottom:1px solid #efefef;}
 #home article header{margin-bottom:0;padding-bottom:0;border:0;}
-#home article#sticky{background-color:#f6f6f6;margin:0 0 1em 0em;padding:0.75em 0;border-width:1px;border-style:solid;border-color:#ddd;text-align:center;}
+#home article#sticky{background-color:#f6f6f6;margin:0 0 1em 0em;padding:0.75em 0;border-width:1px;border-style:solid;border-color:#ddd;text-align:center;text-shadow:#fff 1px 1px 0;}
 #home article#sticky header{margin:0;padding:0;}
-#home article#sticky header h2{text-shadow:#fff 1px 1px 0;font-size:25px;margin:0;padding:0;}
+#home article#sticky header h2{font-size:25px;margin:0;padding:0;}
 aside{padding:0 0 0 1em;margin:0 0 1em 1em;border-left:2px solid #efefef;font-size:85%;font-style:italic;}
 aside .title{font-size:13px;font-weight:bold;margin-bottom:0.5em;}
 article aside{float:right;width:35%;}
