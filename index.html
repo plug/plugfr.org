@@ -2,7 +2,6 @@
 layout: home
 title: PLUG &ndash; Provence Linux User Group
 ---
-<aside id="tweets"><h3 class="title">Les derniers tweets de <a href="http://twitter.com/plugfr/" class="twitter" rel="external">@plugfr</a></h3></aside>
 <article id="sticky">
   <header>
     <h2><a href="/r/167">Prochaine réunion : le 14 mai 2010</a></h2>
@@ -10,13 +9,21 @@ title: PLUG &ndash; Provence Linux User Group
   <p>Attention, la réunion prévue pour le 7 mai a été déplacée au 14 mai.</p>
 </article>
 
-{% for post in site.posts limit:10 %}
-<article>
-  <header>
-    <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-  </header>
-</article>
-{% endfor %}
-<nav class="articles-nav">
-  <p>&larr; voir les <a href="/archives/dates.html" rel="archives" title="Archives des articles">articles plus anciens</a></p>
-</nav>
+<div class="grid_6 alpha">
+  {% for post in site.posts limit:10 %}
+  <article>
+    <header>
+      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+      <p>publié le <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%d %B %Y" }}</time> dans <a href="/archives/categories.html" class="category">{{ post.categories }}</a>{% if post.author != null %} écrit par {{post.author}}{% endif %}{% if post.post_id != null %} - <a href="{{ site.root_uri }}/r/{{ post.post_id }}" rel="shorturl" title="Pratique pour copier/coller dans un tweet, un statut facebook, …">lien court</a>{% endif %}</p>
+    </header>
+  </article>
+  {% endfor %}
+
+  <nav class="articles-nav">
+    <p>&larr; voir les <a href="/archives/dates.html" rel="archives" title="Archives des articles">articles plus anciens</a></p>
+  </nav>
+</div>
+
+<div class="grid_3 omega">
+  <aside id="tweets"><h3 class="title">Les derniers tweets de <a href="http://twitter.com/plugfr/" class="twitter" rel="external">@plugfr</a></h3></aside>
+</div>
