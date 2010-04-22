@@ -5,12 +5,16 @@ ErrorDocument 404 /404.html
 ErrorDocument 500 /500.html
 <IfModule mod_rewrite.c>
     RewriteEngine On
+
+    RewriteCond %{HTTP_HOST} ^www.plugfr.org$
+    RewriteRule ^(.*) http://plugfr.org/$1  [QSA,L,R=301]
+
     RewriteCond %{QUERY_STRING} ^id_article\=(.+)$
     RewriteRule ^spip/article.php3$ /r/%1?
     RewriteCond %{QUERY_STRING} ^id_rubrique\=(.+)$
     RewriteRule ^spip/rubrique.php3$ /archives/categories.html? [R=301,L]
 {% for post in site.posts %}
-    {% if post.post_id != null %}RewriteRule ^r/{{ post.post_id }}$ {{ post.url }} [R=301,L]{% endif %}
+    {% if post.post_id != null %}RewriteRule ^r/{{ post.post_id }}/?$ {{ post.url }} [R=301,L]{% endif %}
 {% endfor %}
     RewriteRule ^s5(.+) /pub/s5$1 [R=301,L]
     RewriteRule ^r/(57|103)$ /association/mailing-lists.html [R=301,L]
@@ -19,3 +23,4 @@ ErrorDocument 500 /500.html
     RewriteRule ^spip/backend.php3 /feeds/articles.xml [R=301,L]
     RewriteRule ^wiki(.+)? http://wiki.plugfr.org$1 [R=301,L]
 </IfModule>
+
