@@ -13,8 +13,11 @@ remove_empty_lines ()
   rm $TMP
 }
 
-find . \( -name "*.html" -o -name "*.xml" -o -name "*.css" -o -name "*.js" -o -name ".htaccess" \) -print | while read F
+EXT="html|xml|css|js|htaccess"
+
+find . -regextype posix-extended -path "./pub" -prune -o -regex ".*\.(${EXT})$" -print | while read F
   do
+    echo "    $F"
     remove_empty_lines "$F"
   done
 
