@@ -5,7 +5,8 @@ cd _site
 remove_empty_lines ()
 {
   TMP=`mktemp -t plug.XXXXXXXX`
-  grep -v -E "^\s*$" "$1" > $TMP
+  #grep -v -E "^\s*$" "$1" > $TMP
+  awk '$0!~/^[ \t]*$/ {print $0}' "$1" > $TMP
 
   # do not use mv or cp to preserve permissions and owner!
   cat $TMP > "$1"
