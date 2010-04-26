@@ -25,3 +25,27 @@ ErrorDocument 500 /500.html
     RewriteRule ^wiki(.+)? http://wiki.plugfr.org$1 [R=301,L]
 </IfModule>
 
+<IfModule mod_expires.c>
+  # turn on the module for this directory
+  ExpiresActive on
+
+  # cache common graphics for 30 days
+  ExpiresByType image/jpg "access plus 30 days" 
+  ExpiresByType image/gif "access plus 30 days" 
+  ExpiresByType image/jpeg "access plus 30 days" 
+  ExpiresByType image/png "access plus 30 days" 
+
+  # cache css and javascript for 3 days
+  ExpiresByType text/javascript "access plus 3 days" 
+  ExpiresByType application/x-javascript "access plus 3 days" 
+  ExpiresByType text/css "access plus 3 days"
+ 
+  ExpiresDefault "access plus 24 hours" 
+</IfModule>
+
+<IfModule mod_deflate.c>
+  AddOutputFilterByType DEFLATE application/x-javascript text/html text/plain text/css text/javascript text/xml
+  BrowserMatch ^Mozilla/4 gzip-only-text/html
+  BrowserMatch ^Mozilla/4.0[678] no-gzip
+  BrowserMatch \bMSIE !no-gzip !gzip-only-text/html
+</IfModule>
