@@ -2,6 +2,16 @@
 
 cd _site
 
+# guess OS based on kernel
+# TODO : find a better way to support debian with BSD kernel
+test -e /proc # -> 0 if /proc exists (= linux)
+if [ $? -eq 0 ]; then
+  OS=LINUX
+else
+  OS=BSD
+fi
+
+
 remove_empty_lines ()
 {
   TMP=`mktemp -t plug.XXXXXXXX`
@@ -15,7 +25,13 @@ remove_empty_lines ()
 
 EXT="html|xml|css|js|htaccess"
 
-find . -regextype posix-extended -path "./pub" -prune -o -regex ".*\.(${EXT})$" -print | while read F
+if [ $OS = 'LINUX' ]; then
+  CMD_FIND_OPT='-regextype posix-extended'
+else
+  CMD_FIND_OPT='-E'
+fi
+
+  find . ${CMD_FIND_OPT} -path "./pub" -prune -o -regex ".*\.(${EXT})$" -print | while read F
   do
     echo "    $F"
     remove_empty_lines "$F"
