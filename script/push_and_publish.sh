@@ -8,4 +8,4 @@ git push tuxfamily
 
 # Publish
 
-./publish.sh
+./script/publish.sh
