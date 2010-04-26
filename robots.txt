@@ -5,3 +5,4 @@ Disallow: /spip-1.9.2/
 Disallow: /spip/breve*
 Disallow: /spip/forum*
 Disallow: /kdist/
+Disallow: /map/

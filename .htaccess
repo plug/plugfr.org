@@ -23,5 +23,7 @@ ErrorDocument 500 /500.html
     RewriteRule ^spip/contact.php /contact/ [R=301,L]
     RewriteRule ^spip/backend.php3 /feeds/articles.xml [R=301,L]
     RewriteRule ^wiki(.+)? http://wiki.plugfr.org$1 [R=301,L]
+    RewriteRule ^list-archives(.+)? http://lists.plugfr.org/archives$1 [R=301,L]
+    RewriteRule ^stats/pisg/? http://obelix.gyptis.org/stats/pisg/ [R=301,L]
 </IfModule>
 
