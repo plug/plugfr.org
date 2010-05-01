@@ -10,3 +10,23 @@ Certains contenus (images, pdf, …) ont été copiés dans le dossier `./pub` p
 
 [Pygments](http://pygments.org/) est utilisé pour colorer le code source.
 Il y a de nombreux styles CSS dans `./css/pygments`, j'ai laissé celui par défaut pour le moment.
+
+* * *
+
+HowTo contribuer au site
+========================
+
+* git clone git://github.com/plug/plugfr.org.git
+* Hack... hack... commit...
+* git format-patch .... à envoyer webmaster@plugfr.org
+
+Note : il est possible aussi de soumettre ses modifications via une nouvelle branche Git
+
+Si l'on est contributeur régulier, on obtiendra les droits
+de commit sur le repository GitHub, puis :
+
+* git clone git@github.com:plug/plugfr.org.git
+* Hack... hack... commit...
+* git push
+* Attendre la mise en ligne des modifications par un webmaster
+
