@@ -62,8 +62,8 @@ $body .= "\nURL    : ".(isset($_POST['url']) ? $_POST['url'] : "{pas d'URL}");
 $body .= "\n\n".(isset($_POST['message']) ? $_POST['message'] : "{pas de message}");
 
 $mailer->characterSet = "utf-8";
-// $mailer->to           = "contact@plugfr.org";
-$mailer->to           = "jeremy.lecour@gmail.com";
+$mailer->to           = "contact@plugfr.org";
+// $mailer->to           = "jeremy.lecour@gmail.com";
 $mailer->fromName     = isset($_POST['nom']) ? $_POST['nom'] : "Site web";
 $mailer->fromEmail    = (isset($_POST['email']) && $_POST['email'] != "") ? $_POST['email'] : "contact@plugfr.org";
 if ( isset($_POST['email']) && $_POST['email'] != "" ) {
