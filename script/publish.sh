@@ -26,7 +26,6 @@ if [ $? -eq 0 ]; then
 
   if [ $? -eq 0 ] ; then
     rsync -aH --exclude=.git --delete-excluded _site/ ${REMOTE}plugfr.org-web/htdocs/
-    #rsync -aH --exclude=.git --delete-excluded _site/ lecour@lecour.fr:jeremy/plug/
     
     if [ $? -eq 0 ]; then
       echo "Site uploaded to 'TuxFamily' : http://plugfr.org/"
