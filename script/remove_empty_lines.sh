@@ -31,7 +31,7 @@ else
   CMD_FIND_OPT='-E'
 fi
 
-find . ${CMD_FIND_OPT} -path "./pub" -prune -o -regex ".*\.(${EXT})$" -print | while read F
+find ${CMD_FIND_OPT} . -path "./pub" -prune -o -regex ".*\.(${EXT})$"  -print  | while read F
   do
     echo "    $F"
     remove_empty_lines "$F"
