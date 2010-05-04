@@ -25,13 +25,16 @@ remove_empty_lines ()
 
 EXT="html|xml|css|js|htaccess"
 
+CMD_FIN_OPT_BSD=""
+CMD_FIN_OPT_LNX=""
+
 if [ $OS = 'LINUX' ]; then
-  CMD_FIND_OPT='-regextype posix-extended'
+  CMD_FIND_OPT_LNX='-regextype posix-extended'
 else
-  CMD_FIND_OPT='-E'
+  CMD_FIND_OPT_BSD='-E'
 fi
 
-find ${CMD_FIND_OPT} . -path "./pub" -prune -o -regex ".*\.(${EXT})$"  -print  | while read F
+find ${CMD_FIND_OPT_BSD} . -path "./pub" -prune -o ${CMD_FIND_OPT_LNX} -regex ".*\.(${EXT})$" -print  | while read F
   do
     echo "    $F"
     remove_empty_lines "$F"
