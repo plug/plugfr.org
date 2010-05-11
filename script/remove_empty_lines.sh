@@ -23,10 +23,22 @@ remove_empty_lines ()
   rm $TMP
 }
 
+
+months_en=( January February March April May June July August September October November December )
+months_fr=( Janvier Février Mars Avril Mai Juin Juillet Août Septembre Octobre Novembre Décembre )
+
+translate_dates ()
+{
+  for index in ${!months_en[*]}; do
+    exp=`echo "s/([0-9]{1,2}) ${months_en[$index]}( [0-9]+)?/\1 ${months_fr[$index]}\2/g"`
+    sed -i"" --regexp-extended -e "${exp}" $1
+  done
+}
+
 EXT="html|xml|css|js|htaccess"
 
-CMD_FIN_OPT_BSD=""
-CMD_FIN_OPT_LNX=""
+CMD_FIND_OPT_BSD=""
+CMD_FIND_OPT_LNX=""
 
 if [ $OS = 'LINUX' ]; then
   CMD_FIND_OPT_LNX='-regextype posix-extended'
@@ -38,7 +50,13 @@ find ${CMD_FIND_OPT_BSD} . -path "./pub" -prune -o ${CMD_FIND_OPT_LNX} -regex ".
   do
     echo "    $F"
     remove_empty_lines "$F"
+
+    if [ ${F##*.} = 'html' ]; then
+      echo "       traduction des dates"
+      translate_dates "$F"
+    fi
   done
+
 
 exit 0
 
