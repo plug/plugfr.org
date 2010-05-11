@@ -5,8 +5,8 @@ rm -rf _site/*
 jekyll --no-auto
 
 if [ $? -eq 0 ]; then
-  echo "Remove empty lines from generated files"
-  ./script/remove_empty_lines.sh
+  echo "Post process on generated files"
+  ./script/post_process.sh
 fi
 
 if [ $? -eq 0 ]; then

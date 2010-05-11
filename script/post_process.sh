@@ -52,7 +52,6 @@ find ${CMD_FIND_OPT_BSD} . -path "./pub" -prune -o ${CMD_FIND_OPT_LNX} -regex ".
     remove_empty_lines "$F"
 
     if [ ${F##*.} = 'html' ]; then
-      echo "       traduction des dates"
       translate_dates "$F"
     fi
   done
