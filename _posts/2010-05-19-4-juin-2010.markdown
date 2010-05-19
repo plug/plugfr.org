@@ -1,0 +1,16 @@
+---
+title: "Réunion vendredi 4 juin 2010"
+layout: post
+categories: reunions
+post_id: 169
+---
+**Le PLUG organise une réunion le vendredi 4 juin 2010 à partir de 19h00.**
+
+Le programme n'est pas encore défini. À suivre.
+
+Le "[club de lecture](http://jeremy.wordpress.com/2010/05/19/club-de-lecture-episode-2-git-branching/)" se réunira pour la seconde fois, en préambule à la réunion du PLUG. Le sujet ce mois-ci est le [chapitre 3 (Git Branching) de _Progit_](http://progit.org/), le livre de Scott Chacon. Vous trouverez toutes les infos sur le principe et les objectifs de ce club de lecture sur le [blog perso de Jérémy Lecour](http://jeremy.wordpress.com/)
+
+----
+La réunion se tiendra à La Bo\[a\]te.
+
+Selon la tradition de l'auberge espagnole, les participants à la réunion sont invités à apporter un petit quelque chose à boire et/ou à grignoter.
