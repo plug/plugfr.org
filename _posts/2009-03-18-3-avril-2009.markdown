@@ -11,6 +11,6 @@ Le PLUG organise une réunion le vendredi 3 avril 2009 à partir de 19h00.
 Au programme, un nouveau concept "d'actus Flash" liées aux logiciels libres sous forme de mini-exposés successifs d'environ 5 minutes (ouvert à toutes personnes intéressées) vers 20h00. Ensuite, après les pizzas (vers 21h) se tiendra une présentation sur les gestionnaires de paquets au sein des distributions GNU/Linux et systèmes BSD (DPKG, RPM, ports, etc.)
 
 ----
-La réunion se tiendra à La Bo\[a\]te.
+La réunion se tiendra à [La Bo\[a\]te](http://laboate.com/).
 
 Selon la tradition de l'auberge espagnole, les participants à la réunion sont invités à apporter un petit quelque chose à boire et/ou à grignoter.

@@ -22,6 +22,6 @@ Il est également problable que nous démarrions la thématique "CMS - Logiciel 
 Enfin si une personne se signale pour animer la suite du sujet sur les gestionnaires de paquets, nous essaierons d'envisager le bon déroulement de la soirée.
 
 ----
-La réunion se tiendra à La Bo\[a\]te.
+La réunion se tiendra à [La Bo\[a\]te](http://laboate.com/).
 
 Selon la tradition de l'auberge espagnole, les participants à la réunion sont invités à apporter un petit quelque chose à boire et/ou à grignoter.

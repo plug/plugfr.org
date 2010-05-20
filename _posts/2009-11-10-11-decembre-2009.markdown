@@ -13,6 +13,6 @@ Nous prévoyons 2 présentations :
 - la **programmation fonctionnelle** : concept et différences par rapports aux langages "non fonctionnels", exemples, …
 
 ----
-La réunion se tiendra à La Bo\[a\]te.
+La réunion se tiendra à [La Bo\[a\]te](http://laboate.com/).
 
 Selon la tradition de l'auberge espagnole, les participants à la réunion sont invités à apporter un petit quelque chose à boire et/ou à grignoter.
