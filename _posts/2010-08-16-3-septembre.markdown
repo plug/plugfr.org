@@ -15,7 +15,7 @@ Le Club de Lecture reprend son rythme avec une thématique très "programmation"
 Pas de chapitre précis à lire pour cette fois, mais des ressources proposées, à mettre en commun et discuter en groupe :
 
 - [Patron de conception - Wikipédia (français)](http://fr.wikipedia.org/wiki/Patron_de_conception)
-- [Design Patterns - Wikipédia (anglais)](http://en.wikipedia.org/wiki/Design_pattern_(computer_science))
+- [Design Patterns - Wikipédia (anglais)](http://en.wikipedia.org/wiki/Design_pattern_(computer_science)
 - [Design Patterns - livre (anglais)](http://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612)
 - [Design Patterns in Ruby - livre (français)](http://www.eyrolles.com/Informatique/Livre/les-design-patterns-en-ruby-9782744022692)
  - [Design Patterns in Ruby - blog series (anglais)](http://blog.devinterface.com/2010/06/design-patterns-in-ruby-introduction/)
