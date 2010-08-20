@@ -1,0 +1,37 @@
+C-a move begin of line
+C-e move end of line
+C-b move back char
+C-f move forward char
+C-u kill backward from point
+C-k kill text from point
+C-l clear screen
+C-w delete word
+C-d delete forward char
+C-h delete backward char
+C-t transpose char
+C-y yank that was deleted
+C-n next history
+C-p previous history
+C-_ undo
+C-@ set mark on current position
+C-x C-x switch cursor between current position and marked position
+C-x C-e edit current line in EDITOR
+C-x C-v display shell version
+¿¿C-x C-r reread inputrc??
+
+M-. yank first arg of previous command (second word)
+M-C-y yank last arg of previous command
+M-n M-C-y  yank nth arg of previous command
+M-{ complete into braces
+M-t transpose words
+M-b backward word
+M-f forward word
+M-r revert all changes on current line
+M-? all possible completion (like TAB TAB)
+M-* write all possible completion
+M-u uppercase
+M-l lowercase
+M-# comment current line and enter
+M-c capitalize word
+M-- M-c capitalize previous word but don't move cursor
+¿¿M-y Rotate the kill ring, and yank the new top??

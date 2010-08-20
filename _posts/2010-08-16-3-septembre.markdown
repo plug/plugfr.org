@@ -1,0 +1,30 @@
+---
+title: "Réunion vendredi 3 septembre 2010"
+layout: post
+categories: reunions
+post_id: 172
+---
+**Le PLUG organise une réunion le vendredi 3 septembre à partir de 19h00.**
+
+Sur fond de rentrée scolaire, le PLUG continue ses activités et réunions mensuelles.
+La participation étonnante en juillet et août présage des échanges intenses et nouveaux pour septembre et la suite, qui ne s'en réjoui pas ?
+
+Nous prévoyons la seconde partie de la présentation du métier de FAI et une présentation sur le concept de prototypage dans les langages de programmation (basée sur Javasript). Ces 2 thématiques sont en attente de confirmation.
+
+Le Club de Lecture reprend son rythme avec une thématique très "programmation" ; introduction au concept des "Design Patterns" : de quoi s'agit-il, à quoi ça sert, …
+Pas de chapitre précis à lire pour cette fois, mais des ressources proposées, à mettre en commun et discuter en groupe :
+
+- [Patron de conception - Wikipédia (français)](http://fr.wikipedia.org/wiki/Patron_de_conception)
+- [Design Patterns - Wikipédia (anglais)](http://en.wikipedia.org/wiki/Design_pattern_(computer_science))
+- [Design Patterns - livre (anglais)](http://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612)
+- [Design Patterns in Ruby - livre (français)](http://www.eyrolles.com/Informatique/Livre/les-design-patterns-en-ruby-9782744022692)
+ - [Design Patterns in Ruby - blog series (anglais)](http://blog.devinterface.com/2010/06/design-patterns-in-ruby-introduction/)
+
+Si le thème intéresse vraiment, on pourra étudier plus en détail certains de ces Design Patterns, en utilisant des langages tels que Python, Ruby, Java, …
+
+Selon les disponibilités de [La Bo\[a\]te](http://laboate.com/) pour le créneau 17h30 - 19h, le Club de Lecture se réunira peut-être dans les locaux de [Autrement](http://www.autrementleblog.fr/). À suivre pour les précisions (ici même et/ou sur [Twitter](http://twitter.com/plugfr) et [IRC](irc://irc.freenode.net/#plugfr)).
+
+----
+La réunion se tiendra à [La Bo\[a\]te](http://laboate.com/).
+
+Selon la tradition de l'auberge espagnole, les participants à la réunion sont invités à apporter un petit quelque chose à boire et/ou à grignoter.

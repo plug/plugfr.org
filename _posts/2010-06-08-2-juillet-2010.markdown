@@ -1,0 +1,21 @@
+---
+title: "Réunion vendredi 2 juillet 2010"
+layout: post
+categories: reunions
+post_id: 170
+---
+**Le PLUG organise une réunion le vendredi 2 juillet 2010 à partir de 19h00.**
+
+La thématique principale de la soirée sera le **Javascript**.
+
+**Jordan Papaseit** fera une présentation intitulée _"L'improbable omniprésence de Javascript"_
+Il nous présentera ce qu'est Javascript, ce qu'on peut faire avec, ses particularités et les enjeux actuels autour du Javascript.
+
+Il y aura aussi d'autres présentations plus courtes sur les frameworks pour le web ([Prototype](http://prototypejs.org), [jQuery](http://jquery.org), …), un outil d'abstraction étrange ([CoffeeScript](http://jashkenas.github.com/coffee-script/)), l'environnement server-side [Node.js](http://nodejs.org/), …
+
+Notez qu'il n'y aura **pas de Club de lecture** ce soir là, prochain épisode en août ou bien à la rentrée.
+
+----
+La réunion se tiendra à [La Bo\[a\]te](http://laboate.com/).
+
+Selon la tradition de l'auberge espagnole, les participants à la réunion sont invités à apporter un petit quelque chose à boire et/ou à grignoter.

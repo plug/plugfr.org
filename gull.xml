@@ -40,11 +40,11 @@
 
 	<website>
 		<url>http://plugfr.org/</url>
-		<rss>http://plugfr.org/spip/backend.php3</rss>
+		<rss>http://plugfr.org/feeds/articles.xml</rss>
 		<forum></forum>
 		<salon>irc://plugfr@irc.freenode.net</salon>
-		<soft>SPIP</soft>
-		<hebergement>Perso (OVH)</hebergement>
+		<soft>Jekyll</soft>
+		<hebergement>Tux Family</hebergement>
 	</website>
 
 	<statistiques>
@@ -54,7 +54,7 @@
 	</statistiques>
 
 	<divers>
-		<modification>20/05/2009</modification>
+		<modification>23/07/2010</modification>
 	</divers>
 
 </informations>

@@ -14,3 +14,12 @@ Le "[club de lecture](http://jeremy.wordpress.com/2010/05/19/club-de-lecture-epi
 La réunion se tiendra à [La Bo\[a\]te](http://laboate.com/).
 
 Selon la tradition de l'auberge espagnole, les participants à la réunion sont invités à apporter un petit quelque chose à boire et/ou à grignoter.
+
+----
+
+### Ressources présentées lors de la soirée :
+
+- [Workflow GIT](http://nvie.com/git-model) à base de multiples branches (master, dev, hotfixes, releases, features, …)
+- [Présentation des Meta-Keys dans Bash](/pub/Bash-Meta-Keys.txt)
+- [Helvetireader](http://helvetireader.com/) : un userscript pour consulter GoogleReader en mode simplifié et (subjectivement) plus joli
+- [Vim Kata Number One](http://blog.wekeroad.com/2010/05/24/vim-kata-one) pour démarrer avec Vim
