@@ -9,7 +9,9 @@ post_id: 172
 Sur fond de rentrée scolaire, le PLUG continue ses activités et réunions mensuelles.
 La participation étonnante en juillet et août présage des échanges intenses et nouveaux pour septembre et la suite, qui ne s'en réjouit pas ?
 
-Nous prévoyons la seconde partie de la présentation du métier de FAI et une présentation sur le concept de prototypage dans les langages de programmation (basée sur Javascript). Ces 2 thématiques sont en attente de confirmation.
+Nous prévoyons la seconde partie de la présentation du métier de FAI. Cette présentation est confirmée et une partie du staff de [Teleragno](http://www.teleragno.fr/) sera présent.
+
+La présentation sur le concept de prototypage dans les langages de programmation (basée sur Javascript) est en attente de confirmation.
 
 Le Club de Lecture reprend son rythme avec une thématique très "programmation" ; introduction au concept des "Design Patterns" : de quoi s'agit-il, à quoi ça sert, …
 Pas de chapitre précis à lire pour cette fois, mais des ressources proposées, à mettre en commun et discuter en groupe :
