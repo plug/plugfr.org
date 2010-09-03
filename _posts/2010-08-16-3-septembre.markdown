@@ -24,7 +24,7 @@ Pas de chapitre précis à lire pour cette fois, mais des ressources proposées,
 
 Si le thème intéresse vraiment, on pourra étudier plus en détail certains de ces Design Patterns, en utilisant des langages tels que Python, Ruby, Java, …
 
-Selon les disponibilités de [La Bo\[a\]te](http://laboate.com/) pour le créneau 17h30 - 19h, le Club de Lecture se réunira peut-être dans les locaux de [Autrement](http://www.autrementleblog.fr/). À suivre pour les précisions (ici même et/ou sur [Twitter](http://twitter.com/plugfr) et [IRC](irc://irc.freenode.net/#plugfr)).
+Rendez-vous donc à 17h30 à [La Bo\[a\]te](http://laboate.com/) pour le Club de Lecture et à 19h-19h30 pour la réunion du PLUG. 
 
 ----
 La réunion se tiendra à [La Bo\[a\]te](http://laboate.com/).
