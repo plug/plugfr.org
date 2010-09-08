@@ -36,6 +36,7 @@ h1,h2,h3,h4,h5,h6{margin-bottom:0.5em;}
 blockquote{margin:5px 30px;border-left:3px solid #ccc;padding:0 10px;}
 #main-header h1{font-size:48px;margin-bottom:0px;}
 article{padding:0 0 10px 0;margin:0 0 10px 0;}
+article header{padding-bottom:0.5em;margin-bottom:0.5em;border-bottom:1px solid #efefef;}
 article header h2{margin:0;}
 article header p{font-size:12px;margin-bottom:0;}
 #home article{border-bottom:1px solid #efefef;}
