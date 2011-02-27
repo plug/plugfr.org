@@ -18,7 +18,7 @@
   <div id="nav-misc" class="nav-block">
     <h3>et aussi</h3>
     <ul>
-      <li>le <a href="/feeds/articles.xml" rel="feed">flux RSS des articles</a></li>
+      <li>le <a href="/feeds/articles.xml" rel="alternate" type="application/atom+xml">flux RSS des articles</a></li>
       <li>le <a href="/contact/">formulaire de contact</a></li>
       <li><a href="http://twitter.com/plugfr" rel="external" title="Twitter">@plugfr</a> sur Twitter</li>
       <li><a href="http://wiki.plugfr.org/" rel="external">Wiki</a></li>
@@ -40,16 +40,16 @@
       <h4>par catégories</h4>
       <ul id="archives-categories">
       {% if site.categories.informations.size > 0 %}
-        <li><a href="/archives/categories.html#informations" title="les articles de la catégorie 'informations'">informations</a></li>
+        <li><a href="/archives/categories.html#informations" title="les articles de la catégorie 'informations'" rel="archives">informations</a></li>
       {% endif %}
       {% if site.categories.reunions.size > 0 %}
-        <li><a href="/archives/categories.html#reunions" title="les articles de la catégorie 'réunions'">réunions</a></li>
+        <li><a href="/archives/categories.html#reunions" title="les articles de la catégorie 'réunions'" rel="archives">réunions</a></li>
       {% endif %}
       {% if site.categories.emploi.size > 0 %}
-        <li><a href="/archives/categories.html#emploi" title="les articles de la catégorie 'emploi'">emploi</a></li>
+        <li><a href="/archives/categories.html#emploi" title="les articles de la catégorie 'emploi'" rel="archives">emploi</a></li>
       {% endif %}
       {% if site.categories.divers.size > 0 %}
-        <li><a href="/archives/categories.html#divers" title="les articles de la catégorie 'divers'">divers</a></li>
+        <li><a href="/archives/categories.html#divers" title="les articles de la catégorie 'divers'" rel="archives">divers</a></li>
       {% endif %}
       </ul>
     </div>
@@ -60,7 +60,7 @@
       {% for post in site.posts %}
         {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
         {% if year != year_prev %}
-          <li><a href="/archives/dates.html#{{ year }}" title="les articles publiés en {{ year }}">{{ year }}</a></li>
+          <li><a href="/archives/dates.html#{{ year }}" title="les articles publiés en {{ year }}" rel="archives">{{ year }}</a></li>
         {% endif %}
         {% assign year_prev = year %}
       {% endfor %}
