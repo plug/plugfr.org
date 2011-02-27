@@ -2,6 +2,8 @@
 <html lang="fr">
 <head>
 <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+{% if page.excerpt != null %}<meta name="description" content="{{ page.excerpt | strip_html }}">{% endif %}
+<meta name="generator" content="Jekyll">
 {% include stylesheets.html %}
 <link rel="apple-touch-icon" href="/apple-touch-icon.png"/>
 <link href="/feeds/articles.xml" rel="alternate" title="Flux RSS des articles du PLUG" type="application/atom+xml" />
