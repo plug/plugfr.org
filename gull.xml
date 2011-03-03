@@ -35,7 +35,7 @@
 		<ville>Marseille</ville>
 		<naissance>1997</naissance>
 		<email>contact@plugfr.org</email>
-		<interlug>http://wiki.interlug-fr.org/doku.php/plug</interlug>
+		<interlug>http://wiki.interlug-fr.org/doku.php?id=plug</interlug>
 	</presentation>
 
 	<website>
@@ -54,7 +54,7 @@
 	</statistiques>
 
 	<divers>
-		<modification>23/07/2010</modification>
+		<modification>03/03/2011</modification>
 	</divers>
 
 </informations>
