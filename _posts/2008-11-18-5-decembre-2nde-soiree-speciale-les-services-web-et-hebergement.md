@@ -4,7 +4,7 @@ layout: post
 categories: reunions
 post_id: 146
 ---
-Après la première partie qui a eu lieu le 7 novembre, le PLUG organise une soirée pour traiter la seconde partie du thème "Les services web et leur infrastructure d'hébergement".
+Après la première partie qui a eu lieu le 7 novembre, le PLUG organise une soirée pour traiter la seconde partie du thème "Les services web et leur infrastructure d'hébergement" (par [Jérémy Lecour](http://jeremy.wordpress.com)).
 
 Elle aura lieu le 5 décembre à partir de 19h, dans les locaux de [La Boate](http://laboate.com/) à Marseille.
 

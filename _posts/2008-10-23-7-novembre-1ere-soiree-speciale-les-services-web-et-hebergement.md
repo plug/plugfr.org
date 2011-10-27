@@ -4,7 +4,7 @@ layout: post
 categories: reunions
 post_id: 145
 ---
-Le PLUG organise 2 soirées autour du thème "Les services web et leur infrastructure d'hébergement".
+Le PLUG organise 2 soirées autour du thème "Les services web et leur infrastructure d'hébergement" (par [Jérémy Lecour](http://jeremy.wordpress.com)).
 
 Elles auront lieu les vendredi 7 novembre et 5 décembre à partir de 19h, dans les locaux de [La Boate](http://laboate.com/) à Marseille.
 
