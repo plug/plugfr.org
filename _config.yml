@@ -7,3 +7,4 @@ root_uri: http://plugfr.org
 exclude:
   - script
   - README.markdown
+  - public
