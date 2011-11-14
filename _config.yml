@@ -8,3 +8,4 @@ exclude:
   - script
   - README.markdown
   - public
+  - plugfr.org.tmproj
