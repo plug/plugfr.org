@@ -4,7 +4,7 @@ body{background-color:#efefef;}
 #main-footer{border-top:3px solid #efefef;margin-top:10px;padding:10px 0;text-align:center;font-size:12px;}
 #about{padding-top:5px;}
 article .content,#archives section{clear:both;}
-#archives section h3{text-align:right;font-size:64px;line-height:64px;color:#ccc;}
+#archives section h3{text-align:right;font-size:64px;line-height:64px;color:#dedede;}
 #archives section .date{text-align:right;}
 #archives section ul{margin-left:0;list-style-type:none;}
 nav.articles-nav{margin:5px 0;text-align:center;}
