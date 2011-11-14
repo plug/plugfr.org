@@ -25,7 +25,7 @@ if [ $? -eq 0 ]; then
   ssh -q -o "BatchMode=yes" ${REMOTE} "echo 2>&1 >/dev/null"
 
   if [ $? -eq 0 ] ; then
-    rsync -aH --exclude=.git --delete-excluded _site/ ${REMOTE}:plugfr/plugfr.org-web/htdocs/
+    rsync -aH --exclude=.git --delete-excluded --delete _site/ ${REMOTE}:plugfr/plugfr.org-web/htdocs/
 
     if [ $? -eq 0 ]; then
       echo "Site uploaded to 'TuxFamily' : http://plugfr.org/"
