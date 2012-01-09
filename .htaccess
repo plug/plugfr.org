@@ -3,6 +3,9 @@ layout: nil
 ---
 ErrorDocument 404 /404.html
 ErrorDocument 500 /500.html
+
+Redirect permanent /pub http://download.tuxfamily.org/plugfr
+
 <IfModule mod_rewrite.c>
     RewriteEngine On
 
@@ -13,6 +16,7 @@ ErrorDocument 500 /500.html
     RewriteRule ^spip/article.php3$ /r/%1?
     RewriteCond %{QUERY_STRING} ^id_rubrique\=(.+)$
     RewriteRule ^spip/rubrique.php3$ /archives/categories.html? [R=301,L]
+
     RewriteRule 7-mai-2010 /r/167 [R=301,L]
     RewriteRule reunions/1-octobre/ /r/173 [R=301,L]
 {% for post in site.posts %}
