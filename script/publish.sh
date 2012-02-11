@@ -1,8 +1,17 @@
 #!/usr/bin/env bash
 
-rm -rf _site/*
+rm -rf _site
+mkdir _site
 
-jekyll --no-auto
+JEKYLL_OPTIONS='--no-auto'
+
+if which bundle >/dev/null; then
+  JEKYLL_BIN='bundle exec jekyll'
+else
+  JEKYLL_BIN='jekyll'
+fi
+
+$JEKYLL_BIN $JEKYLL_OPTIONS
 
 if [ $? -eq 0 ]; then
   echo "Remove empty lines from generated files"
