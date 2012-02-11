@@ -4,6 +4,8 @@ lsi: false
 paginate:
 permalink: /:categories/:title/
 root_uri: http://plugfr.org
+include:
+  - .htaccess
 exclude:
   - script
   - README.markdown
