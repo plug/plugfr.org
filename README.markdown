@@ -30,3 +30,7 @@ de commit sur le repository GitHub, puis :
 * git push
 * Attendre la mise en ligne des modifications par un webmaster
 
+Pur faciliter l'installation des librairies Ruby nécessaire à la génération du site, il est possible d'utiliser [Bundler](http://gembundler.com).
+
+    $ gem install bundler
+    $ bundle
