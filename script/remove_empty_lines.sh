@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
 
+set -e
+
 cd _site
 
 # guess OS based on kernel

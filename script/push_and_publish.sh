@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
 
+set -e
+
 # Push to Github
 git push origin
 
