@@ -3,10 +3,10 @@
 set -e
 
 # Push to Github
-git push origin
+git push origin master
 
 # Push to the Tuxfamily mirror
-git push tuxfamily
+git push tuxfamily master
 
 # Publish
 
