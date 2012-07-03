@@ -10,4 +10,5 @@ exclude:
   - script
   - README.markdown
   - public
+  - vendor
   - plugfr.org.tmproj
