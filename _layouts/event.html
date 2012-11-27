@@ -19,6 +19,19 @@ layout: default
       </span>
     </span>
     {% endif %}
+    {% if page.event.location == 'iut-aix' %}
+    <span itemprop="location" itemscope itemtype="http://data-vocabulary.org/Organization">
+      <meta itemprop="name" content="IUT d’Aix-en-Provence" />
+      <span itemprop="address" itemscope itemtype="http://data-vocabulary.org/Address">
+        <meta itemprop="street-address" content="Département d’Informatique, Avenue Gaston Berger" /> 
+        <meta itemprop="locality" content="Aix-en-Provence" />
+      </span>
+      <span itemprop="geo" itemscope itemtype="http://data-vocabulary.org/Geo">
+        <meta itemprop="latitude" content="43.514644" />
+        <meta itemprop="longitude" content="5.451174" />
+      </span>
+    </span>
+    {% endif %}
   </header>
   {{ content }}
 </article>
