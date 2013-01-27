@@ -2,17 +2,14 @@
 
 set -e
 
-cd _site
-
 # guess OS based on kernel
 # TODO : find a better way to support debian with BSD kernel
-test -e /proc # -> 0 if /proc exists (= linux)
-if [ $? -eq 0 ]; then
+# if /proc exists (= linux)
+if [ -e /proc]; then
   OS=LINUX
 else
   OS=BSD
 fi
-
 
 remove_empty_lines ()
 {
@@ -25,22 +22,26 @@ remove_empty_lines ()
   rm $TMP
 }
 
-EXT="html|xml|css|js|htaccess"
+(
+  cd _site
 
-CMD_FIN_OPT_BSD=""
-CMD_FIN_OPT_LNX=""
+  EXT="html|xml|css|js|htaccess"
 
-if [ $OS = 'LINUX' ]; then
-  CMD_FIND_OPT_LNX='-regextype posix-extended'
-else
-  CMD_FIND_OPT_BSD='-E'
-fi
+  CMD_FIN_OPT_BSD=""
+  CMD_FIN_OPT_LNX=""
 
-find ${CMD_FIND_OPT_BSD} . -path "./pub" -prune -o ${CMD_FIND_OPT_LNX} -regex ".*\.(${EXT})$" -print  | while read F
+  if [ $OS = 'LINUX' ]; then
+    CMD_FIND_OPT_LNX='-regextype posix-extended'
+  else
+    CMD_FIND_OPT_BSD='-E'
+  fi
+
+  find ${CMD_FIND_OPT_BSD} . -path "./pub" -prune -o ${CMD_FIND_OPT_LNX} -regex ".*\.(${EXT})$" -print  | while read F
   do
     echo "    $F"
     remove_empty_lines "$F"
   done
+)
 
 exit 0
 
