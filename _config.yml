@@ -7,8 +7,12 @@ root_uri: http://plugfr.org
 include:
   - .htaccess
 exclude:
+  - bin
   - script
   - README.markdown
   - public
   - vendor
+  - bundle
+  - Gemfile
+  - Gemfile.lock
   - plugfr.org.tmproj

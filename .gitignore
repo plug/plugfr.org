@@ -1,7 +1,3 @@
 _site/
 *.tmproj
-.rvmrc
-.rbenv-version
-bin
-vendor/bundle
 .bundle
