@@ -1,4 +1,4 @@
-source :rubygems
+source 'http://rubygems.org'
 
-gem 'jekyll', :git => 'https://github.com/mojombo/jekyll.git'
+gem 'jekyll', '~> 0.12.1'
 gem 'RedCloth'
