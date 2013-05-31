@@ -5,7 +5,7 @@ set -e
 # guess OS based on kernel
 # TODO : find a better way to support debian with BSD kernel
 # if /proc exists (= linux)
-if [ -e /proc]; then
+if [[ -e /proc ]]; then
   OS=LINUX
 else
   OS=BSD

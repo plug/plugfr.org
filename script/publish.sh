@@ -1,30 +1,23 @@
 #!/usr/bin/env bash
 
 set -e
+[ -n "$DEBUG" ] && set -x
 
 rm -rf _site
 mkdir _site
 
-JEKYLL_OPTIONS='--no-auto'
-
-if which bundle >/dev/null; then
-  JEKYLL_BIN='bundle exec jekyll'
-else
-  JEKYLL_BIN='jekyll'
-fi
-
-$JEKYLL_BIN $JEKYLL_OPTIONS
+bin/jekyll build
 
 echo "Remove empty lines from generated files"
 ./script/remove_empty_lines.sh
 
-SITEMAP=_site/sitemap.xml
+sitemap='_site/sitemap.xml'
 
-if [ -f $SITEMAP ]; then
-  if [ -f $SITEMAP.gz ]; then
-    rm $SITEMAP.gz
+if [ -f $sitemap ]; then
+  if [ -f $sitemap.gz ]; then
+    rm $sitemap.gz
   fi
-  gzip -c $SITEMAP > $SITEMAP.gz
+  gzip -c $sitemap > $sitemap.gz
 fi
 
 
