@@ -6,11 +6,7 @@
 # this file is here to facilitate running it.
 #
 
-require 'pathname'
-ENV['BUNDLE_GEMFILE'] ||= File.expand_path("../../Gemfile",
-  Pathname.new(__FILE__).realpath)
+$:.unshift File.expand_path '../../bundle', __FILE__
 
-require 'rubygems'
 require 'bundler/setup'
-
-load Gem.bin_path('maruku', 'marutex')
+load File.expand_path '../../bundle/ruby/2.0.0/gems/maruku-0.6.1/bin/marutex', __FILE__

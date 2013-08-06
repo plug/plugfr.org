@@ -6,11 +6,7 @@
 # this file is here to facilitate running it.
 #
 
-require 'pathname'
-ENV['BUNDLE_GEMFILE'] ||= File.expand_path("../../Gemfile",
-  Pathname.new(__FILE__).realpath)
+$:.unshift File.expand_path '../../bundle', __FILE__
 
-require 'rubygems'
 require 'bundler/setup'
-
-load Gem.bin_path('commander', 'commander')
+load File.expand_path '../../bundle/ruby/2.0.0/gems/commander-4.1.4/bin/commander', __FILE__
