@@ -2,11 +2,11 @@
 
 Gem::Specification.new do |s|
   s.name = "commander"
-  s.version = "4.1.4"
+  s.version = "4.1.5"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["TJ Holowaychuk", "Gabriel Gilder"]
-  s.date = "2013-07-21"
+  s.date = "2013-08-11"
   s.description = "The complete solution for Ruby command-line executables. Commander bridges the gap between other terminal related libraries you know and love (OptionParser, HighLine), while providing many new features, and an elegant API."
   s.email = ["ggilder@tractionco.com"]
   s.executables = ["commander"]

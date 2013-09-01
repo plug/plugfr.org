@@ -10,7 +10,7 @@ $:.unshift File.expand_path("#{path}/../#{ruby_engine}/#{ruby_version}/gems/fast
 $:.unshift File.expand_path("#{path}/../#{ruby_engine}/#{ruby_version}/gems/classifier-1.3.3/lib")
 $:.unshift File.expand_path("#{path}/../#{ruby_engine}/#{ruby_version}/gems/colorator-0.1/lib")
 $:.unshift File.expand_path("#{path}/../#{ruby_engine}/#{ruby_version}/gems/highline-1.6.19/lib")
-$:.unshift File.expand_path("#{path}/../#{ruby_engine}/#{ruby_version}/gems/commander-4.1.4/lib")
+$:.unshift File.expand_path("#{path}/../#{ruby_engine}/#{ruby_version}/gems/commander-4.1.5/lib")
 $:.unshift File.expand_path("#{path}/../#{ruby_engine}/#{ruby_version}/gems/directory_watcher-1.4.1/lib")
 $:.unshift File.expand_path("#{path}/../#{ruby_engine}/#{ruby_version}/gems/kramdown-1.0.2/lib")
 $:.unshift File.expand_path("#{path}/../#{ruby_engine}/#{ruby_version}/gems/liquid-2.5.1/lib")
