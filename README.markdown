@@ -17,8 +17,8 @@ HowTo contribuer au site
 ========================
 
 * git clone git://github.com/plug/plugfr.org.git
-* Hack... hack... commit...
-* git format-patch .... à envoyer webmaster@plugfr.org
+* Hack … hack … commit …
+* git format-patch … à envoyer webmaster@plugfr.org
 
 Note : il est possible aussi de soumettre ses modifications via une nouvelle branche Git
 
@@ -26,7 +26,7 @@ Si l'on est contributeur régulier, on obtiendra les droits
 de commit sur le repository GitHub, puis :
 
 * git clone git@github.com:plug/plugfr.org.git
-* Hack... hack... commit...
+* Hack … hack … commit …
 * git push
 * Attendre la mise en ligne des modifications par un webmaster
 
@@ -35,5 +35,5 @@ Pour faciliter l'installation des librairies Ruby nécessaire à la génération
     $ gem install bundler
     $ bundle
 
-Et en cas de version multiples, … pour être sûr d'utiliser la version spécifier dans le `Gemfile` : `$ bundle exec jekyll [options]`.
+Et en cas de version multiples, … pour être sûr d'utiliser la version spécifiée dans le `Gemfile` : `$ bin/jekyll [options]`.
 
