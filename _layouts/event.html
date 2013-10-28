@@ -1,51 +1,16 @@
 ---
 layout: default
 ---
-<article itemscope itemtype="http://data-vocabulary.org/Event">
+<article itemscope itemtype="http://data-vocabulary.org/Event" {% if page.event.location == 'laboate' %} itemref="laboate-location"{% endif %}>
   <header>
     <h2><a href="{{ page.url }}" rel="bookmark" itemprop="url"><span itemprop="summary">{{ page.title }}</span></a></h2>
     <p>publié le <time datetime="{{ page.date | date_to_xmlschema }}" pubdate>{{ page.date | date: "%d %B %Y" }}</time> dans <a href="/archives/categories.html" class="category">{{ page.categories }}</a>{% if page.author != null %} écrit par {{page.author}}{% endif %}{% if page.post_id != null %} - <a href="{{ site.root_uri }}/r/{{ page.post_id }}" rel="shorturl" title="Pratique pour copier/coller dans un tweet, un statut facebook, …">lien court</a>{% endif %}</p>
     <time itemprop="startDate" datetime="{{ page.event.start | date_to_xmlschema }}"></time>
-    {% if page.event.location == 'laboate' %}
-    <span itemprop="location" itemscope itemtype="http://data-vocabulary.org/Organization">
-      <meta itemprop="name" content="La Bo[a]te" />
-      <span itemprop="address" itemscope itemtype="http://data-vocabulary.org/Address">
-        <meta itemprop="street-address" content="35 rue de la Paix" /> 
-        <meta itemprop="postal-code" content="13001" /> 
-        <meta itemprop="locality" content="Marseille" />
-      </span>
-      <span itemprop="geo" itemscope itemtype="http://data-vocabulary.org/Geo">
-        <meta itemprop="latitude" content="43.292199" />
-        <meta itemprop="longitude" content="5.372918" />
-      </span>
-    </span>
-    {% endif %}
     {% if page.event.location == 'iut-aix' %}
-    <span itemprop="location" itemscope itemtype="http://data-vocabulary.org/Organization">
-      <meta itemprop="name" content="IUT d’Aix-en-Provence" />
-      <span itemprop="address" itemscope itemtype="http://data-vocabulary.org/Address">
-        <meta itemprop="street-address" content="Département d’Informatique, Avenue Gaston Berger" /> 
-        <meta itemprop="locality" content="Aix-en-Provence" />
-      </span>
-      <span itemprop="geo" itemscope itemtype="http://data-vocabulary.org/Geo">
-        <meta itemprop="latitude" content="43.514644" />
-        <meta itemprop="longitude" content="5.451174" />
-      </span>
-    </span>
+      {% include iut-aix.html %}
     {% endif %}
     {% if page.event.location == 'pavillon-m' %}
-    <span itemprop="location" itemscope itemtype="http://data-vocabulary.org/Organization">
-      <meta itemprop="name" content="Pavillon M" />
-      <span itemprop="address" itemscope itemtype="http://data-vocabulary.org/Address">
-        <meta itemprop="street-address" content="Place Villeneuve-Bargemon," /> 
-        <meta itemprop="postal-code" content="13002" /> 
-        <meta itemprop="locality" content="Marseille" />
-      </span>
-      <span itemprop="geo" itemscope itemtype="http://data-vocabulary.org/Geo">
-        <meta itemprop="latitude" content="43.296616" />
-        <meta itemprop="longitude" content="5.370288" />
-      </span>
-    </span>
+      {% include pavillon-m.html %}
     {% endif %}
   </header>
   {{ content }}
