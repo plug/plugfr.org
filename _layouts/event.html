@@ -3,7 +3,7 @@ layout: default
 ---
 <article itemscope itemtype="http://data-vocabulary.org/Event">
   <header>
-    <h2 itemprop="summary"><a href="{{ page.url }}" rel="bookmark">{{ page.title }}</a></h2>
+    <h2><a href="{{ page.url }}" rel="bookmark" itemprop="url"><span itemprop="summary">{{ page.title }}</span></a></h2>
     <p>publié le <time datetime="{{ page.date | date_to_xmlschema }}" pubdate>{{ page.date | date: "%d %B %Y" }}</time> dans <a href="/archives/categories.html" class="category">{{ page.categories }}</a>{% if page.author != null %} écrit par {{page.author}}{% endif %}{% if page.post_id != null %} - <a href="{{ site.root_uri }}/r/{{ page.post_id }}" rel="shorturl" title="Pratique pour copier/coller dans un tweet, un statut facebook, …">lien court</a>{% endif %}</p>
     <time itemprop="startDate" datetime="{{ page.event.start | date_to_xmlschema }}"></time>
     {% if page.event.location == 'laboate' %}
