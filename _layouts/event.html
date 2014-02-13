@@ -12,6 +12,9 @@ layout: default
     {% if page.event.location == 'pavillon-m' %}
       {% include pavillon-m.html %}
     {% endif %}
+    {% if page.event.location == 'fabulerie' %}
+      {% include fabulerie.html %}
+    {% endif %}
   </header>
   {{ content }}
 </article>

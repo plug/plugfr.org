@@ -4,7 +4,10 @@ title: PLUG &ndash; Provence Linux User Group
 ---
 <article id="sticky">
   <header>
-    <h2><a href="/reunions/14-fevrier-2014">Prochaine réunion : vendredi 14 février 2014</a></h2>
+    <h2>
+      <a href="/reunions/14-fevrier-2014">Prochaine réunion : vendredi 14 février 2014
+      <br /><span class="warning">Changement de programme/lieu</span></a>
+    </h2>
   </header>
   
 </article>
@@ -21,6 +24,9 @@ title: PLUG &ndash; Provence Linux User Group
       {% endif %}
       {% if post.event.location == 'pavillon-m' %}
         {% include pavillon-m.html %}
+      {% endif %}
+      {% if post.event.location == 'fabulerie' %}
+        {% include fabulerie.html %}
       {% endif %}
     </header>
   </article>
