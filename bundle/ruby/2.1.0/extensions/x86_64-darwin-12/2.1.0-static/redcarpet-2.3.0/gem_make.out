@@ -1,0 +1,35 @@
+/Users/jlecour/.rubies/ruby-2.1.1/bin/ruby extconf.rb 
+creating Makefile
+
+make "DESTDIR=" clean
+
+make "DESTDIR="
+compiling autolink.c
+compiling buffer.c
+compiling houdini_href_e.c
+compiling houdini_html_e.c
+compiling html.c
+html.c: In function ‘rndr_blockcode’:
+html.c:129: warning: ‘cls’ is used uninitialized in this function
+compiling html_smartypants.c
+html_smartypants.c: In function ‘squote_len’:
+html_smartypants.c:92: warning: initialization discards qualifiers from pointer target type
+html_smartypants.c:92: warning: initialization discards qualifiers from pointer target type
+html_smartypants.c:92: warning: initialization discards qualifiers from pointer target type
+html_smartypants.c:92: warning: initialization discards qualifiers from pointer target type
+html_smartypants.c: In function ‘smartypants_squote’:
+html_smartypants.c:133: warning: implicit conversion shortens 64-bit value into a 32-bit value
+html_smartypants.c:137: warning: comparison between signed and unsigned
+html_smartypants.c: In function ‘smartypants_cb__amp’:
+html_smartypants.c:232: warning: implicit conversion shortens 64-bit value into a 32-bit value
+html_smartypants.c:232: warning: ISO C90 forbids mixed declarations and code
+compiling markdown.c
+markdown.c:67: warning: ‘char_underline’ declared ‘static’ but never defined
+compiling rc_markdown.c
+compiling rc_render.c
+compiling stack.c
+linking shared-object redcarpet.bundle
+
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 redcarpet.bundle ./.gem.20140408-56543-1su857x
+installing default redcarpet libraries
