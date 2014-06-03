@@ -1,6 +1,5 @@
-pygments: true
+highlighter: pygments
 lsi: false
-paginate:
 permalink: /:categories/:title/
 root_uri: http://plugfr.org
 timezone: Europe/Paris

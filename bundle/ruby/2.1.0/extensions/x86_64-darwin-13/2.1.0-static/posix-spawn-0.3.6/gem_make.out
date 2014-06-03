@@ -1,0 +1,22 @@
+/Users/jlecour/.rubies/ruby-2.1.2/bin/ruby extconf.rb 
+creating Makefile
+
+make "DESTDIR=" clean
+
+make "DESTDIR="
+compiling posix-spawn.c
+In file included from posix-spawn.c:14:
+In file included from /Users/jlecour/.rubies/ruby-2.1.2/include/ruby-2.1.0/ruby.h:33:
+In file included from /Users/jlecour/.rubies/ruby-2.1.2/include/ruby-2.1.0/ruby/ruby.h:24:
+/Users/jlecour/.rubies/ruby-2.1.2/include/ruby-2.1.0/x86_64-darwin13.0/ruby/config.h:17:9: warning: '_GNU_SOURCE' macro redefined
+#define _GNU_SOURCE 1
+        ^
+posix-spawn.c:3:9: note: previous definition is here
+#define _GNU_SOURCE
+        ^
+1 warning generated.
+linking shared-object posix_spawn_ext.bundle
+
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 posix_spawn_ext.bundle ./.gem.20140603-41440-ruhtkt
+installing default posix_spawn_ext libraries

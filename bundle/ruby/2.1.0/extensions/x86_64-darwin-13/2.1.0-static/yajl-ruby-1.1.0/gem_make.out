@@ -1,0 +1,175 @@
+/Users/jlecour/.rubies/ruby-2.1.2/bin/ruby extconf.rb 
+creating Makefile
+
+make "DESTDIR=" clean
+
+make "DESTDIR="
+compiling yajl.c
+compiling yajl_alloc.c
+compiling yajl_buf.c
+compiling yajl_encode.c
+compiling yajl_ext.c
+yajl_ext.c:42:19: warning: implicit conversion loses integer precision: 'long' to 'int' [-Wshorten-64-to-32]
+        int len = RARRAY_LEN(wrapper->builderStack);
+            ~~~   ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/Users/jlecour/.rubies/ruby-2.1.2/include/ruby-2.1.0/ruby/ruby.h:880:6: note: expanded from macro 'RARRAY_LEN'
+     (long)((RBASIC(a)->flags >> RARRAY_EMBED_LEN_SHIFT) & \
+     ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+yajl_ext.c:42:19: warning: implicit conversion loses integer precision: 'long' to 'int' [-Wshorten-64-to-32]
+        int len = RARRAY_LEN(wrapper->builderStack);
+            ~~~   ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/Users/jlecour/.rubies/ruby-2.1.2/include/ruby-2.1.0/ruby/ruby.h:882:25: note: expanded from macro 'RARRAY_LEN'
+     RARRAY(a)->as.heap.len)
+     ~~~~~~~~~~~~~~~~~~~^~~
+yajl_ext.c:47:19: warning: implicit conversion loses integer precision: 'long' to 'int' [-Wshorten-64-to-32]
+        int len = RARRAY_LEN(wrapper->builderStack);
+            ~~~   ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/Users/jlecour/.rubies/ruby-2.1.2/include/ruby-2.1.0/ruby/ruby.h:880:6: note: expanded from macro 'RARRAY_LEN'
+     (long)((RBASIC(a)->flags >> RARRAY_EMBED_LEN_SHIFT) & \
+     ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+yajl_ext.c:47:19: warning: implicit conversion loses integer precision: 'long' to 'int' [-Wshorten-64-to-32]
+        int len = RARRAY_LEN(wrapper->builderStack);
+            ~~~   ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/Users/jlecour/.rubies/ruby-2.1.2/include/ruby-2.1.0/ruby/ruby.h:882:25: note: expanded from macro 'RARRAY_LEN'
+     RARRAY(a)->as.heap.len)
+     ~~~~~~~~~~~~~~~~~~~^~~
+yajl_ext.c:64:11: warning: implicit conversion loses integer precision: 'long' to 'int' [-Wshorten-64-to-32]
+    len = RARRAY_LEN(wrapper->builderStack);
+        ~ ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/Users/jlecour/.rubies/ruby-2.1.2/include/ruby-2.1.0/ruby/ruby.h:880:6: note: expanded from macro 'RARRAY_LEN'
+     (long)((RBASIC(a)->flags >> RARRAY_EMBED_LEN_SHIFT) & \
+     ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+yajl_ext.c:64:11: warning: implicit conversion loses integer precision: 'long' to 'int' [-Wshorten-64-to-32]
+    len = RARRAY_LEN(wrapper->builderStack);
+        ~ ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/Users/jlecour/.rubies/ruby-2.1.2/include/ruby-2.1.0/ruby/ruby.h:882:25: note: expanded from macro 'RARRAY_LEN'
+     RARRAY(a)->as.heap.len)
+     ~~~~~~~~~~~~~~~~~~~^~~
+yajl_ext.c:176:19: warning: implicit conversion loses integer precision: 'long' to 'unsigned int' [-Wshorten-64-to-32]
+            len = RSTRING_LEN(str);
+                ~ ^~~~~~~~~~~~~~~~
+/Users/jlecour/.rubies/ruby-2.1.2/include/ruby-2.1.0/ruby/ruby.h:843:6: note: expanded from macro 'RSTRING_LEN'
+     RSTRING_EMBED_LEN(str) : \
+     ^~~~~~~~~~~~~~~~~~~~~~
+/Users/jlecour/.rubies/ruby-2.1.2/include/ruby-2.1.0/ruby/ruby.h:839:6: note: expanded from macro 'RSTRING_EMBED_LEN'
+     (long)((RBASIC(str)->flags >> RSTRING_EMBED_LEN_SHIFT) & \
+     ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+yajl_ext.c:176:19: warning: implicit conversion loses integer precision: 'long' to 'unsigned int' [-Wshorten-64-to-32]
+            len = RSTRING_LEN(str);
+                ~ ^~~~~~~~~~~~~~~~
+/Users/jlecour/.rubies/ruby-2.1.2/include/ruby-2.1.0/ruby/ruby.h:844:28: note: expanded from macro 'RSTRING_LEN'
+     RSTRING(str)->as.heap.len)
+     ~~~~~~~~~~~~~~~~~~~~~~^~~
+yajl_ext.c:184:19: warning: implicit conversion loses integer precision: 'long' to 'unsigned int' [-Wshorten-64-to-32]
+            len = RSTRING_LEN(obj);
+                ~ ^~~~~~~~~~~~~~~~
+/Users/jlecour/.rubies/ruby-2.1.2/include/ruby-2.1.0/ruby/ruby.h:843:6: note: expanded from macro 'RSTRING_LEN'
+     RSTRING_EMBED_LEN(str) : \
+     ^~~~~~~~~~~~~~~~~~~~~~
+/Users/jlecour/.rubies/ruby-2.1.2/include/ruby-2.1.0/ruby/ruby.h:839:6: note: expanded from macro 'RSTRING_EMBED_LEN'
+     (long)((RBASIC(str)->flags >> RSTRING_EMBED_LEN_SHIFT) & \
+     ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+yajl_ext.c:184:19: warning: implicit conversion loses integer precision: 'long' to 'unsigned int' [-Wshorten-64-to-32]
+            len = RSTRING_LEN(obj);
+                ~ ^~~~~~~~~~~~~~~~
+/Users/jlecour/.rubies/ruby-2.1.2/include/ruby-2.1.0/ruby/ruby.h:844:28: note: expanded from macro 'RSTRING_LEN'
+     RSTRING(str)->as.heap.len)
+     ~~~~~~~~~~~~~~~~~~~~~~^~~
+yajl_ext.c:192:23: warning: implicit conversion loses integer precision: 'long' to 'unsigned int' [-Wshorten-64-to-32]
+                len = RSTRING_LEN(str);
+                    ~ ^~~~~~~~~~~~~~~~
+/Users/jlecour/.rubies/ruby-2.1.2/include/ruby-2.1.0/ruby/ruby.h:843:6: note: expanded from macro 'RSTRING_LEN'
+     RSTRING_EMBED_LEN(str) : \
+     ^~~~~~~~~~~~~~~~~~~~~~
+/Users/jlecour/.rubies/ruby-2.1.2/include/ruby-2.1.0/ruby/ruby.h:839:6: note: expanded from macro 'RSTRING_EMBED_LEN'
+     (long)((RBASIC(str)->flags >> RSTRING_EMBED_LEN_SHIFT) & \
+     ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+yajl_ext.c:192:23: warning: implicit conversion loses integer precision: 'long' to 'unsigned int' [-Wshorten-64-to-32]
+                len = RSTRING_LEN(str);
+                    ~ ^~~~~~~~~~~~~~~~
+/Users/jlecour/.rubies/ruby-2.1.2/include/ruby-2.1.0/ruby/ruby.h:844:28: note: expanded from macro 'RSTRING_LEN'
+     RSTRING(str)->as.heap.len)
+     ~~~~~~~~~~~~~~~~~~~~~~^~~
+yajl_ext.c:198:23: warning: implicit conversion loses integer precision: 'long' to 'unsigned int' [-Wshorten-64-to-32]
+                len = RSTRING_LEN(str);
+                    ~ ^~~~~~~~~~~~~~~~
+/Users/jlecour/.rubies/ruby-2.1.2/include/ruby-2.1.0/ruby/ruby.h:843:6: note: expanded from macro 'RSTRING_LEN'
+     RSTRING_EMBED_LEN(str) : \
+     ^~~~~~~~~~~~~~~~~~~~~~
+/Users/jlecour/.rubies/ruby-2.1.2/include/ruby-2.1.0/ruby/ruby.h:839:6: note: expanded from macro 'RSTRING_EMBED_LEN'
+     (long)((RBASIC(str)->flags >> RSTRING_EMBED_LEN_SHIFT) & \
+     ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+yajl_ext.c:198:23: warning: implicit conversion loses integer precision: 'long' to 'unsigned int' [-Wshorten-64-to-32]
+                len = RSTRING_LEN(str);
+                    ~ ^~~~~~~~~~~~~~~~
+/Users/jlecour/.rubies/ruby-2.1.2/include/ruby-2.1.0/ruby/ruby.h:844:28: note: expanded from macro 'RSTRING_LEN'
+     RSTRING(str)->as.heap.len)
+     ~~~~~~~~~~~~~~~~~~~~~~^~~
+yajl_ext.c:463:15: warning: implicit conversion loses integer precision: 'long' to 'unsigned int' [-Wshorten-64-to-32]
+        len = RSTRING_LEN(input);
+            ~ ^~~~~~~~~~~~~~~~~~
+/Users/jlecour/.rubies/ruby-2.1.2/include/ruby-2.1.0/ruby/ruby.h:843:6: note: expanded from macro 'RSTRING_LEN'
+     RSTRING_EMBED_LEN(str) : \
+     ^~~~~~~~~~~~~~~~~~~~~~
+/Users/jlecour/.rubies/ruby-2.1.2/include/ruby-2.1.0/ruby/ruby.h:839:6: note: expanded from macro 'RSTRING_EMBED_LEN'
+     (long)((RBASIC(str)->flags >> RSTRING_EMBED_LEN_SHIFT) & \
+     ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+yajl_ext.c:463:15: warning: implicit conversion loses integer precision: 'long' to 'unsigned int' [-Wshorten-64-to-32]
+        len = RSTRING_LEN(input);
+            ~ ^~~~~~~~~~~~~~~~~~
+/Users/jlecour/.rubies/ruby-2.1.2/include/ruby-2.1.0/ruby/ruby.h:844:28: note: expanded from macro 'RSTRING_LEN'
+     RSTRING(str)->as.heap.len)
+     ~~~~~~~~~~~~~~~~~~~~~~^~~
+yajl_ext.c:469:19: warning: implicit conversion loses integer precision: 'long' to 'unsigned int' [-Wshorten-64-to-32]
+            len = RSTRING_LEN(parsed);
+                ~ ^~~~~~~~~~~~~~~~~~~
+/Users/jlecour/.rubies/ruby-2.1.2/include/ruby-2.1.0/ruby/ruby.h:843:6: note: expanded from macro 'RSTRING_LEN'
+     RSTRING_EMBED_LEN(str) : \
+     ^~~~~~~~~~~~~~~~~~~~~~
+/Users/jlecour/.rubies/ruby-2.1.2/include/ruby-2.1.0/ruby/ruby.h:839:6: note: expanded from macro 'RSTRING_EMBED_LEN'
+     (long)((RBASIC(str)->flags >> RSTRING_EMBED_LEN_SHIFT) & \
+     ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+yajl_ext.c:469:19: warning: implicit conversion loses integer precision: 'long' to 'unsigned int' [-Wshorten-64-to-32]
+            len = RSTRING_LEN(parsed);
+                ~ ^~~~~~~~~~~~~~~~~~~
+/Users/jlecour/.rubies/ruby-2.1.2/include/ruby-2.1.0/ruby/ruby.h:844:28: note: expanded from macro 'RSTRING_LEN'
+     RSTRING(str)->as.heap.len)
+     ~~~~~~~~~~~~~~~~~~~~~~^~~
+yajl_ext.c:509:15: warning: implicit conversion loses integer precision: 'long' to 'unsigned int' [-Wshorten-64-to-32]
+        len = RSTRING_LEN(chunk);
+            ~ ^~~~~~~~~~~~~~~~~~
+/Users/jlecour/.rubies/ruby-2.1.2/include/ruby-2.1.0/ruby/ruby.h:843:6: note: expanded from macro 'RSTRING_LEN'
+     RSTRING_EMBED_LEN(str) : \
+     ^~~~~~~~~~~~~~~~~~~~~~
+/Users/jlecour/.rubies/ruby-2.1.2/include/ruby-2.1.0/ruby/ruby.h:839:6: note: expanded from macro 'RSTRING_EMBED_LEN'
+     (long)((RBASIC(str)->flags >> RSTRING_EMBED_LEN_SHIFT) & \
+     ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+yajl_ext.c:509:15: warning: implicit conversion loses integer precision: 'long' to 'unsigned int' [-Wshorten-64-to-32]
+        len = RSTRING_LEN(chunk);
+            ~ ^~~~~~~~~~~~~~~~~~
+/Users/jlecour/.rubies/ruby-2.1.2/include/ruby-2.1.0/ruby/ruby.h:844:28: note: expanded from macro 'RSTRING_LEN'
+     RSTRING(str)->as.heap.len)
+     ~~~~~~~~~~~~~~~~~~~~~~^~~
+20 warnings generated.
+compiling yajl_gen.c
+yajl_gen.c:295:5: warning: implicit conversion from enumeration type 'yajl_gen_state' to different enumeration type 'yajl_gen_status' [-Wenum-conversion]
+    DECREMENT_DEPTH;
+    ^~~~~~~~~~~~~~~
+yajl_gen.c:181:48: note: expanded from macro 'DECREMENT_DEPTH'
+    if (--(g->depth) >= YAJL_MAX_DEPTH) return yajl_gen_error;
+                                        ~~~~~~ ^~~~~~~~~~~~~~
+yajl_gen.c:321:5: warning: implicit conversion from enumeration type 'yajl_gen_state' to different enumeration type 'yajl_gen_status' [-Wenum-conversion]
+    DECREMENT_DEPTH;
+    ^~~~~~~~~~~~~~~
+yajl_gen.c:181:48: note: expanded from macro 'DECREMENT_DEPTH'
+    if (--(g->depth) >= YAJL_MAX_DEPTH) return yajl_gen_error;
+                                        ~~~~~~ ^~~~~~~~~~~~~~
+2 warnings generated.
+compiling yajl_lex.c
+compiling yajl_parser.c
+compiling yajl_version.c
+linking shared-object yajl/yajl.bundle
+
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 yajl.bundle ./.gem.20140603-41440-tk2qlu/yajl
+installing default yajl libraries
