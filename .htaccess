@@ -20,6 +20,7 @@ Redirect permanent /pub http://download.tuxfamily.org/plugfr
     RewriteRule 7-mai-2010 /r/167 [R=301,L]
     RewriteRule reunions/1-octobre/ /r/173 [R=301,L]
     RewriteRule reunions/6-septembre-2012/ /reunions/7-septembre-2012/ [R=301,L]
+    RewriteRule reunions/6-septembre-2014/ /reunions/5-septembre-2014/ [R=301,L]
 {% for post in site.posts %}
     {% if post.post_id != null %}RewriteRule ^r/{{ post.post_id }}/?$ {{ post.url }} [R=301,L]{% endif %}
 {% endfor %}
