@@ -1,0 +1,18 @@
+/Users/jlecour/.rubies/ruby-2.1.4/bin/ruby extconf.rb 
+creating Makefile
+
+make "DESTDIR=" clean
+
+make "DESTDIR="
+compiling posix-spawn.c
+posix-spawn.c: In function ‘each_env_check_i’:
+posix-spawn.c:262: warning: unused parameter ‘arg’
+posix-spawn.c: In function ‘rb_posixspawn_pspawn’:
+posix-spawn.c:350: warning: ISO C90 forbids mixed declarations and code
+posix-spawn.c:390: warning: ISO C90 forbids mixed declarations and code
+posix-spawn.c:329: warning: unused parameter ‘self’
+linking shared-object posix_spawn_ext.bundle
+
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 posix_spawn_ext.bundle ./.gem.20141106-6830-195ll9x
+installing default posix_spawn_ext libraries
