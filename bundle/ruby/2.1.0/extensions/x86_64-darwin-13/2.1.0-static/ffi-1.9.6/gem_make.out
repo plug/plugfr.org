@@ -15,32 +15,58 @@ make "DESTDIR=" clean
 
 make "DESTDIR="
 compiling AbstractMemory.c
+couldn't understand kern.osversion `14.0.0'
 compiling ArrayType.c
+couldn't understand kern.osversion `14.0.0'
 compiling Buffer.c
+couldn't understand kern.osversion `14.0.0'
 compiling Call.c
+couldn't understand kern.osversion `14.0.0'
 compiling ClosurePool.c
+couldn't understand kern.osversion `14.0.0'
 compiling DataConverter.c
+couldn't understand kern.osversion `14.0.0'
 compiling DynamicLibrary.c
+couldn't understand kern.osversion `14.0.0'
 compiling ffi.c
+couldn't understand kern.osversion `14.0.0'
 compiling Function.c
+couldn't understand kern.osversion `14.0.0'
 compiling FunctionInfo.c
+couldn't understand kern.osversion `14.0.0'
 compiling LastError.c
+couldn't understand kern.osversion `14.0.0'
 compiling LongDouble.c
+couldn't understand kern.osversion `14.0.0'
 compiling MappedType.c
+couldn't understand kern.osversion `14.0.0'
 compiling MemoryPointer.c
+couldn't understand kern.osversion `14.0.0'
 compiling MethodHandle.c
+couldn't understand kern.osversion `14.0.0'
 compiling Platform.c
+couldn't understand kern.osversion `14.0.0'
 compiling Pointer.c
+couldn't understand kern.osversion `14.0.0'
 compiling Struct.c
+couldn't understand kern.osversion `14.0.0'
 compiling StructByReference.c
+couldn't understand kern.osversion `14.0.0'
 compiling StructByValue.c
+couldn't understand kern.osversion `14.0.0'
 compiling StructLayout.c
+couldn't understand kern.osversion `14.0.0'
 compiling Thread.c
+couldn't understand kern.osversion `14.0.0'
 compiling Type.c
+couldn't understand kern.osversion `14.0.0'
 compiling Types.c
+couldn't understand kern.osversion `14.0.0'
 compiling Variadic.c
+couldn't understand kern.osversion `14.0.0'
 linking shared-object ffi_c.bundle
+couldn't understand kern.osversion `14.0.0'
 
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 ffi_c.bundle ./.gem.20141106-6832-167o5wm
+/usr/bin/install -c -m 0755 ffi_c.bundle ./.gem.20141230-16790-iqrn02
 installing default ffi_c libraries

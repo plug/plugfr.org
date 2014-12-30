@@ -5,6 +5,7 @@ make "DESTDIR=" clean
 
 make "DESTDIR="
 compiling porter.c
+couldn't understand kern.osversion `14.0.0'
 porter.c: In function ‘step1ab’:
 porter.c:233: warning: passing argument 2 of ‘ends’ discards qualifiers from pointer target type
 porter.c:234: warning: passing argument 2 of ‘ends’ discards qualifiers from pointer target type
@@ -100,11 +101,13 @@ porter.c:342: warning: passing argument 2 of ‘ends’ discards qualifiers from
 porter.c:343: warning: passing argument 2 of ‘ends’ discards qualifiers from pointer target type
 porter.c:344: warning: passing argument 2 of ‘ends’ discards qualifiers from pointer target type
 compiling porter_wrap.c
+couldn't understand kern.osversion `14.0.0'
 porter_wrap.c: In function ‘stem_word’:
 porter_wrap.c:30: warning: implicit conversion shortens 64-bit value into a 32-bit value
 porter_wrap.c:20: warning: unused variable ‘i’
 linking shared-object stemmer.bundle
+couldn't understand kern.osversion `14.0.0'
 
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 stemmer.bundle ./.gem.20141106-6831-10ntqb9
+/usr/bin/install -c -m 0755 stemmer.bundle ./.gem.20141230-16790-1k99wkl
 installing default stemmer libraries

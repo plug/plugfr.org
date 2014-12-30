@@ -5,13 +5,20 @@ make "DESTDIR=" clean
 
 make "DESTDIR="
 compiling hitimes.c
+couldn't understand kern.osversion `14.0.0'
 compiling hitimes_instant_clock_gettime.c
+couldn't understand kern.osversion `14.0.0'
 compiling hitimes_instant_osx.c
+couldn't understand kern.osversion `14.0.0'
 compiling hitimes_instant_windows.c
+couldn't understand kern.osversion `14.0.0'
 compiling hitimes_interval.c
+couldn't understand kern.osversion `14.0.0'
 compiling hitimes_stats.c
+couldn't understand kern.osversion `14.0.0'
 linking shared-object hitimes/2.1/hitimes.bundle
+couldn't understand kern.osversion `14.0.0'
 
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 hitimes.bundle ./.gem.20141106-6830-ocrwc1/hitimes/2.1
+/usr/bin/install -c -m 0755 hitimes.bundle ./.gem.20141230-16789-gl4ywf/hitimes/2.1
 installing default hitimes libraries
