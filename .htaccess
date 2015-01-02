@@ -12,10 +12,11 @@ Redirect permanent /pub http://download.tuxfamily.org/plugfr
     RewriteCond %{HTTP_HOST} ^www.plugfr.org$
     RewriteRule ^(.*) http://plugfr.org/$1  [QSA,L,R=301]
 
-    RewriteCond %{QUERY_STRING} ^id_article\=(.+)$
-    RewriteRule ^spip/article.php3$ /r/%1?
-    RewriteCond %{QUERY_STRING} ^id_rubrique\=(.+)$
-    RewriteRule ^spip/rubrique.php3$ /archives/categories.html? [R=301,L]
+    RewriteCond %{QUERY_STRING} id_article=(.+)
+    RewriteRule ^spip/article.php3 /r/%1? [R=301]
+    
+    RewriteCond %{QUERY_STRING} id_rubrique=(.+)
+    RewriteRule ^spip/rubrique.php3 /archives/categories.html? [R=301,L]
 
     RewriteRule 7-mai-2010 /r/167 [R=301,L]
     RewriteRule reunions/1-octobre/ /r/173 [R=301,L]
@@ -24,12 +25,15 @@ Redirect permanent /pub http://download.tuxfamily.org/plugfr
 {% for post in site.posts %}
     {% if post.post_id != null %}RewriteRule ^r/{{ post.post_id }}/?$ {{ post.url }} [R=301,L]{% endif %}
 {% endfor %}
+    RewriteRule ^r/16$ / [R=301,L]
     RewriteRule ^s5(.+) /pub/s5$1 [R=301,L]
     RewriteRule ^r/(57|103)$ /association/mailing-lists.html [R=301,L]
     RewriteRule ^r/93$ /association/statuts.html [R=301,L]
     RewriteRule ^spip/?$ / [R=301,L]
     RewriteRule ^spip/contact.php /contact/ [R=301,L]
     RewriteRule ^spip/backend.php3 /feeds/articles.xml [R=301,L]
+    RewriteRule ^spip/index.php3 / [R=301,L]
+    RewriteRule ^spip/auteur.php3 / [R=301,L]
     RewriteRule ^wiki(.+)? http://wiki.plugfr.org$1 [R=301,L]
     RewriteRule ^list-archives(.+)? http://lists.plugfr.org/archives$1 [R=301,L]
     RewriteRule ^stats/pisg/? http://obelix.gyptis.org/stats/pisg/ [R=301,L]
