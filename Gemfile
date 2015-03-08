@@ -1,4 +1,3 @@
 source 'https://rubygems.org'
 
-gem 'jekyll', '~> 2.5.3'
-# gem 'RedCloth'
+gem 'jekyll', '~> 3.0.0.beta2'

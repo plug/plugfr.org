@@ -41,9 +41,7 @@ J'ai préféré la seconde option, plus "propre" à mon avis. Voyons donc ce qu'
 
 {% highlight bash %}
 #!/bin/sh
-
 ruleset_dir=/var/lib/iptables
-
 case "$1" in
 start)
 echo -n "Loading iptables active ruleset: "
@@ -70,7 +68,6 @@ echo "done."
 echo "Usage: /etc/init.d/iptables *start|stop|restart|force-reload*"
 exit 1
 esac
-
 exit 0
 {% endhighlight %}
 

@@ -1,4 +1,3 @@
-highlighter: pygments
 lsi: false
 permalink: /:categories/:title/
 root_uri: http://plugfr.org
