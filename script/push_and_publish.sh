@@ -2,11 +2,9 @@
 
 set -e
 
-# Push to Github
-git push origin master
+# Push
 
-# Push to the Tuxfamily mirror
-git push tuxfamily master
+./script/push.sh
 
 # Publish
 
