@@ -2,6 +2,7 @@ lsi: false
 permalink: /:categories/:title/
 root_uri: http://plugfr.org
 timezone: Europe/Paris
+full_rebuild: true
 include:
   - .htaccess
 exclude:
