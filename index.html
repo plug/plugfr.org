@@ -16,7 +16,7 @@ title: PLUG &ndash; Provence Linux User Group
   <article itemscope itemtype="http://data-vocabulary.org/Event" {% if post.event.location == 'laboate' %} itemref="laboate-location"{% endif %}>
     <header>
       <h2><a href="{{ post.url }}" itemprop="url"><span itemprop="summary">{{ post.title }}</span></a></h2>
-      <p>publié le <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%d %B %Y" }}</time> dans <a href="/archives/categories.html" class="category">{{ post.categories }}</a>{% if post.author != null %} écrit par {{post.author}}{% endif %}{% if post.post_id != null %} - <a href="{{ site.root_uri }}/r/{{ post.post_id }}" rel="shorturl" title="Pratique pour copier/coller dans un tweet, un statut facebook, …">lien court</a>{% endif %}</p>
+      <p>publié le <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%d %B %Y" }}</time> dans <a href="/archives/categories/" class="category">{{ post.categories }}</a>{% if post.author != null %} écrit par {{post.author}}{% endif %}{% if post.post_id != null %} - <a href="{{ site.root_uri }}/r/{{ post.post_id }}" rel="shorturl" title="Pratique pour copier/coller dans un tweet, un statut facebook, …">lien court</a>{% endif %}</p>
       <time itemprop="startDate" datetime="{{ post.event.start | date_to_xmlschema }}"></time>
       {% if post.event.location == 'iut-aix' %}
         {% include iut-aix.html %}
@@ -32,7 +32,7 @@ title: PLUG &ndash; Provence Linux User Group
   {% endfor %}
 
   <nav class="articles-nav">
-    <p>&larr; voir les <a href="/archives/dates.html" rel="archives" title="Archives des articles">articles plus anciens</a></p>
+    <p>&larr; voir les <a href="/archives/dates/" rel="archives" title="Archives des articles">articles plus anciens</a></p>
   </nav>
 </div>
 

@@ -1,6 +1,6 @@
 User-agent: *
-Disallow: /contact/ok.html
-Disallow: /contact/error.html
+Disallow: /contact/ok/
+Disallow: /contact/error/
 Disallow: /spip-1.9.2/
 Disallow: /spip/breve*
 Disallow: /spip/forum*

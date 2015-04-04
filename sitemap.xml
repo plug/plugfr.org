@@ -16,19 +16,19 @@ layout: nil
       <priority>0.8</priority>
    </url>
    <url>
-      <loc>{{site.root_uri}}//association/a-propos.html</loc>
+      <loc>{{site.root_uri}}//association/a-propos/</loc>
       <lastmod>{{ site.time | date: '%Y-%m-%d' }}</lastmod>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
    </url>
    <url>
-      <loc>{{site.root_uri}}//association/historique.html</loc>
+      <loc>{{site.root_uri}}//association/historique/</loc>
       <lastmod>{{ site.time | date: '%Y-%m-%d' }}</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
    </url>
    <url>
-      <loc>{{site.root_uri}}//association/mailing-lists.html</loc>
+      <loc>{{site.root_uri}}//association/mailing-lists/</loc>
       <lastmod>{{ site.time | date: '%Y-%m-%d' }}</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.8</priority>
@@ -40,19 +40,19 @@ layout: nil
       <priority>0.5</priority>
    </url>
    <url>
-      <loc>{{site.root_uri}}//association/statuts.html</loc>
+      <loc>{{site.root_uri}}//association/statuts/</loc>
       <lastmod>{{ site.time | date: '%Y-%m-%d' }}</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.5</priority>
    </url>
    <url>
-      <loc>{{site.root_uri}}/archives/dates.html</loc>
+      <loc>{{site.root_uri}}/archives/dates/</loc>
       <lastmod>{{ site.time | date: '%Y-%m-%d' }}</lastmod>
       <changefreq>daily</changefreq>
       <priority>1</priority>
    </url>
    <url>
-      <loc>{{site.root_uri}}/archives/categories.html</loc>
+      <loc>{{site.root_uri}}/archives/categories/</loc>
       <lastmod>{{ site.time | date: '%Y-%m-%d' }}</lastmod>
       <changefreq>daily</changefreq>
       <priority>1</priority>

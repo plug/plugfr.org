@@ -80,7 +80,7 @@ def transform_spip(text)
   text.gsub!(/&/, '&amp;')
   text.gsub!(/La Bo\[a\]\(\)te/, "La Bo\[a\]te")
   
-  text.gsub!(/\(rub1\)/, '(/archives/categories.html#reunions)')
+  text.gsub!(/\(rub1\)/, '(/archives/categories/#reunions)')
   text.gsub!(/\(art2\)/, '(/association/les-reunions-du-plug/)')
   text
 end

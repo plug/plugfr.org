@@ -1,19 +1,19 @@
 <nav id="main-nav" class="grid_3 pull_9">
   <div id="about" class="nav-block">
-    <a href="/association/a-propos.html">à propos du PLUG</a>
+    <a href="/association/a-propos/">à propos du PLUG</a>
   </div>
   <div id="nav-mailing-lists" class="nav-block">
     <h3>listes par e-mail</h3>
     abonnez-vous aux listes publiques
     <ul>
-      <li><a href="/association/mailing-lists.html#plug-list">les annonces de l'association</a></li>
-      <li><a href="/association/mailing-lists.html#plug-discuss">les discussions courantes</a></li>
-      <li><a href="/association/mailing-lists.html#plug-tech">les discussions techniques</a></li>
+      <li><a href="/association/mailing-lists/#plug-list">les annonces de l'association</a></li>
+      <li><a href="/association/mailing-lists/#plug-discuss">les discussions courantes</a></li>
+      <li><a href="/association/mailing-lists/#plug-tech">les discussions techniques</a></li>
     </ul>
   </div>
   <div id="nav-irc" class="nav-block">
     <h3>canal <abbr title="Internet Relay Chat">IRC</abbr></h3>
-    retrouvez nous à <a href="/association/irc.html">#plugfr sur Freenode</a>
+    retrouvez nous à <a href="/association/irc/">#plugfr sur Freenode</a>
   </div>
   <div id="nav-misc" class="nav-block">
     <h3>et aussi</h3>
@@ -40,16 +40,16 @@
       <h4>par catégories</h4>
       <ul id="archives-categories">
       {% if site.categories.informations.size > 0 %}
-        <li><a href="/archives/categories.html#informations" title="les articles de la catégorie 'informations'" rel="archives">informations</a></li>
+        <li><a href="/archives/categories/#informations" title="les articles de la catégorie 'informations'" rel="archives">informations</a></li>
       {% endif %}
       {% if site.categories.reunions.size > 0 %}
-        <li><a href="/archives/categories.html#reunions" title="les articles de la catégorie 'réunions'" rel="archives">réunions</a></li>
+        <li><a href="/archives/categories/#reunions" title="les articles de la catégorie 'réunions'" rel="archives">réunions</a></li>
       {% endif %}
       {% if site.categories.emploi.size > 0 %}
-        <li><a href="/archives/categories.html#emploi" title="les articles de la catégorie 'emploi'" rel="archives">emploi</a></li>
+        <li><a href="/archives/categories/#emploi" title="les articles de la catégorie 'emploi'" rel="archives">emploi</a></li>
       {% endif %}
       {% if site.categories.divers.size > 0 %}
-        <li><a href="/archives/categories.html#divers" title="les articles de la catégorie 'divers'" rel="archives">divers</a></li>
+        <li><a href="/archives/categories/#divers" title="les articles de la catégorie 'divers'" rel="archives">divers</a></li>
       {% endif %}
       </ul>
     </div>
@@ -60,7 +60,7 @@
       {% for post in site.posts %}
         {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
         {% if year != year_prev %}
-          <li><a href="/archives/dates.html#{{ year }}" title="les articles publiés en {{ year }}" rel="archives">{{ year }}</a></li>
+          <li><a href="/archives/dates/#{{ year }}" title="les articles publiés en {{ year }}" rel="archives">{{ year }}</a></li>
         {% endif %}
         {% assign year_prev = year %}
       {% endfor %}

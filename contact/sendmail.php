@@ -73,8 +73,8 @@ $mailer->subject      = "[PLUG] Contact par le site";
 $mailer->message      = $body;
       
 if ($mailer->send()) {
-  header('Location: /contact/ok.html');
+  header('Location: /contact/ok/');
 } else {
-  header('Location: /contact/error.html');
+  header('Location: /contact/error/');
 }
 ?>

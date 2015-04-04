@@ -6,7 +6,7 @@ post_id: 2
 ---
 ### C'est quand ? ###
 
-Les réunions ont lieu le **premier vendredi du mois**, sauf exception. Pour avoir une confirmation, venez voir sur ce site quelques jours dans la rubrique [Réunions](/archives/categories.html#reunions).
+Les réunions ont lieu le **premier vendredi du mois**, sauf exception. Pour avoir une confirmation, venez voir sur ce site quelques jours dans la rubrique [Réunions](/archives/categories/#reunions).
 
 Les réunions débutent à 19h et se finissent souvent après minuit. Néanmoins, chacun peut venir aux horaires qui lui convient sachant que les pizzas sont dégustées vers 20h30 et que les éventuelles activités se déroulent vers 21h.
 
@@ -35,4 +35,4 @@ Vous pouvez participer aux réunions sans être [adhérant](/r/31). Les réunion
 ----
 Maintenant que vous savez tout, vous n'avez aucune excuse pour ne pas venir !
 
-Vous trouverez [ici](/association/historique.html) une description des réunions écrite en 1997.
+Vous trouverez [ici](/association/historique/) une description des réunions écrite en 1997.

@@ -22,13 +22,13 @@ Il existe deux types d'exposés :
 - exposé technique
 
 
-Toute personne, adhérante ou non, peut proposer une présentation lors d'une réunion. Il suffit de contacter les membres du bureau directement par mail <contact@plugfr.org> ou grâce aux [listes de diffusion](/association/mailing-lists.html)
+Toute personne, adhérante ou non, peut proposer une présentation lors d'une réunion. Il suffit de contacter les membres du bureau directement par mail <contact@plugfr.org> ou grâce aux [listes de diffusion](/association/mailing-lists/)
 
 ### Participer aux discussions électroniques ###
 
 Voici les deux types de communication qui fonctionnent au PLUG :
 
-#### [listes de diffusion](/association/mailing-lists.html) ####
+#### [listes de diffusion](/association/mailing-lists/) ####
 
 Il est encouragé, dans la mesure du possible, à participer aux listes de diffusion en lisant les messages mais aussi en répondant ou postant de nouveaux messages. Il est apprécié que les nouveaux abonnés se présentent brièvement.
 
@@ -44,6 +44,6 @@ Vous pouvez adhérer au PLUG. Voir tous les détails sur l'article [Comment adh�
 
 ### Toutes les initiatives sont bienvenues ###
 
-Si vous avez de nouvelles idées pour le PLUG, des projets liés à la promotion de Linux et des logiciels libres, ou encore des propositions de collaboration avec d'autres associations, n'hésitez à nous informer par le [formulaire de contact](/contact/) ou grâce aux [listes de diffusion](/association/mailing-lists.html)
+Si vous avez de nouvelles idées pour le PLUG, des projets liés à la promotion de Linux et des logiciels libres, ou encore des propositions de collaboration avec d'autres associations, n'hésitez à nous informer par le [formulaire de contact](/contact/) ou grâce aux [listes de diffusion](/association/mailing-lists/)
 
 
