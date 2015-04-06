@@ -4,7 +4,8 @@ layout: post
 categories: reunions
 post_id: 72
 ---
-A partir de 20:00 
+
+A partir de 20:00
 
 ### Lieu ###
 
