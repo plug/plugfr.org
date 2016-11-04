@@ -6,7 +6,7 @@ set -e
 rm -rf _site
 mkdir _site
 
-bin/jekyll build
+bundle exec jekyll build
 
 echo "Remove empty lines from generated files"
 ./script/remove_empty_lines.sh
@@ -28,4 +28,3 @@ REMOTE=plug@ssh.tuxfamily.org
 rsync -aH --exclude=.git --delete-excluded --delete _site/ ${REMOTE}:plugfr/plugfr.org-web/htdocs/
 
 echo "Site uploaded to 'TuxFamily' : http://plugfr.org/"
-
