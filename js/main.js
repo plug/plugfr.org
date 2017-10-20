@@ -3,7 +3,7 @@ $('a[href][rel="external"]').live('click', function() {
   return false;
 });
 
-jQuery(document).ready(function($) {
+Zepto(document).ready(function($) {
   $('.mel').each(function (i) {
     var temp = $(this).html();
     temp = temp.replace(/\/\//g,"@");
