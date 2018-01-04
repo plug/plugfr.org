@@ -27,4 +27,4 @@ REMOTE=plug@ssh.tuxfamily.org
 
 rsync -aH --exclude=.git --delete-excluded --delete _site/ ${REMOTE}:plugfr/plugfr.org-web/htdocs/
 
-echo "Site uploaded to 'TuxFamily' : http://plugfr.org/"
+echo "Site uploaded to 'TuxFamily' : https://plugfr.org/"
