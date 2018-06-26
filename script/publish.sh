@@ -6,7 +6,7 @@ set -e
 rm -rf _site
 mkdir _site
 
-bundle exec jekyll build
+bin/jekyll build
 
 echo "Remove empty lines from generated files"
 ./script/remove_empty_lines.sh
