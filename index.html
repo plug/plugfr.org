@@ -5,7 +5,7 @@ title: PLUG &ndash; Provence Linux User Group
 <article id="sticky">
   <header>
     <h2>
-      <a href="/reunions/12-octobre-2018/">Prochaine réunion : vendredi 12 octobre</a>
+      <a href="/reunions/9-novembre-2018/">Prochaine réunion : vendredi 9 novembre</a>
     </h2>
   </header>
 
@@ -27,6 +27,12 @@ title: PLUG &ndash; Provence Linux User Group
       {% if post.event.location == 'fabulerie' %}
         {% include fabulerie.html %}
       {% endif %}
+      {% if post.event.location == 'urbanprod' %}
+        {% include urbanprod.html %}
+      {% endif %}
+      {% if post.event.location == 'lewagon' %}
+        {% include lewagon.html %}
+      {% endif %}
     </header>
   </article>
   {% endfor %}
@@ -39,6 +45,6 @@ title: PLUG &ndash; Provence Linux User Group
 <div class="grid_3 omega">
   <aside id="tweets">
     <a class="twitter-timeline" href="https://twitter.com/plugfr" data-widget-id="350988522058035200">Les derniers tweets de @plugfr</a>
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+    <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
   </aside>
 </div>
