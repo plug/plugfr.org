@@ -12,8 +12,14 @@ layout: default
     {% if page.event.location == 'pavillon-m' %}
       {% include pavillon-m.html %}
     {% endif %}
-    {% if page.event.location == 'fabulerie' %}
-      {% include fabulerie.html %}
+    {% if page.event.location == 'lafabulerie' %}
+      {% include lafabulerie.html %}
+    {% endif %}
+    {% if page.event.location == 'lewagon' %}
+      {% include lewagon.html %}
+    {% endif %}
+    {% if page.event.location == 'urbanprod' %}
+      {% include urbanprod.html %}
     {% endif %}
   </header>
   {{ content }}
