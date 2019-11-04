@@ -1,3 +1,5 @@
 /_site/
+/_site.bak/
 .jekyll-metadata
+.jekyll-cache
 /bundle

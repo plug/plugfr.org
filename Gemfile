@@ -1,4 +1,3 @@
 source 'https://rubygems.org'
 
-gem 'jekyll', '~> 3.2.0'
-gem 'rouge'
+gem 'jekyll', '~> 4.0'
