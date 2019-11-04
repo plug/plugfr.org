@@ -19,4 +19,4 @@ Poste à pourvoir dès que possible, en centre ville à Marseille, à temps plei
 Rémunération à négocier selon expérience, références, …
 
 Contact :  
-Jérémy Lecour (<jeremy.lecour@gmail.com>)
+Jérémy Lecour ({{ 'jeremy.lecour@gmail.com' | create_mailto_link }})

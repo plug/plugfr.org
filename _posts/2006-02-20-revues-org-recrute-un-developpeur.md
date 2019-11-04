@@ -49,4 +49,4 @@ Revues.org fait partie du Laboratoire d'édition électronique ouverte, qui est 
 
 **ENVOYER SA CANDIDATURE**
 
-Ecrire à <editionelectronique@ehess.fr>
+Ecrire à {{ 'editionelectronique@ehess.fr' | create_mailto_link }}

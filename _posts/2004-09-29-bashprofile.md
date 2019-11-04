@@ -18,5 +18,5 @@ Je vais mettre en place un lien vers votre site également.
 
 merci à vous
 
-- <marcbey@bashprofile.net> 
+- {{ 'marcbey@bashprofile.net' | create_mailto_link }} 
 - <http://www.bashprofile.net>

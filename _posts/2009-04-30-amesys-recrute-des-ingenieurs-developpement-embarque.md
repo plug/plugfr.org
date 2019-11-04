@@ -14,6 +14,6 @@ Anglais obligatoire.
 
 Si ces projets vous intéressent, merci de me contacter:
 > Nicolas Viala  
-> <n.viala@amesys.fr>  
+> {{ 'n.viala@amesys.fr' | create_mailto_link }}  
 > 06 77 64 15 35
 

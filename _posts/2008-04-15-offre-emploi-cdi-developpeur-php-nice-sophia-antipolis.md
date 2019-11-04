@@ -24,7 +24,7 @@ Au sein de notre équipe, vous participez aux développements et améliorez les 
 - Type de contrat : CDI
 - Lieu de travail : Alpes Maritimes - Nice - Sophia Antipolis
 
-Candidature : adresser CV + lettre motivation à <rh@e-toxic.fr> 
+Candidature : adresser CV + lettre motivation à {{ 'rh@e-toxic.fr' | create_mailto_link }} 
 
 Date de disponibilité souhaitée : mai 2008
 

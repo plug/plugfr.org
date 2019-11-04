@@ -24,4 +24,4 @@ Orange (initié)
 
 ### Animateur ###
 
-Alexandre Anriot (<aanriot@atlantilde.com>)
+Alexandre Anriot ({{ 'aanriot@atlantilde.com' | create_mailto_link }})

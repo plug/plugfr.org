@@ -46,5 +46,5 @@ Permanent position
 **Location**: UK near London.
 
 **Contact** Daniel SEMPORE
-<d.sempore@eurolondon.com>
+{{ 'd.sempore@eurolondon.com' | create_mailto_link }}
 0044 17 53 499 546.

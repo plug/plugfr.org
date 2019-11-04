@@ -32,6 +32,6 @@ Orange (averti)
 
 ### Animateurs ###
 
-Alexandre Anriot (<aanriot@atlantilde.com>) et Aldo LaClasse
+Alexandre Anriot ({{ 'aanriot@atlantilde.com' | create_mailto_link }}) et Aldo LaClasse
 
 

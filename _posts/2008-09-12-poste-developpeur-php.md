@@ -16,4 +16,4 @@ Voici le profil de développeur recherché :
 - Diplôme : BAC+2
 - Lieu de travail : Marseille
 
-Le poste est à pourvoir dès que possible. Pour plus de renseignements, contacter Nicolas Durut (<nico@cybercartes.com>)
+Le poste est à pourvoir dès que possible. Pour plus de renseignements, contacter Nicolas Durut ({{ 'nico@cybercartes.com' | create_mailto_link }})

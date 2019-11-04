@@ -15,3 +15,6 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - plugfr.org.tmproj
+kramdown:
+  # needed to keep encoded email addresses
+  entity_output: :as_input

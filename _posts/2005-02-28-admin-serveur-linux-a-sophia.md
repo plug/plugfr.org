@@ -20,4 +20,4 @@ Fax : 04 92 28 70 00
 
 Gsm: 06 13 60 49 52 
 
-Email : <wquevillard@ausy.fr>
+Email : {{ 'wquevillard@ausy.fr' | create_mailto_link }}
