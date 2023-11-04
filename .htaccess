@@ -8,6 +8,11 @@ Redirect permanent /pub http://download.tuxfamily.org/plugfr
 <IfModule mod_rewrite.c>
     RewriteEngine On
 
+    RewriteCond %{HTTPS} !=on
+    RewriteCond %{HTTP:X-Forwarded-Proto} !=https
+    RewriteCond %{REQUEST_URI} !^/.well-known/
+    RewriteRule ^ https://%{HTTP:Host}%{REQUEST_URI} [L,R=permanent]
+
     RewriteCond %{HTTP_HOST} ^www.plugfr.org$
     RewriteRule ^(.*) http://plugfr.org/$1  [QSA,L,R=301]
 
