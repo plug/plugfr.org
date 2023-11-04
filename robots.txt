@@ -6,3 +6,14 @@ Disallow: /spip/breve*
 Disallow: /spip/forum*
 Disallow: /kdist/
 Disallow: /map/
+# Block OpenAI
+User-agent: ChatGPT-User
+Disallow: /
+User-agent: GPTBot
+Disallow: /
+# Block Common Crawl
+User-agent: CCBot
+Disallow: /
+# Block Google Bard
+User-agent: Google-Extended
+Disallow: /
