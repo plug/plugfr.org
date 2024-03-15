@@ -5,7 +5,7 @@ title: PLUG &ndash; Provence Linux User Group
 <article id="sticky">
   <header>
     <h2>
-      <a href="/reunions/2-fevrier-2024/">Soirée mensuelle le 2 février 2024</a>
+      <a href="/reunions/15-mars-2024/">Soirée mensuelle le 15 mars 2024</a>
     </h2>
   </header>
 
@@ -13,7 +13,7 @@ title: PLUG &ndash; Provence Linux User Group
 
 <div class="grid_6 alpha">
   {% for post in site.posts limit:10 %}
-  <article itemscope itemtype="http://data-vocabulary.org/Event" {% if post.event.location == 'laboate' %} itemref="laboate-location"{% endif %}>
+  <article itemscope itemtype="http://data-vocabulary.org/Event" {% if post.event.location == 'labase' %} itemref="labase-location"{% endif %}>
     <header>
       <h2><a href="{{ post.url }}" itemprop="url"><span itemprop="summary">{{ post.title }}</span></a></h2>
       <p>publié le <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%d %B %Y" }}</time> dans <a href="/archives/categories/" class="category">{{ post.categories }}</a>{% if post.author != null %} écrit par {{post.author}}{% endif %}{% if post.post_id != null %} - <a href="{{ site.root_uri }}/r/{{ post.post_id }}" rel="shorturl" title="Pratique pour copier/coller dans un tweet, un statut facebook, …">lien court</a>{% endif %}</p>
