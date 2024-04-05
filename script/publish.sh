@@ -21,10 +21,15 @@ if [ -f $sitemap ]; then
 fi
 
 
-# Check if we have an access on remote server, so users without access can run this script without "real" error
-REMOTE=plug@ssh.tuxfamily.org
-# ssh -q -o "BatchMode=yes" ${REMOTE} "echo 2>&1 >/dev/null"
+# # Check if we have an access on remote server, so users without access can run this script without "real" error
+# REMOTE=plug@ssh.tuxfamily.org
+# # ssh -q -o "BatchMode=yes" ${REMOTE} "echo 2>&1 >/dev/null"
 
-rsync -aH --exclude=.git --delete-excluded --delete _site/ ${REMOTE}:plugfr/plugfr.org-web/htdocs/
+# rsync -aH --exclude=.git --delete-excluded --delete _site/ ${REMOTE}:plugfr/plugfr.org-web/htdocs/
 
-echo "Site uploaded to 'TuxFamily' : https://plugfr.org/"
+# echo "Site uploaded to 'TuxFamily' : https://plugfr.org/"
+
+
+REMOTE=plug@hosting10.evolix.net
+rsync -aH --exclude=.git --delete-excluded --delete _site/ ${REMOTE}:www/
+echo "Site uploaded to 'Evolix hosting10' : https://plugfr.org/"
