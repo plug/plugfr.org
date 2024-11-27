@@ -54,6 +54,10 @@ class MicroMailer{
   }
 }
 
+if (!isset($_POST['captcha']) or trim(strtolower($_POST['captcha'])) != "linux") {
+  header('Location: /contact/error/');
+}
+
 $mailer = new MicroMailer();
 
 $body  = "Nom    : ".(isset($_POST['nom']) ? $_POST['nom'] : "{pas de nom}");
