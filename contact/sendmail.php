@@ -18,6 +18,8 @@
 //
 //***************************************************************************** 
 
+die();
+
 class MicroMailer{
   var $to         = "";
   var $subject    = "";
@@ -52,10 +54,6 @@ class MicroMailer{
     $this->header = $from.$replay.$params;
     return $this->header;
   }
-}
-
-if (!isset($_POST['captcha']) or trim(strtolower($_POST['captcha'])) != "linux") {
-  header('Location: /contact/error/');
 }
 
 $mailer = new MicroMailer();
