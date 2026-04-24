@@ -6,9 +6,10 @@ set -e
 rm -rf _site
 mkdir _site
 
-bin/jekyll build
+echo "Building site"
+bin/jekyll build --quiet
 
-echo "Remove empty lines from generated files"
+echo "Removing empty lines from generated files"
 ./script/remove_empty_lines.sh
 
 sitemap='_site/sitemap.xml'

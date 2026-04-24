@@ -23,7 +23,7 @@ remove_empty_lines ()
 }
 
 (
-  cd _site
+  cd _site > /dev/null
 
   EXT="html|xml|css|js|htaccess"
 
@@ -38,7 +38,7 @@ remove_empty_lines ()
 
   find ${CMD_FIND_OPT_BSD} . -path "./pub" -prune -o ${CMD_FIND_OPT_LNX} -regex ".*\.(${EXT})$" -print  | while read F
   do
-    echo "    $F"
+    # echo "    $F"
     remove_empty_lines "$F"
   done
 )
